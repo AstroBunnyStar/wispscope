@@ -1,0 +1,9 @@
+[
+  {"url":"wss://anura.pro/","name":"Anura","source":"wisp-proxy-list"},
+  {"url":"wss://wisp.mercurywork.shop/","name":"Mercury Workshop","source":"wisp-proxy-list"},
+  {"url":"wss://wisp.webmc.xyz/","name":"WebMC","source":"wisp-proxy-list"},
+  {"url":"wss://purnhab68-gitea.hf.space/","name":"purnhab68","source":"wisp-proxy-list"},
+  {"url":"wss://glseries.net/wisp/","name":"GLSeries","source":"staticsjv2"},
+  {"url":"wss://d11zfagyzg18az.cloudfront.net/wisp/","name":"ojjyProxy backup","source":"ojjyProxy"},
+  {"url":"wss://relay.widgetry.org/","name":"Widgetry","source":"AnuraOS config"}
+]

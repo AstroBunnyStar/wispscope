@@ -1,0 +1,18 @@
+[
+  {"url":"wss://relay.sekta-classes.online/wisp/","name":"sekta wisp"},
+  {"url":"wss://relay.sekta-classes.online/","name":"sekta root"},
+  {"url":"wss://relay.rybakit.ru/","name":"rybakit relay"},
+  {"url":"wss://xn--k9jwb.pxxlspace.cv/wisp/","name":"unblockedzone wisp"},
+  {"url":"wss://xn--k9jwb.pxxlspace.cv/api/wisp/","name":"unblockedzone api"},
+  {"url":"wss://win98run.app/wisp/","name":"win98 wisp"},
+  {"url":"wss://win98run.app/api/wisp/","name":"win98 api"},
+  {"url":"wss://myproxy-zeta.vercel.app/wisp/","name":"myproxy wisp"},
+  {"url":"wss://myproxy-zeta.vercel.app/api/wisp/","name":"myproxy api"},
+  {"url":"wss://shasta-dtg.pages.dev/wisp/","name":"shasta wisp"},
+  {"url":"wss://horizon-riptide.vercel.app/wisp/","name":"horizon wisp"},
+  {"url":"wss://nex-velo.vercel.app/wisp/","name":"nexvelo wisp"},
+  {"url":"wss://scraped-delta.vercel.app/wisp/","name":"scraped wisp"},
+  {"url":"wss://theexpie.github.io/Splooshi/wisp/","name":"splooshi wisp"},
+  {"url":"wss://igncoupe.github.io/coupeweb/wisp/","name":"coupeweb wisp"},
+  {"url":"wss://ltorl.github.io/peekaboom-proxy/wisp/","name":"peekaboom wisp"}
+]

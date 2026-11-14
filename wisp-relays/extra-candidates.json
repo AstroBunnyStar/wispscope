@@ -1,0 +1,352 @@
+[
+  {
+    "url": "wss://username:password@endpoint",
+    "name": "oxylabs/agent-browser",
+    "source": "extra"
+  },
+  {
+    "url": "ws://192.168.1.10/ws",
+    "name": "johnlauer/serial-port-json-server",
+    "source": "extra"
+  },
+  {
+    "url": "wss://",
+    "name": "SuperNova-Network/SuperNova-OS",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.widgetry.org/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "extra"
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net,Eaglercraft",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "extra"
+  },
+  {
+    "url": "wss://host:port",
+    "name": "AndrewLo42/lane-of-legends",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp-signal",
+    "name": "domeepc/wisp",
+    "source": "extra"
+  },
+  {
+    "url": "wss://volutus-relay",
+    "name": "kashikoi/Volutus",
+    "source": "extra"
+  },
+  {
+    "url": "wss://volutus-relay.nimbus-sync.workers.dev",
+    "name": "kashikoi/Volutus",
+    "source": "extra"
+  },
+  {
+    "url": "wss://backend-ivvq.onrender.com/wisp/",
+    "name": "viztrrx/scramjet-backend",
+    "source": "extra"
+  },
+  {
+    "url": "wss://goarxyz-wisp.goarxyz.workers.dev/wisp",
+    "name": "cxyz22x/goarxyz-watch-play-listen",
+    "source": "extra"
+  },
+  {
+    "url": "wss://ibrawlswebapp.commando501.workers.dev/ws",
+    "name": "Commando501/iBrawlsWebApp",
+    "source": "extra"
+  },
+  {
+    "url": "wss://satona-wisp-browser-20261005.satona.workers.dev/wisp/",
+    "name": "Neon-VR/satona-source",
+    "source": "extra"
+  },
+  {
+    "url": "wss://nlc-relay",
+    "name": "teteekoue/Nem_Linux_Container",
+    "source": "extra"
+  },
+  {
+    "url": "wss://skerry-light.onrender.com/ws'",
+    "name": "OotBoot/skerry-light",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.fountain.fm",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "extra"
+  },
+  {
+    "url": "ws://host:8787",
+    "name": "erik-t-irgens/swg3js",
+    "source": "extra"
+  },
+  {
+    "url": "ws://192.168.1.20:8787",
+    "name": "erik-t-irgens/swg3js",
+    "source": "extra"
+  },
+  {
+    "url": "ws://192.168.1.20:8787&word=mos-eisley",
+    "name": "erik-t-irgens/swg3js",
+    "source": "extra"
+  },
+  {
+    "url": "ws://host:8787'",
+    "name": "erik-t-irgens/swg3js",
+    "source": "extra"
+  },
+  {
+    "url": "ws://HOST:8090/",
+    "name": "0magnet/websh",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.groups.nip29.com",
+    "name": "aljazceru/awesome-nostr",
+    "source": "extra"
+  },
+  {
+    "url": "wss://public.relaying.io",
+    "name": "fiatjaf/nak",
+    "source": "extra"
+  },
+  {
+    "url": "wss://pyramid.fiatjaf.com",
+    "name": "fiatjaf/nak",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.whatever.com;root;a9e0f110f636f3191644110c19a33448daf09d7cda9708a769e91b7e91340208'",
+    "name": "fiatjaf/nak",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.whatever.com",
+    "name": "fiatjaf/nak",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/wisp/&username=whatever",
+    "name": "zaka13alt/7kX4p",
+    "source": "extra"
+  },
+  {
+    "url": "wss://host/ws",
+    "name": "arianna-arpg/hollow-wake-mmo",
+    "source": "extra"
+  },
+  {
+    "url": "wss://host",
+    "name": "Js23321/Eagler",
+    "source": "extra"
+  },
+  {
+    "url": "wss://ellan.site/tunnel",
+    "name": "JohnComputers/lunar-eagler-bridge",
+    "source": "extra"
+  },
+  {
+    "url": "wss://yourdomain/wisp/",
+    "name": "cocaine4kids35/nimbus",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.boety.fun/wisp/",
+    "name": "TheToxicDog/wisp.boety.fun",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp/",
+    "name": "Deathstrider512/SPLASH",
+    "source": "extra"
+  },
+  {
+    "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/",
+    "name": "random-school-stuff/keystone",
+    "source": "extra"
+  },
+  {
+    "url": "wss://host/wisp/",
+    "name": "random-school-stuff/keystone",
+    "source": "extra"
+  },
+  {
+    "url": "wss://longafellow.onrender.com/wisp/",
+    "name": "yeezeedonthavekids-gif/longafellow",
+    "source": "extra"
+  },
+  {
+    "url": "wss://anura.pro/wisp/",
+    "name": "brysona320-coder/webvm2.0",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.rhw.one/",
+    "name": "wl-unblock/MIN-wlyt-Plus",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop'",
+    "name": "Bubbergamesites/Mini",
+    "source": "extra"
+  },
+  {
+    "url": "wss://host/path",
+    "name": "kekxv/kcode",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisper.gost.run:443",
+    "name": "go-gost/mcp",
+    "source": "extra"
+  },
+  {
+    "url": "ws://192.168",
+    "name": "ltorl/peekaboom-proxy",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.rybakit.ru/",
+    "name": "jms64qr/ab",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relay.sekta-classes.online/wisp/",
+    "name": "sektanaymikon/sekta-network",
+    "source": "extra"
+  },
+  {
+    "url": "ws://wisp-gateway.local/",
+    "name": "Night-N3twork/MoonBeam",
+    "source": "extra"
+  },
+  {
+    "url": "wss://gointospace.app/wisp/'",
+    "name": "Night-N3twork/MoonBeam",
+    "source": "extra"
+  },
+  {
+    "url": "wss://wisp.mercurywork.sh/",
+    "name": "bundle2:malmox.vercel.app",
+    "source": "extra"
+  },
+  {
+    "url": "ws://$",
+    "name": "bundle2:cat-xqlq.onrender.com",
+    "source": "extra"
+  },
+  {
+    "url": "wss://','startsWith','accept','top','",
+    "name": "bundle3:shasta-dtg.pages.dev",
+    "source": "extra"
+  },
+  {
+    "url": "ws://.'",
+    "name": "bundle3:igncoupe.github.io",
+    "source": "extra"
+  },
+  {
+    "url": "ws://",
+    "name": "bundle3:h2n07.github.io",
+    "source": "extra"
+  },
+  {
+    "url": "wss://english-studies.bonto.run/",
+    "name": "zaka13alt/wisp-js",
+    "source": "extra"
+  },
+  {
+    "url": "wss://scramjet-server-wisp-node.vercel.app",
+    "name": "bendover111222333444/scramjet-server-wisp-node",
+    "source": "extra"
+  },
+  {
+    "url": "wss://erikkarasek.cz",
+    "name": "ErikKarasek/wisp",
+    "source": "extra"
+  },
+  {
+    "url": "wss://www.npmjs.com/package/dlpcc",
+    "name": "QuiteAFancyEmerald/Donglalu-Proxy-The-Second-Coming",
+    "source": "extra"
+  },
+  {
+    "url": "wss://relayy-hhg-2026-x-wispr-flow.vercel.app",
+    "name": "Ayushi-begin/Relayy-HHG-2026-X-WisprFlow-",
+    "source": "extra"
+  },
+  {
+    "url": "wss://docs.wispprotocol.com/",
+    "name": "LimeChain/wisp",
+    "source": "extra"
+  },
+  {
+    "url": "wss://eaglercraftclients.pages.dev/",
+    "name": "ndirmn3/Eaglercraft-Clients",
+    "source": "extra"
+  },
+  {
+    "url": "wss://dhyeybg.github.io/wispcraft-injector/",
+    "name": "DhyeyBG/wispcraft-injector",
+    "source": "extra"
+  },
+  {
+    "url": "wss://stomp.fracit.al",
+    "name": "Fracital/powerMouse",
+    "source": "extra"
+  },
+  {
+    "url": "wss://cat-xqlq.onrender.com/",
+    "name": "zayd-the-gr8/isle",
+    "source": "extra"
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/",
+    "name": "kiyuwww/proxy",
+    "source": "extra"
+  },
+  {
+    "url": "wss://shifter.io/web-proxy",
+    "name": "shifter-io/web-proxy",
+    "source": "extra"
+  },
+  {
+    "url": "wss://red-wire.org",
+    "name": "RRedwire/red-wire",
+    "source": "extra"
+  },
+  {
+    "url": "wss://pgis-wisp.joytree.site",
+    "name": "0800WebDev/PGIS-wisp",
+    "source": "extra"
+  },
+  {
+    "url": "wss://thaikolja.github.io/wispr-proxyflow/",
+    "name": "thaikolja/wispr-proxyflow",
+    "source": "extra"
+  },
+  {
+    "url": "wss://electrical-beta.vercel.app",
+    "name": "isouresh/hello",
+    "source": "extra"
+  },
+  {
+    "url": "wss://sites.google.com/view/cornunblocked/self-hosting/replit-setup-wisp",
+    "name": "corn-unblocked/cornng-backend-wisp",
+    "source": "extra"
+  }
+]

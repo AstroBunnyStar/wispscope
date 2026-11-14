@@ -1,0 +1,10 @@
+[
+  {"url":"wss://fern.best/","name":"fern root"},
+  {"url":"wss://fern.best/wisp/","name":"fern /wisp/"},
+  {"url":"wss://vibeos.sh/api/wisp","name":"vibeos api wisp"},
+  {"url":"wss://vibeos.sh/api/wisp/","name":"vibeos api wisp slash"},
+  {"url":"wss://api.antarctic.games/wisp/","name":"antarctic games"},
+  {"url":"wss://caffeine4-production.up.railway.app/wisp/","name":"caffeine4 railway"},
+  {"url":"wss://wisp.mercurywork.shop/v86/","name":"mercury v86"},
+  {"url":"wss://glseries.net/wisp/","name":"glseries recheck"}
+]

@@ -1,0 +1,3 @@
+wss://fern.best/wisp/
+wss://vibeos.sh/api/wisp/
+wss://wisp.mercurywork.shop/

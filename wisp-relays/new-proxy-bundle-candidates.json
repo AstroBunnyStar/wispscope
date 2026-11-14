@@ -1,0 +1,191 @@
+[
+  {
+    "url": "wss://ltorl.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://ltorl.github.io/knoiren-browser",
+    "host": "ltorl.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://ltorl.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://ltorl.github.io/knoiren-browser",
+    "host": "ltorl.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://ltorl.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://ltorl.github.io/knoiren-browser",
+    "host": "ltorl.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://theexpie.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://theexpie.github.io/Bubbly/",
+    "host": "theexpie.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://theexpie.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://theexpie.github.io/Bubbly/",
+    "host": "theexpie.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://theexpie.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://theexpie.github.io/Bubbly/",
+    "host": "theexpie.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://its-onyx.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://its-onyx.github.io/nova/",
+    "host": "its-onyx.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://its-onyx.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://its-onyx.github.io/nova/",
+    "host": "its-onyx.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://its-onyx.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://its-onyx.github.io/nova/",
+    "host": "its-onyx.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp/",
+    "evidence": "generic-path",
+    "page": "https://proxy-dfg7.onrender.com/",
+    "host": "proxy-dfg7.onrender.com",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://proxy-dfg7.onrender.com/",
+    "host": "proxy-dfg7.onrender.com",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp",
+    "evidence": "generic-path",
+    "page": "https://proxy-dfg7.onrender.com/",
+    "host": "proxy-dfg7.onrender.com",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://scramjet-web-browser.vercel.app/wisp/",
+    "evidence": "generic-path",
+    "page": "https://scramjet-web-browser.vercel.app/",
+    "host": "scramjet-web-browser.vercel.app",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://scramjet-web-browser.vercel.app/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://scramjet-web-browser.vercel.app/",
+    "host": "scramjet-web-browser.vercel.app",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://scramjet-web-browser.vercel.app/wisp",
+    "evidence": "generic-path",
+    "page": "https://scramjet-web-browser.vercel.app/",
+    "host": "scramjet-web-browser.vercel.app",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://random-school-stuff.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://random-school-stuff.github.io/keystone/",
+    "host": "random-school-stuff.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://random-school-stuff.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://random-school-stuff.github.io/keystone/",
+    "host": "random-school-stuff.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://random-school-stuff.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://random-school-stuff.github.io/keystone/",
+    "host": "random-school-stuff.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://roki-hub.pages.dev/wisp/",
+    "evidence": "generic-path",
+    "page": "https://roki-hub.pages.dev/",
+    "host": "roki-hub.pages.dev",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://roki-hub.pages.dev/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://roki-hub.pages.dev/",
+    "host": "roki-hub.pages.dev",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://roki-hub.pages.dev/wisp",
+    "evidence": "generic-path",
+    "page": "https://roki-hub.pages.dev/",
+    "host": "roki-hub.pages.dev",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://scratchygh.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://scratchygh.github.io/speedster/",
+    "host": "scratchygh.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://scratchygh.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://scratchygh.github.io/speedster/",
+    "host": "scratchygh.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://scratchygh.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://scratchygh.github.io/speedster/",
+    "host": "scratchygh.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://stomp.fracit.al/wisp/",
+    "evidence": "generic-path",
+    "page": "https://stomp.fracit.al/",
+    "host": "stomp.fracit.al",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://stomp.fracit.al/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://stomp.fracit.al/",
+    "host": "stomp.fracit.al",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://stomp.fracit.al/wisp",
+    "evidence": "generic-path",
+    "page": "https://stomp.fracit.al/",
+    "host": "stomp.fracit.al",
+    "path": "/wisp"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "url": "wss://fern.best/wisp/",
+    "name": "fern /wisp/",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 320,
+    "closeReason": null,
+    "dataBytes": 923,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:18:59 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp/",
+    "name": "vibeos api wisp slash",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 493,
+    "closeReason": null,
+    "dataBytes": 924,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:18:59 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/v86/",
+    "name": "mercury v86",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 624,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:18:59 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp",
+    "name": "vibeos api wisp",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 989,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:19:00 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://api.antarctic.games/wisp/",
+    "name": "antarctic games",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 135,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://caffeine4-production.up.railway.app/wisp/",
+    "name": "caffeine4 railway",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 255,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://fern.best/",
+    "name": "fern root",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 325,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://glseries.net/wisp/",
+    "name": "glseries recheck",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 463,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

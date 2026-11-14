@@ -1,0 +1,5 @@
+wss://invisiproxy.com/wisp/
+wss://dkwmkvruzebnqlmvwzhy.supabase.co/functions/v1/proxy-wisp/
+wss://vela-wisp.onrender.com/
+wss://vela-wisp.onrender.com/wisp/
+wss://orbitweb.org/campus/

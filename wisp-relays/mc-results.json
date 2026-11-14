@@ -1,0 +1,281 @@
+[
+  {
+    "url": "wss://myproxy-zeta.vercel.app/wisp/",
+    "name": "MyProxy",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 286,
+    "version": 1
+  },
+  {
+    "url": "wss://motor-cycle-part.org/wisp/",
+    "name": "Motor Cycle Part",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 345,
+    "version": 1
+  },
+  {
+    "url": "wss://bare-server.fly.dev/wisp/",
+    "name": "bare-server (Fly.io)",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 372,
+    "version": 1
+  },
+  {
+    "url": "wss://fern.best/wisp/",
+    "name": "Fern",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 379,
+    "version": 1
+  },
+  {
+    "url": "wss://wisp.anjomous.workers.dev/",
+    "name": "Anjomous Wisp Worker",
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=835",
+    "latencyMs": 423,
+    "version": 1
+  },
+  {
+    "url": "wss://orbitweb.org/campus/",
+    "name": "OrbitWeb",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 476,
+    "version": 1
+  },
+  {
+    "url": "wss://wisp.terbiumon.top/wisp/",
+    "name": "TerbiumOS",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 487,
+    "version": 1
+  },
+  {
+    "url": "wss://definitelyscience.com/wisp/",
+    "name": "DefinitelyScience",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 539,
+    "version": 1
+  },
+  {
+    "url": "wss://lichology.com/wisp/",
+    "name": "Lichology",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 540,
+    "version": 1
+  },
+  {
+    "url": "wss://mages.io/wisp/",
+    "name": "Mages",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 571,
+    "version": 1
+  },
+  {
+    "url": "wss://gointospace.app/wisp/",
+    "name": "GoInterstellar",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 591,
+    "version": 1
+  },
+  {
+    "url": "wss://zakaon.top/wisp/",
+    "name": "Zakaon",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 655,
+    "version": 1
+  },
+  {
+    "url": "wss://vela-wisp.onrender.com/",
+    "name": "Vela Wisp (Render)",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 708,
+    "version": 1
+  },
+  {
+    "url": "wss://shasta-dtg.pages.dev/wisp/",
+    "name": "Shasta",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 784,
+    "version": 1
+  },
+  {
+    "url": "wss://tinf0il.site/wisp/",
+    "name": "Tinf0il",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 788,
+    "version": 1
+  },
+  {
+    "url": "wss://yashsurjuse-wisp.hf.space/",
+    "name": "yashsurjuse HuggingFace",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 790,
+    "version": 1
+  },
+  {
+    "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/wisp/",
+    "name": "Liventcord (Koyeb)",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 796,
+    "version": 1
+  },
+  {
+    "url": "wss://purnhab68-gitea.hf.space/",
+    "name": "purnhab68 HuggingFace",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 829,
+    "version": 1
+  },
+  {
+    "url": "wss://wisp.webmc.xyz/",
+    "name": "WebMC",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 1130,
+    "version": 1
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "Mercury Workshop",
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=834",
+    "latencyMs": 1152,
+    "version": 1
+  },
+  {
+    "url": "wss://anura.pro/",
+    "name": "AnuraOS",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 1161,
+    "version": 1
+  },
+  {
+    "url": "wss://holywisp.fracit.al/",
+    "name": "Fracital holyWisp",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 1213,
+    "version": 1
+  },
+  {
+    "url": "wss://browserjs-production.up.railway.app/wisp/",
+    "name": "BrowserJS (Railway)",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22522",
+    "latencyMs": 1243,
+    "version": 1
+  },
+  {
+    "url": "wss://arsenic.smartfoloo.space/wisp/",
+    "name": "Smartfoloo arsenic",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 1311,
+    "version": 1
+  },
+  {
+    "url": "wss://chat.smartfoloo.space/wisp/",
+    "name": "Smartfoloo chat",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526",
+    "latencyMs": 1341,
+    "version": 1
+  },
+  {
+    "url": "wss://tokyo.new-updates.info/wisp/",
+    "name": "Tokyo new-updates",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22517",
+    "latencyMs": 1449,
+    "version": 1
+  },
+  {
+    "url": "wss://mex-ubg-wisp.onrender.com/wisp/",
+    "name": "MEX UBG (Render)",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=22522",
+    "latencyMs": 10532,
+    "version": 1
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp/",
+    "name": "vibeOS",
+    "mcOk": false,
+    "mcTarget": "Origin Realms",
+    "mcNote": "close:72",
+    "latencyMs": 407,
+    "version": 1
+  },
+  {
+    "url": "wss://invisiproxy.com/wisp/",
+    "name": "InvisiProxy",
+    "mcOk": false,
+    "mcTarget": "Origin Realms",
+    "mcNote": "close:65",
+    "latencyMs": 516,
+    "version": 1
+  },
+  {
+    "url": "wss://dkwmkvruzebnqlmvwzhy.supabase.co/functions/v1/proxy-wisp/",
+    "name": "Supabase proxy-wisp",
+    "mcOk": false,
+    "mcTarget": "Origin Realms",
+    "mcNote": "close:1",
+    "latencyMs": 559,
+    "version": 1
+  },
+  {
+    "url": "wss://wisp.freewisp.org/",
+    "name": "FreeWisp",
+    "mcOk": false,
+    "mcTarget": "Origin Realms",
+    "mcNote": "close:65",
+    "latencyMs": 1026,
+    "version": 1
+  }
+]

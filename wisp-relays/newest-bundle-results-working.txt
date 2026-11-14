@@ -1,0 +1,2 @@
+wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/
+wss://speedster.heavengtwashere.workers.dev/wisp/

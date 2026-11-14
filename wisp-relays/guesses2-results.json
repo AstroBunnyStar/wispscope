@@ -1,0 +1,122 @@
+[
+  {
+    "url": "wss://wisp.invisiproxy.com/wisp/",
+    "name": "wisp invisiproxy",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 85,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.orbitweb.org/wisp/",
+    "name": "wisp orbitweb",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 163,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.joytree.site/wisp/",
+    "name": "wisp joytree",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 287,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://relay.joytree.site/wisp/",
+    "name": "relay joytree",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 290,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://pgis-wisp.joytree.site/wisp",
+    "name": "pgis no slash",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 340,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.vela.workers.dev/wisp/",
+    "name": "vela workers",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 355,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://orbitweb.org/campus",
+    "name": "orbitweb campus no slash",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 403,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://invisiproxy.com/wisp",
+    "name": "invisiproxy no slash",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 448,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp-render.onrender.com/wisp",
+    "name": "wisp-render /wisp",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 533,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://vela-wisp.onrender.com/wisp",
+    "name": "vela no slash",
+    "source": null,
+    "ok": false,
+    "note": "timeout:handshake",
+    "version": 0,
+    "latencyMs": 8007,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

@@ -1,0 +1,4 @@
+wss://chat.smartfoloo.space/wisp/
+wss://wisp.mercurywork.shop/wisp/
+wss://wisp.freewisp.org/wisp/
+wss://tokyo.new-updates.info/wisp/

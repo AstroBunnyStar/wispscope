@@ -1,0 +1,6 @@
+[
+  {"url":"wss://wisp.mercurywork.sh/","name":"mercury sh root"},
+  {"url":"wss://wisp.mercurywork.sh/wisp/","name":"mercury sh wisp"},
+  {"url":"wss://wisp.mercurywork.shop/","name":"mercury shop baseline"},
+  {"url":"wss://wisp.anjomous.workers.dev/","name":"anjomous baseline"}
+]

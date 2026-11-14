@@ -1,0 +1,8 @@
+[
+  {"url":"wss://eagler-minecraft-relay.u2471966200.workers.dev/","name":"melonman eagler root"},
+  {"url":"wss://eagler-minecraft-relay.u2471966200.workers.dev/wisp/","name":"melonman eagler wisp"},
+  {"url":"wss://eagler-minecraft-relay.u2471966200.workers.dev/wisp","name":"melonman eagler wisp no slash"},
+  {"url":"wss://wisp.terbiumon.top/wisp/","name":"terbium baseline"},
+  {"url":"wss://wisp.terbiumon.top/","name":"terbium root"},
+  {"url":"wss://terbiumon.top/wisp/","name":"terbiumon root wisp"}
+]

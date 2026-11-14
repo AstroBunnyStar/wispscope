@@ -1,0 +1,2 @@
+wss://wisp.freewisp.org
+wss://wisp.mercurywork.shop

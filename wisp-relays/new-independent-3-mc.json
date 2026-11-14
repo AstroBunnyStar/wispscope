@@ -1,0 +1,26 @@
+[
+  {
+    "url": "wss://linuxontab-net.fly.dev/wisp",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=29571",
+    "latencyMs": 321,
+    "version": 1
+  },
+  {
+    "url": "wss://zodiac.icu/wisp/",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=29571",
+    "latencyMs": 448,
+    "version": 1
+  },
+  {
+    "url": "wss://lunaar.org/wisp/",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=29571",
+    "latencyMs": 711,
+    "version": 1
+  }
+]

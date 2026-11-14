@@ -1,0 +1,302 @@
+[
+  {
+    "url": "https://ghostly.tools/wisps",
+    "repo": "MiguelMedeiros/ghostly",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://wisp.mobile/",
+    "repo": "enhansome/enhansome-nostr",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/privkeyio/wisp",
+    "repo": "enhansome/enhansome-nostr",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://img.shields.io/github/stars/privkeyio/wisp.svg?style=social",
+    "repo": "enhansome/enhansome-nostr",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://zapstore.dev/apps/com.darkwisp.app",
+    "repo": "enhansome/enhansome-nostr",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://zapstore.dev/apps/com.wisp.app",
+    "repo": "enhansome/enhansome-nostr",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/david-x3d/wisp",
+    "repo": "krishna3163/best_shizuku_apps_for_android_no_root",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/chengxii-lii/wispy/releases",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://img.shields.io/badge/website-chengxii--lii.github.io%2Fwispy-8fa3ba?style=flat-square",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://chengxii-lii.github.io/wispy/",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://img.shields.io/github/actions/workflow/status/chengxii-lii/wispy/ci.yml?style=flat-square&label=CI",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/chengxii-lii/wispy/actions/workflows/ci.yml",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/chengxii-lii/wispy/releases/latest",
+    "repo": "chengxii-lii/wispy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/MercuryWorkshop/wisp-protocol/blob/v2/protocol.md",
+    "repo": "faevyl/Whyopensource",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://…/wisp/",
+    "repo": "faevyl/Whyopensource",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/wisp-trading/wisp",
+    "repo": "0xmzn/awesome-go-awelist",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/MercuryWorkshop/wisp-protocol",
+    "repo": "Guernica4u/Tide",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/Fracital/holyWisp",
+    "repo": "Fracital/powerMouse",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/barrydeen/wisp",
+    "repo": "ChadFarrow/boostmebitch",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/MercuryWorkshop/wisp-js",
+    "repo": "IOUWDIHYUWDAIHGAWDYUGAWDUYAWGYGWDYWYDWA/github-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/actions/workflows/ci.yml/badge.svg",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/actions/workflows/ci.yml",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-mac-arm64.dmg",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-mac-x64.dmg",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-win-x64.exe",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-linux-x86_64.AppImage",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-linux-amd64.deb",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/eireijie/wisp/main/install.sh",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/eireijie/wisp/main/install.ps1",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/releases/latest/download/Wisp-android.apk",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/eireijie/wisp/main/uninstall.sh",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/eireijie/wisp/issues",
+    "repo": "eireijie/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://raghavdaksh.com/projects/wisp-keyboard",
+    "repo": "laghab/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/laghab/wisp/releases/latest",
+    "repo": "laghab/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/scripting.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/src/wisprflow-tools.ts",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/configuration.md#permissions",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/configuration.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://api.wisprflow.ai/connect/mcp",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://docs.wisprflow.ai/articles/9551372685-connect-an-mcp-client-to-wispr-flow-remote-mcp-server",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/scripting.md#errors",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/jelly.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/docs/architecture.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/CONTRIBUTING.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/SECURITY.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/CHANGELOG.md",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/joe-broadhead/opencode-wisprflow/blob/HEAD/LICENSE",
+    "repo": "joe-broadhead/opencode-wisprflow",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/privkeyio/wisp/releases",
+    "repo": "privkeyio/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://seuss-cinema-arcade.onrender.com/wisp/",
+    "repo": "damonrosshutchins-boop/Dr-seuss-Moives-Games-test",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/anti-ghostsec/wisp",
+    "repo": "anti-ghostsec/FerroOS",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/erikhalilx/wisplink/tree/v0.2.0/.agents/skills/wisplink",
+    "repo": "erikhalilx/wisplink",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/erikhalilx/wisplink/archive/refs/tags/v0.2.0.tar.gz",
+    "repo": "erikhalilx/wisplink",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/acdtrx/wisp/releases/latest",
+    "repo": "acdtrx/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/natnaelhabte12345-del/Wisper-local-.git",
+    "repo": "natnaelhabte12345-del/Wisper-local-",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/natnaelhabte12345-del/Wisper-local-/issues",
+    "repo": "natnaelhabte12345-del/Wisper-local-",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/krisleech/wisper",
+    "repo": "enhansome/enhansome-ruby",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://ayomideodewale.com/wisp",
+    "repo": "Maestroharyor/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "https://github.com/Maestroharyor/wisp/releases",
+    "repo": "Maestroharyor/wisp",
+    "source": "github-readme"
+  }
+]

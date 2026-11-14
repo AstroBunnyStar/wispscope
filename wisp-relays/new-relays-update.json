@@ -1,0 +1,11 @@
+{
+  "counts": {
+    "independent": 52,
+    "aliases": 401,
+    "scanner": 453,
+    "verified": 1055,
+    "independentFile": 52
+  },
+  "speed": "wss://speedster.heavengtwashere.workers.dev/wisp/",
+  "stomp": "wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "url": "wss://wisp.mercurywork.sh/",
+    "site": "https://malmox.vercel.app/",
+    "name": "bundle2:malmox.vercel.app"
+  },
+  {
+    "url": "ws://$",
+    "site": "https://cat-xqlq.onrender.com/",
+    "name": "bundle2:cat-xqlq.onrender.com"
+  },
+  {
+    "url": "wss://holywisp.fracit.al/",
+    "site": "https://stomp.fracit.al/",
+    "name": "bundle2:stomp.fracit.al"
+  }
+]

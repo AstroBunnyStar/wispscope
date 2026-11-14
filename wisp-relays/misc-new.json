@@ -1,0 +1,9 @@
+[
+  {"url":"wss://backend.crllect.dev/wisp/","name":"crllect backend"},
+  {"url":"wss://backend.crllect.dev/","name":"crllect backend root"},
+  {"url":"wss://wisp.gg/","name":"wisp.gg root"},
+  {"url":"wss://wisp.gg/wisp/","name":"wisp.gg wisp"},
+  {"url":"wss://api.wisphub.app/","name":"wisphub api"},
+  {"url":"wss://wisp-m8ju.onrender.com/","name":"wisp-m8ju"},
+  {"url":"wss://wisp-m8ju.onrender.com/wisp/","name":"wisp-m8ju wisp"}
+]

@@ -1,0 +1,14 @@
+[
+  {"url":"wss://proxy.crllect.dev/wisp/","name":"crllect proxy wisp","source":"ProxDocs transports"},
+  {"url":"wss://proxy.crllect.dev/wisp","name":"crllect proxy wisp no slash","source":"ProxDocs transports"},
+  {"url":"wss://proxy.crllect.dev/","name":"crllect proxy root","source":"ProxDocs transports"},
+  {"url":"wss://backend.crllect.dev/wisp/","name":"crllect backend wisp","source":"ProxDocs deployment"},
+  {"url":"wss://backend.crllect.dev/wisp","name":"crllect backend wisp no slash","source":"ProxDocs deployment"},
+  {"url":"wss://backend.crllect.dev/","name":"crllect backend root","source":"ProxDocs deployment"},
+  {"url":"wss://crllect.dev/wisp/","name":"crllect root wisp","source":"crllect docs"},
+  {"url":"wss://wisp.crllect.dev/wisp/","name":"crllect wisp subdomain","source":"crllect docs guess"},
+  {"url":"wss://api.antarctic.games/","name":"antarctic games root","source":"repo-scan"},
+  {"url":"wss://reading.q13x.com/wisp/","name":"q13x reading wisp","source":"q13x region selector"},
+  {"url":"wss://eaglercraft.q13x.com/wisp/","name":"q13x eaglercraft wisp","source":"q13x region selector"},
+  {"url":"wss://wisp.q13x.com/wisp/","name":"q13x wisp subdomain","source":"q13x region selector guess"}
+]

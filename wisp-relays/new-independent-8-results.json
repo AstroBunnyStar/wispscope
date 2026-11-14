@@ -1,0 +1,74 @@
+[
+  {
+    "url": "wss://us-east.wisp.q13x.com/",
+    "source": "WorldEditAxe/wisp-docker; certificate SAN",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 283,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://fra-wisp-node.sparkpowered.org/",
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 780,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://mci-wisp-node.sparkpowered.org/",
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 915,
+    "firstLine": "HTTP/1.1 302 Found"
+  },
+  {
+    "url": "wss://sin-wisp-node.sparkpowered.org/",
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 1119,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://nrt-wisp-node.sparkpowered.org/",
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 1231,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://se-asia.wisp.q13x.com/",
+    "source": "certificate SAN for wisp.q13x.com",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 1719,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://us-west.wisp.q13x.com/",
+    "source": "certificate SAN for wisp.q13x.com",
+    "ok": false,
+    "note": "close-reason:66",
+    "version": 1,
+    "latencyMs": 528,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://eu-central.wisp.q13x.com/",
+    "source": "certificate SAN for wisp.q13x.com",
+    "ok": false,
+    "note": "close-reason:66",
+    "version": 1,
+    "latencyMs": 613,
+    "firstLine": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "wss://relay.deev.is/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.deev.is",
+    "name": "Eaglercraft LAN relay · relay.deev.is"
+  },
+  {
+    "url": "wss://relay.lax1dude.net/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.lax1dude.net",
+    "name": "Eaglercraft LAN relay · relay.lax1dude.net"
+  },
+  {
+    "url": "wss://relay.shhnowisnottheti.me/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.shhnowisnottheti.me",
+    "name": "Eaglercraft LAN relay · relay.shhnowisnottheti.me"
+  },
+  {
+    "url": "wss://eaglerrelay.glitch.me/",
+    "source": "Eaglercraft LAN relay video",
+    "host": "eaglerrelay.glitch.me",
+    "name": "Eaglercraft LAN relay · eaglerrelay.glitch.me"
+  }
+]

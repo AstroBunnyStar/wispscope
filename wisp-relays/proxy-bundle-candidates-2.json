@@ -1,0 +1,233 @@
+[
+  {
+    "url": "wss://halitsever.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://halitsever.github.io/girici-web-proxy/",
+    "host": "halitsever.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://halitsever.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://halitsever.github.io/girici-web-proxy/",
+    "host": "halitsever.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://halitsever.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://halitsever.github.io/girici-web-proxy/",
+    "host": "halitsever.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://dns1.mjevents.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://dns1.mjevents.org/",
+    "host": "dns1.mjevents.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://dns1.mjevents.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://dns1.mjevents.org/",
+    "host": "dns1.mjevents.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://dns1.mjevents.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://dns1.mjevents.org/",
+    "host": "dns1.mjevents.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://www.wtfq.online/wisp/",
+    "evidence": "generic-path",
+    "page": "https://www.wtfq.online/",
+    "host": "www.wtfq.online",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://www.wtfq.online/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://www.wtfq.online/",
+    "host": "www.wtfq.online",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://www.wtfq.online/wisp",
+    "evidence": "generic-path",
+    "page": "https://www.wtfq.online/",
+    "host": "www.wtfq.online",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://denisjoint75.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://denisjoint75.github.io/",
+    "host": "denisjoint75.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://denisjoint75.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://denisjoint75.github.io/",
+    "host": "denisjoint75.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://denisjoint75.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://denisjoint75.github.io/",
+    "host": "denisjoint75.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://craunot.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://craunot.org/",
+    "host": "craunot.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://craunot.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://craunot.org/",
+    "host": "craunot.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://craunot.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://craunot.org/",
+    "host": "craunot.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://lanyon-tutoring-help.github.io/mono/",
+    "host": "lanyon-tutoring-help.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://lanyon-tutoring-help.github.io/mono/",
+    "host": "lanyon-tutoring-help.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://lanyon-tutoring-help.github.io/mono/",
+    "host": "lanyon-tutoring-help.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://destroyed12121.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://destroyed12121.github.io/staticsjv2/",
+    "host": "destroyed12121.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://destroyed12121.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://destroyed12121.github.io/staticsjv2/",
+    "host": "destroyed12121.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://destroyed12121.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://destroyed12121.github.io/staticsjv2/",
+    "host": "destroyed12121.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://os.freshyogurt.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://os.freshyogurt.org/",
+    "host": "os.freshyogurt.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://os.freshyogurt.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://os.freshyogurt.org/",
+    "host": "os.freshyogurt.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://os.freshyogurt.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://os.freshyogurt.org/",
+    "host": "os.freshyogurt.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://wea-f.github.io/wisp/",
+    "evidence": "generic-path",
+    "page": "https://wea-f.github.io/Norepted/",
+    "host": "wea-f.github.io",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://wea-f.github.io/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://wea-f.github.io/Norepted/",
+    "host": "wea-f.github.io",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://wea-f.github.io/wisp",
+    "evidence": "generic-path",
+    "page": "https://wea-f.github.io/Norepted/",
+    "host": "wea-f.github.io",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/wisp/",
+    "evidence": "generic-path",
+    "page": "https://croxy-ar-proxy.vercel.app/",
+    "host": "croxy-ar-proxy.vercel.app",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://croxy-ar-proxy.vercel.app/",
+    "host": "croxy-ar-proxy.vercel.app",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/wisp",
+    "evidence": "generic-path",
+    "page": "https://croxy-ar-proxy.vercel.app/",
+    "host": "croxy-ar-proxy.vercel.app",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://trickybird.com/wisp/",
+    "evidence": "generic-path",
+    "page": "https://trickybird.com/",
+    "host": "trickybird.com",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://trickybird.com/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://trickybird.com/",
+    "host": "trickybird.com",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://trickybird.com/wisp",
+    "evidence": "generic-path",
+    "page": "https://trickybird.com/",
+    "host": "trickybird.com",
+    "path": "/wisp"
+  }
+]

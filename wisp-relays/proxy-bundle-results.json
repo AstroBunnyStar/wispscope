@@ -1,0 +1,371 @@
+[
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "host": "admin.proxy.hydrovolter.com",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/api/wisp/",
+    "host": "admin.proxy.hydrovolter.com",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://health.acne-support.info/api/wisp/",
+    "host": "health.acne-support.info",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 366,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp/",
+    "host": "health.acne-support.info",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 663,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://holyunblocker.org/api/wisp/",
+    "host": "holyunblocker.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 47,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/wisp",
+    "host": "gust-browser.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 66,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://holyunblocker.org/wisp",
+    "host": "holyunblocker.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 68,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://settings.lhost.dev/wisp",
+    "host": "settings.lhost.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 79,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://holyunblocker.org/wisp/",
+    "host": "holyunblocker.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 80,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://metallic.eu.org/wisp",
+    "host": "metallic.eu.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 99,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/api/wisp/",
+    "host": "phosphur.etcherfx.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 120,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://settings.lhost.dev/api/wisp/",
+    "host": "settings.lhost.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 122,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://splash.best/wisp",
+    "host": "splash.best",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 126,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/wisp",
+    "host": "phosphur.etcherfx.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 129,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://splash.best/api/wisp/",
+    "host": "splash.best",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 133,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://isle.city/wisp",
+    "host": "isle.city",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 137,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/api/wisp/",
+    "host": "hypers0nic.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 139,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/wisp/",
+    "host": "gust-browser.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 145,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/wisp",
+    "host": "hypers0nic.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 145,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/wisp/",
+    "host": "phosphur.etcherfx.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 146,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/api/wisp/",
+    "host": "gust-browser.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 147,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/wisp/",
+    "host": "hypers0nic.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 148,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://settings.lhost.dev/wisp/",
+    "host": "settings.lhost.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 148,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://splash.best/wisp/",
+    "host": "splash.best",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 153,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://metallic.eu.org/wisp/",
+    "host": "metallic.eu.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 163,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://isle.city/api/wisp/",
+    "host": "isle.city",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 163,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://metallic.eu.org/api/wisp/",
+    "host": "metallic.eu.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 166,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp",
+    "host": "health.acne-support.info",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 170,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://isle.city/wisp/",
+    "host": "isle.city",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 188,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://safetystore.pages.dev/wisp/",
+    "host": "safetystore.pages.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 207,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://red-wire.org/wisp",
+    "host": "red-wire.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 210,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lyra.zip/wisp/",
+    "host": "lyra.zip",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 226,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lyra.zip/wisp",
+    "host": "lyra.zip",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 228,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lyra.zip/api/wisp/",
+    "host": "lyra.zip",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 230,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://red-wire.org/api/wisp/",
+    "host": "red-wire.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 240,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://safetystore.pages.dev/api/wisp/",
+    "host": "safetystore.pages.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 246,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://red-wire.org/wisp/",
+    "host": "red-wire.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 257,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://safetystore.pages.dev/wisp",
+    "host": "safetystore.pages.dev",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 260,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp/",
+    "host": "wisp.rhw.one",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 2178,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.rhw.one/",
+    "host": "wisp.rhw.one",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 4310,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp",
+    "host": "admin.proxy.hydrovolter.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8009,
+    "firstLine": ""
+  }
+]

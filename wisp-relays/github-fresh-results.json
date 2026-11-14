@@ -1,0 +1,20 @@
+[
+  {
+    "url": "wss://lunaar.org/wisp/",
+    "source": "github readme",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 711,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://seuss-cinema-arcade.onrender.com/wisp/",
+    "source": "github readme",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10010,
+    "firstLine": ""
+  }
+]

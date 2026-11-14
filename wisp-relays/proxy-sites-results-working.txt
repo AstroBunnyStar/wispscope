@@ -1,0 +1,3 @@
+wss://shasta-dtg.pages.dev/wisp/
+wss://myproxy-zeta.vercel.app/api/wisp/
+wss://myproxy-zeta.vercel.app/wisp/

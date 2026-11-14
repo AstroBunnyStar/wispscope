@@ -1,0 +1,86 @@
+[
+  {
+    "url": "wss://backend.crllect.dev/",
+    "name": "crllect backend root",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 166,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://backend.crllect.dev/wisp/",
+    "name": "crllect backend",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 214,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.gg/",
+    "name": "wisp.gg root",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 241,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.gg/wisp/",
+    "name": "wisp.gg wisp",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 369,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://api.wisphub.app/",
+    "name": "wisphub api",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 386,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp-m8ju.onrender.com/",
+    "name": "wisp-m8ju",
+    "source": null,
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10009,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp-m8ju.onrender.com/wisp/",
+    "name": "wisp-m8ju wisp",
+    "source": null,
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10010,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

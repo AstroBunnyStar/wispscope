@@ -1,0 +1,9 @@
+wss://yashsurjuse-wisp.hf.space/wisp/
+wss://freewisp.org/
+wss://purnhab68-gitea.hf.space/wisp/
+wss://gointospace.app/wisp/
+wss://zakaon.top/wisp/
+wss://wisp.freewisp.org/
+wss://mex-ubg-wisp.onrender.com/wisp/
+wss://wisp.webmc.xyz/wisp/
+wss://browserjs-production.up.railway.app/wisp/

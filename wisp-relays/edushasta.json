@@ -1,0 +1,5 @@
+[
+  {"url":"wss://edushasta.lol/wisp/","name":"edushasta"},
+  {"url":"wss://edushasta.lol/api/wisp/","name":"edushasta api"},
+  {"url":"wss://edushasta.lol/","name":"edushasta root"}
+]

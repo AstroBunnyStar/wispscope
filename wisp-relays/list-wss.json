@@ -1,0 +1,38 @@
+[
+  {
+    "url": "wss://username:password@ubc.oxylabs.io?p_device=mobile",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://username:password@ubc.oxylabs.io?p_device=mobile&p_cc=DE",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://ubc.oxylabs.io",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://ubc-us.oxylabs.io",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://ubs.oxylabs.io",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://ubs-us.oxylabs.io",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "wss://username:password@endpoint",
+    "name": "oxylabs/agent-browser"
+  },
+  {
+    "url": "ws://192.168.1.10/ws",
+    "name": "johnlauer/serial-port-json-server"
+  },
+  {
+    "url": "wss://",
+    "name": "SuperNova-Network/SuperNova-OS"
+  }
+]

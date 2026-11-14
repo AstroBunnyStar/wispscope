@@ -1,0 +1,128 @@
+[
+  {
+    "url": "wss://nexus.garfield-math.xyz/wisp",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 4,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.kbve.com/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 6,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.mercuryworkshop.network/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 6,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://backend.crllect.dev/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 44,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.crllect.dev/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 101,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wispbyte.com/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 150,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://crllect.dev/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 153,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://mages.io/wisp",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 223,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.orkestr.run/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 243,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://glseries.net/wisp",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 297,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.djorivaltech.com/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 387,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 2107,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://nebulaproxy.io/wisp",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10010,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://goarxyz-wisp.goarxyz.workers.dev/wisp/",
+    "source": "path variants / docs",
+    "ok": false,
+    "note": "timeout:connect",
+    "version": 1,
+    "latencyMs": 10013,
+    "firstLine": ""
+  }
+]

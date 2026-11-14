@@ -1,0 +1,110 @@
+[
+  {
+    "url": "wss://proxy.crllect.dev/wisp",
+    "source": "ProxDocs transports",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 50,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.crllect.dev/wisp/",
+    "source": "crllect docs guess",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 68,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy.crllect.dev/",
+    "source": "ProxDocs transports",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 98,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy.crllect.dev/wisp/",
+    "source": "ProxDocs transports",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 115,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://backend.crllect.dev/wisp/",
+    "source": "ProxDocs deployment",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 181,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://backend.crllect.dev/wisp",
+    "source": "ProxDocs deployment",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 181,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.q13x.com/wisp/",
+    "source": "q13x region selector guess",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 215,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://api.antarctic.games/",
+    "source": "repo-scan",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 223,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://reading.q13x.com/wisp/",
+    "source": "q13x region selector",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 227,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://eaglercraft.q13x.com/wisp/",
+    "source": "q13x region selector",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 239,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://backend.crllect.dev/",
+    "source": "ProxDocs deployment",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 242,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://crllect.dev/wisp/",
+    "source": "crllect docs",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 304,
+    "firstLine": ""
+  }
+]

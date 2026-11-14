@@ -1,0 +1,92 @@
+[
+  {
+    "url": "wss://truffled.lol/wisp/",
+    "name": "Truffled",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 291,
+    "version": 1
+  },
+  {
+    "url": "wss://daydreamx.pro/wisp/",
+    "name": "DaydreamX",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 298,
+    "version": 1
+  },
+  {
+    "url": "wss://studyworkandmore.uk/wisp/",
+    "name": "Study Work and More",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 307,
+    "version": 1
+  },
+  {
+    "url": "wss://xh4r26oz8gg460od.oid76seqraqkbvwx.mvd.hi.stack.ddnsfree.com/wisp/",
+    "name": "51.222.206.184 backend",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 318,
+    "version": 1
+  },
+  {
+    "url": "wss://civil.quartinal.me/wisp/",
+    "name": "Civil Quartinal",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 447,
+    "version": 1
+  },
+  {
+    "url": "wss://petezahgames.com/wisp/",
+    "name": "Petezah Games",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 549,
+    "version": 1
+  },
+  {
+    "url": "wss://15.204.116.230.sslip.io/wisp/",
+    "name": "15.204.116.230 backend",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 565,
+    "version": 1
+  },
+  {
+    "url": "wss://achromaon.top/wisp/",
+    "name": "Achromaon",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 580,
+    "version": 1
+  },
+  {
+    "url": "wss://edushasta.lol/wisp/",
+    "name": "EduShasta",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 666,
+    "version": 1
+  },
+  {
+    "url": "wss://aetheris.win/wisp/",
+    "name": "Aetheris",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 749,
+    "version": 1
+  }
+]

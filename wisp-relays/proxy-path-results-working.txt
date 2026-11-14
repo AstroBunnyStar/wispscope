@@ -1,0 +1,11 @@
+wss://arsenic.smartfoloo.space/api/wisp/
+wss://truffled.lol/wisp/
+wss://petezahgames.com/wisp/
+wss://studyworkandmore.uk/api/wisp/
+wss://definitelyscience.com/api/wisp/
+wss://studyworkandmore.uk/wisp/
+wss://daydreamx.pro/wisp/
+wss://civil.quartinal.me/api/wisp/
+wss://civil.quartinal.me/wisp/
+wss://aetheris.win/api/wisp/
+wss://aetheris.win/wisp/

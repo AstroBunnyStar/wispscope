@@ -1,0 +1,762 @@
+[
+  {
+    "url": "https://satejp10.github.io/claude-works/",
+    "name": "Satejp10/claude-works",
+    "source": "homepage"
+  },
+  {
+    "url": "https://claude-works-analytics.satejp10.workers.dev/hit",
+    "name": "Satejp10/claude-works",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://inkdoshub.github.io/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://relay.widgetry.org/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "readme"
+  },
+  {
+    "url": "https://hub.inkdos.workers.dev/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://sixthfront.ali-merheb.workers.dev/v2/auth/google/callback",
+    "name": "alimerheb-creator/Test",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://sixthfront.ali-merheb.workers.dev",
+    "name": "alimerheb-creator/Test",
+    "source": "readme-workers"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "readme"
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net,Eaglercraft",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "readme"
+  },
+  {
+    "url": "https://lane-league.crevice.workers.dev/",
+    "name": "AndrewLo42/lane-of-legends",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://host:port",
+    "name": "AndrewLo42/lane-of-legends",
+    "source": "readme"
+  },
+  {
+    "url": "https://lane-league.crevice.workers.dev",
+    "name": "AndrewLo42/lane-of-legends",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://mimonelu.github.io/klearlist/",
+    "name": "mimonelu/klearlist",
+    "source": "homepage"
+  },
+  {
+    "url": "https://knotless-dev-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://knot-dev.anirudh-s-account.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://knot2-artifacts.anirudh-s-account.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://rookery-pds-py.nandithebull.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://grain-next-android.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://grain-next-ios.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://infra-runner-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://grain-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://pinnacle-pds.codingchicken.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://cb4.endpointservices.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://knotless-triage-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://knotless-ci-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://knotless-review-pds.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://test.chad-53c.workers.dev",
+    "name": "mimonelu/klearlist",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://cokeboys-token.cokeboysclient.workers.dev",
+    "name": "BumfiEd/coke-boys-cracked",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://cokeboys-token.cokeboysclient.workers.dev/event-credential",
+    "name": "BumfiEd/coke-boys-cracked",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://cokeboys-event-api.cokeboysclient.workers.dev",
+    "name": "BumfiEd/coke-boys-cracked",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://domeepc.github.io/wisp/",
+    "name": "domeepc/wisp",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://wisp-signal",
+    "name": "domeepc/wisp",
+    "source": "readme"
+  },
+  {
+    "url": "https://jace01b-web.github.io/relay/",
+    "name": "jace01b-web/relay",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://volutus-relay",
+    "name": "kashikoi/Volutus",
+    "source": "readme"
+  },
+  {
+    "url": "wss://volutus-relay.nimbus-sync.workers.dev",
+    "name": "kashikoi/Volutus",
+    "source": "readme"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev/subscribe/",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev/subscribe/webhook",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev/sms/inbound",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev/console/",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://frontend.viztrrx.workers.dev",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://donnajbe.viztrrx.workers.dev/app/",
+    "name": "viztrrx/donnajbesaints",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://dunnhumby-promo-presentation.vladsmertev24.workers.dev/",
+    "name": "PigStep/dunnhumby-promo-economics",
+    "source": "homepage"
+  },
+  {
+    "url": "https://thorneloe.ai/ironwake/",
+    "name": "loganthorneloe/ironwake",
+    "source": "homepage"
+  },
+  {
+    "url": "https://darecade.daniel-tianwen.workers.dev",
+    "name": "blurboy1985/darecade",
+    "source": "readme-workers"
+  },
+  {
+    "url": "wss://backend-ivvq.onrender.com/wisp/",
+    "name": "viztrrx/scramjet-backend",
+    "source": "readme"
+  },
+  {
+    "url": "wss://goarxyz-wisp.goarxyz.workers.dev/wisp",
+    "name": "cxyz22x/goarxyz-watch-play-listen",
+    "source": "readme"
+  },
+  {
+    "url": "wss://ibrawlswebapp.commando501.workers.dev/ws",
+    "name": "Commando501/iBrawlsWebApp",
+    "source": "readme"
+  },
+  {
+    "url": "https://ibrawlswebapp.commando501.workers.dev",
+    "name": "Commando501/iBrawlsWebApp",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://monkeh.1234-imwatchingyouopenthedoor.workers.dev",
+    "name": "1101s/mochii",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://github.wuyanzheshui.workers.dev/",
+    "name": "ihaoljy/VPN_Tool",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://github.rc1844.workers.dev/",
+    "name": "ihaoljy/VPN_Tool",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://shrill-pond-3e81.hunsh.workers.dev/",
+    "name": "ihaoljy/VPN_Tool",
+    "source": "readme-workers"
+  },
+  {
+    "url": "wss://satona-wisp-browser-20261005.satona.workers.dev/wisp/",
+    "name": "Neon-VR/satona-source",
+    "source": "readme"
+  },
+  {
+    "url": "wss://nlc-relay",
+    "name": "teteekoue/Nem_Linux_Container",
+    "source": "readme"
+  },
+  {
+    "url": "https://ball-bash.vercel.app",
+    "name": "ProfessorZoltan/ball-bash",
+    "source": "homepage"
+  },
+  {
+    "url": "https://gsheets-worker.your-subdomain.workers.dev",
+    "name": "badbox29/gsheets",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://uplink.wsgpolar.me",
+    "name": "polardev-ui/uplink",
+    "source": "homepage"
+  },
+  {
+    "url": "https://uplink-backend.beluga7133.workers.dev",
+    "name": "polardev-ui/uplink",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://wisp.000000076.xyz/",
+    "name": "adamdjbrett/11ty-wisp",
+    "source": "homepage"
+  },
+  {
+    "url": "https://cloudflare-sun-shader.ty-944.workers.dev",
+    "name": "tjcages/cloudflare-sun-shader",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://kira-kira.cloud8877.workers.dev)**",
+    "name": "cloud8877-source/kira-kira",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://kira-kira.cloud8877.workers.dev",
+    "name": "cloud8877-source/kira-kira",
+    "source": "readme-workers"
+  },
+  {
+    "url": "https://dragon-gaming-platforms.github.io/Dragon86/",
+    "name": "Dragon-Gaming-Platforms/Dragon86",
+    "source": "homepage"
+  },
+  {
+    "url": "https://stomp.fracit.al",
+    "name": "Fracital/powerMouse",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://skerry-light.onrender.com/ws'",
+    "name": "OotBoot/skerry-light",
+    "source": "readme"
+  },
+  {
+    "url": "https://krishna3163.github.io/best_shizuku_apps_for_android_no_root/",
+    "name": "krishna3163/best_shizuku_apps_for_android_no_root",
+    "source": "homepage"
+  },
+  {
+    "url": "https://gunning.se/Valhallasc/",
+    "name": "sork01/Valhallasc-AI",
+    "source": "homepage"
+  },
+  {
+    "url": "https://boostmebitch.com",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://relay.damus.io",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.primal.net",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "readme"
+  },
+  {
+    "url": "wss://nos.lol",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.fountain.fm",
+    "name": "ChadFarrow/boostmebitch",
+    "source": "readme"
+  },
+  {
+    "url": "ws://host:8787",
+    "name": "erik-t-irgens/swg3js",
+    "source": "readme"
+  },
+  {
+    "url": "ws://192.168.1.20:8787",
+    "name": "erik-t-irgens/swg3js",
+    "source": "readme"
+  },
+  {
+    "url": "ws://192.168.1.20:8787&word=mos-eisley",
+    "name": "erik-t-irgens/swg3js",
+    "source": "readme"
+  },
+  {
+    "url": "ws://host:8787'",
+    "name": "erik-t-irgens/swg3js",
+    "source": "readme"
+  },
+  {
+    "url": "wss://",
+    "name": "SuperNova-Network/SuperNova-OS",
+    "source": "readme"
+  },
+  {
+    "url": "https://websh.magnetosphere.net/",
+    "name": "0magnet/websh",
+    "source": "homepage"
+  },
+  {
+    "url": "ws://HOST:8090/",
+    "name": "0magnet/websh",
+    "source": "readme"
+  },
+  {
+    "url": "https://singularity-v2.pages.dev/",
+    "name": "SingularityLarp300/Singularity-v2",
+    "source": "homepage"
+  },
+  {
+    "url": "https://nostr.net/",
+    "name": "aljazceru/awesome-nostr",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://relay.groups.nip29.com",
+    "name": "aljazceru/awesome-nostr",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.nostr.net",
+    "name": "aljazceru/awesome-nostr",
+    "source": "readme"
+  },
+  {
+    "url": "https://gitguy268.github.io/tabshell/",
+    "name": "Gitguy268/tabshell",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop",
+    "name": "Fracital/epoxy-tls",
+    "source": "readme"
+  },
+  {
+    "url": "wss://echo.websocket.events",
+    "name": "Fracital/epoxy-tls",
+    "source": "readme"
+  },
+  {
+    "url": "https://wonderhoy-labs.github.io/asahi/",
+    "name": "wonderhoy-labs/asahi",
+    "source": "homepage"
+  },
+  {
+    "url": "https://damonrosshutchins-boop.github.io/dr-seuss-search/",
+    "name": "damonrosshutchins-boop/dr-seuss-search",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "damonrosshutchins-boop/dr-seuss-search",
+    "source": "readme"
+  },
+  {
+    "url": "https://wonderhoy-labs.github.io/shira/",
+    "name": "wonderhoy-labs/shira",
+    "source": "homepage"
+  },
+  {
+    "url": "https://warband.zen.dev.br",
+    "name": "eulercb/warband",
+    "source": "homepage"
+  },
+  {
+    "url": "https://cat-xqlq.onrender.com/",
+    "name": "zayd-the-gr8/isle",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://nostr-pub.wellorder.net",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://nostr.wine",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://offchain.pub",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://public.relaying.io",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://eden.nostr.land",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://atlas.nostr.land",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relayable.org",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://pyramid.fiatjaf.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://140.f7z.io",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://r.f7z.io",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.nsecbunker.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.whatever.com;root;a9e0f110f636f3191644110c19a33448daf09d7cda9708a769e91b7e91340208'",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://p-relay.com'",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.whatever.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://p-relay.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://dmrelay.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://gitnostr.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://pyramid.treegaze.com",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.ngit.dev",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.nostr.band",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://nos.lol/",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://bitcoiner.social/",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.damus.io/",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "wss://relay.primal.net/",
+    "name": "fiatjaf/nak",
+    "source": "readme"
+  },
+  {
+    "url": "https://discord.gg/Interstellar",
+    "name": "UseInterstellar/Interstellar",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/wisp/&username=whatever",
+    "name": "zaka13alt/7kX4p",
+    "source": "readme"
+  },
+  {
+    "url": "https://fastsw-proxy.vercel.app",
+    "name": "zaka13alt/fastsw-proxy",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://zakaon.top/wisp/",
+    "name": "zaka13alt/fastsw-proxy",
+    "source": "readme"
+  },
+  {
+    "url": "https://shifter.io/web-proxy",
+    "name": "shifter-io/web-proxy",
+    "source": "homepage"
+  },
+  {
+    "url": "https://holywisp.fracit.al",
+    "name": "Fracital/holyWisp",
+    "source": "homepage"
+  },
+  {
+    "url": "https://inceptionjs.com",
+    "name": "yojona/InceptionJS",
+    "source": "homepage"
+  },
+  {
+    "url": "https://arianna-arpg.github.io/hollow-wake-mmo/",
+    "name": "arianna-arpg/hollow-wake-mmo",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://host/ws",
+    "name": "arianna-arpg/hollow-wake-mmo",
+    "source": "readme"
+  },
+  {
+    "url": "https://taosvisualizer.vercel.app",
+    "name": "taoong/music-visualizer",
+    "source": "homepage"
+  },
+  {
+    "url": "https://vblackjack.github.io/epoxy/",
+    "name": "VBlackJack/epoxy",
+    "source": "homepage"
+  },
+  {
+    "url": "https://playnomansland.github.io/",
+    "name": "playnomansland/playnomansland.github.io",
+    "source": "homepage"
+  },
+  {
+    "url": "https://mobile-vault-three.vercel.app",
+    "name": "maxexq/mobile-vault",
+    "source": "homepage"
+  },
+  {
+    "url": "https://mobile.codeply.app",
+    "name": "AwaisSDev/Codeply-Craft",
+    "source": "homepage"
+  },
+  {
+    "url": "https://kanji-battle-ev0o.onrender.com/",
+    "name": "Mashxur-Lee/kanji-battle",
+    "source": "homepage"
+  },
+  {
+    "url": "https://adnpolymerase.github.io/ha-appliance-card/docs/demo.html?view=live",
+    "name": "ADNPolymerase/ha-appliance-card",
+    "source": "homepage"
+  },
+  {
+    "url": "https://chirowsan.github.io/whackerang/",
+    "name": "chirowsan/whackerang",
+    "source": "homepage"
+  },
+  {
+    "url": "https://trywisp.dev/",
+    "name": "WispAgents/wisp",
+    "source": "homepage"
+  },
+  {
+    "url": "https://nwc.dev",
+    "name": "getAlby/awesome-nwc",
+    "source": "homepage"
+  },
+  {
+    "url": "https://chinchillas.jason.engineering",
+    "name": "merimenjason/dora-enzo-arcade",
+    "source": "homepage"
+  },
+  {
+    "url": "https://www.dsh-plugin.shop/",
+    "name": "losebird/dsh-plugin-market",
+    "source": "homepage"
+  },
+  {
+    "url": "https://solartournament.games",
+    "name": "JohannesHoppe/SolarTournament",
+    "source": "homepage"
+  },
+  {
+    "url": "https://ghostly.tools",
+    "name": "MiguelMedeiros/ghostly",
+    "source": "homepage"
+  },
+  {
+    "url": "https://triptych.github.io/web-games-andrew/",
+    "name": "triptych/web-games-andrew",
+    "source": "homepage"
+  },
+  {
+    "url": "https://beads.gascity.com",
+    "name": "gastownhall/beads",
+    "source": "homepage"
+  },
+  {
+    "url": "https://youmind.com/gpt-image-2-prompts",
+    "name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "source": "homepage"
+  },
+  {
+    "url": "https://cashapp.github.io/misk/",
+    "name": "cashapp/misk",
+    "source": "homepage"
+  },
+  {
+    "url": "https://suhaasbadada.github.io/wisp/",
+    "name": "suhaasbadada/wisp",
+    "source": "homepage"
+  },
+  {
+    "url": "https://wisp.mercurywork.shop",
+    "name": "MercuryWorkshop/wisp-protocol",
+    "source": "homepage"
+  },
+  {
+    "url": "https://ttkododoi.github.io/AstraxCraft/",
+    "name": "ttkododoi/AstraxCraft",
+    "source": "homepage"
+  },
+  {
+    "url": "https://eagler-eight-iota.vercel.app",
+    "name": "Js23321/Eagler",
+    "source": "homepage"
+  },
+  {
+    "url": "wss://host",
+    "name": "Js23321/Eagler",
+    "source": "readme"
+  },
+  {
+    "url": "wss://ellan.site/tunnel",
+    "name": "JohnComputers/lunar-eagler-bridge",
+    "source": "readme"
+  },
+  {
+    "url": "https://eaglerlite.1b2t.xyz",
+    "name": "PlanetDogeCodes/EaglerLite",
+    "source": "homepage"
+  }
+]

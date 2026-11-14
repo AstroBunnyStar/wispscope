@@ -1,0 +1,4 @@
+wss://anura.pro/
+wss://relay.deev.is/
+wss://relay.lax1dude.net/
+wss://relay.shhnowisnottheti.me/

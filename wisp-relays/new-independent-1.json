@@ -1,0 +1,11 @@
+[
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "source": "generic proxy bundle",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 200 OK"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {"url":"wss://us-east.wisp.q13x.com/","name":"q13x US East","source":"WorldEditAxe/wisp-docker; certificate SAN"},
+  {"url":"wss://us-west.wisp.q13x.com/","name":"q13x US West","source":"certificate SAN for wisp.q13x.com"},
+  {"url":"wss://eu-central.wisp.q13x.com/","name":"q13x EU Central","source":"certificate SAN for wisp.q13x.com"},
+  {"url":"wss://se-asia.wisp.q13x.com/","name":"q13x SE Asia","source":"certificate SAN for wisp.q13x.com"},
+  {"url":"wss://mci-wisp-node.sparkpowered.org/","name":"Spark Kansas City","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://nrt-wisp-node.sparkpowered.org/","name":"Spark Tokyo","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://fra-wisp-node.sparkpowered.org/","name":"Spark Frankfurt","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://sin-wisp-node.sparkpowered.org/","name":"Spark Singapore","source":"WorldEditAxe/webshell src/lib/wisp.ts"}
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "url": "wss://red-wire.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://red-wire.org/",
+    "host": "red-wire.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://red-wire.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://red-wire.org/",
+    "host": "red-wire.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://red-wire.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://red-wire.org/",
+    "host": "red-wire.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://lyra.zip/wisp/",
+    "evidence": "generic-path",
+    "page": "https://lyra.zip/",
+    "host": "lyra.zip",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://lyra.zip/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://lyra.zip/",
+    "host": "lyra.zip",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://lyra.zip/wisp",
+    "evidence": "generic-path",
+    "page": "https://lyra.zip/",
+    "host": "lyra.zip",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/wisp/",
+    "evidence": "generic-path",
+    "page": "https://gust-browser.vercel.app/",
+    "host": "gust-browser.vercel.app",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://gust-browser.vercel.app/",
+    "host": "gust-browser.vercel.app",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://gust-browser.vercel.app/wisp",
+    "evidence": "generic-path",
+    "page": "https://gust-browser.vercel.app/",
+    "host": "gust-browser.vercel.app",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/wisp/",
+    "evidence": "generic-path",
+    "page": "https://phosphur.etcherfx.dev/",
+    "host": "phosphur.etcherfx.dev",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://phosphur.etcherfx.dev/",
+    "host": "phosphur.etcherfx.dev",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://phosphur.etcherfx.dev/wisp",
+    "evidence": "generic-path",
+    "page": "https://phosphur.etcherfx.dev/",
+    "host": "phosphur.etcherfx.dev",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/wisp/",
+    "evidence": "generic-path",
+    "page": "https://hypers0nic.vercel.app/",
+    "host": "hypers0nic.vercel.app",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://hypers0nic.vercel.app/",
+    "host": "hypers0nic.vercel.app",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://hypers0nic.vercel.app/wisp",
+    "evidence": "generic-path",
+    "page": "https://hypers0nic.vercel.app/",
+    "host": "hypers0nic.vercel.app",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://metallic.eu.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://metallic.eu.org/",
+    "host": "metallic.eu.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://metallic.eu.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://metallic.eu.org/",
+    "host": "metallic.eu.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://metallic.eu.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://metallic.eu.org/",
+    "host": "metallic.eu.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://isle.city/wisp/",
+    "evidence": "generic-path",
+    "page": "https://isle.city/",
+    "host": "isle.city",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://isle.city/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://isle.city/",
+    "host": "isle.city",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://isle.city/wisp",
+    "evidence": "generic-path",
+    "page": "https://isle.city/",
+    "host": "isle.city",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "evidence": "generic-path",
+    "page": "https://admin.proxy.hydrovolter.com/",
+    "host": "admin.proxy.hydrovolter.com",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://admin.proxy.hydrovolter.com/",
+    "host": "admin.proxy.hydrovolter.com",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp",
+    "evidence": "generic-path",
+    "page": "https://admin.proxy.hydrovolter.com/",
+    "host": "admin.proxy.hydrovolter.com",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp/",
+    "evidence": "generic-path",
+    "page": "https://health.acne-support.info/",
+    "host": "health.acne-support.info",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://health.acne-support.info/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://health.acne-support.info/",
+    "host": "health.acne-support.info",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp",
+    "evidence": "generic-path",
+    "page": "https://health.acne-support.info/",
+    "host": "health.acne-support.info",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://safetystore.pages.dev/wisp/",
+    "evidence": "generic-path",
+    "page": "https://safetystore.pages.dev/",
+    "host": "safetystore.pages.dev",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://safetystore.pages.dev/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://safetystore.pages.dev/",
+    "host": "safetystore.pages.dev",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://safetystore.pages.dev/wisp",
+    "evidence": "generic-path",
+    "page": "https://safetystore.pages.dev/",
+    "host": "safetystore.pages.dev",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://holyunblocker.org/wisp/",
+    "evidence": "generic-path",
+    "page": "https://holyunblocker.org/",
+    "host": "holyunblocker.org",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://holyunblocker.org/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://holyunblocker.org/",
+    "host": "holyunblocker.org",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://holyunblocker.org/wisp",
+    "evidence": "generic-path",
+    "page": "https://holyunblocker.org/",
+    "host": "holyunblocker.org",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp/",
+    "evidence": "literal",
+    "page": "https://splash.best/",
+    "host": "wisp.rhw.one",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://wisp.rhw.one/",
+    "evidence": "literal",
+    "page": "https://splash.best/",
+    "host": "wisp.rhw.one",
+    "path": "/"
+  },
+  {
+    "url": "wss://splash.best/wisp/",
+    "evidence": "generic-path",
+    "page": "https://splash.best/",
+    "host": "splash.best",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://splash.best/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://splash.best/",
+    "host": "splash.best",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://splash.best/wisp",
+    "evidence": "generic-path",
+    "page": "https://splash.best/",
+    "host": "splash.best",
+    "path": "/wisp"
+  },
+  {
+    "url": "wss://settings.lhost.dev/wisp/",
+    "evidence": "generic-path",
+    "page": "https://settings.lhost.dev/",
+    "host": "settings.lhost.dev",
+    "path": "/wisp/"
+  },
+  {
+    "url": "wss://settings.lhost.dev/api/wisp/",
+    "evidence": "generic-path",
+    "page": "https://settings.lhost.dev/",
+    "host": "settings.lhost.dev",
+    "path": "/api/wisp/"
+  },
+  {
+    "url": "wss://settings.lhost.dev/wisp",
+    "evidence": "generic-path",
+    "page": "https://settings.lhost.dev/",
+    "host": "settings.lhost.dev",
+    "path": "/wisp"
+  }
+]

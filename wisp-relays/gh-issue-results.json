@@ -1,0 +1,38 @@
+[
+  {
+    "url": "wss://studylive.up.railway.app/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 157,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wispbyte.com/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 261,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://genesis-wisp.onrender.com/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10004,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.djorivaltech.com/",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:handshake",
+    "version": 0,
+    "latencyMs": 10005,
+    "firstLine": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "url": "wss://truffled.lol/wisp/",
+    "name": "Truffled",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 291,
+    "closeReason": null,
+    "dataBytes": 925,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:13 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://daydreamx.pro/wisp/",
+    "name": "DaydreamX",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 298,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:13 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://studyworkandmore.uk/wisp/",
+    "name": "Study Work and More",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 307,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:13 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://xh4r26oz8gg460od.oid76seqraqkbvwx.mvd.hi.stack.ddnsfree.com/wisp/",
+    "name": "51.222.206.184 backend",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 318,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:13 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://civil.quartinal.me/wisp/",
+    "name": "Civil Quartinal",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 447,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://petezahgames.com/wisp/",
+    "name": "Petezah Games",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 549,
+    "closeReason": null,
+    "dataBytes": 932,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://15.204.116.230.sslip.io/wisp/",
+    "name": "15.204.116.230 backend",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 565,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://achromaon.top/wisp/",
+    "name": "Achromaon",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 580,
+    "closeReason": null,
+    "dataBytes": 929,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://edushasta.lol/wisp/",
+    "name": "EduShasta",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 666,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://aetheris.win/wisp/",
+    "name": "Aetheris",
+    "source": "new-independent",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 749,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:42:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  }
+]

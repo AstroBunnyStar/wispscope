@@ -1,0 +1,189 @@
+[
+  {
+    "site": "https://holyunblocker.com/",
+    "status": 401,
+    "final": "http://ww547.holyunblocker.com/?tkn=19vnMT3S",
+    "scripts": 0,
+    "urls": []
+  },
+  {
+    "site": "https://holyunblocker.org/",
+    "status": 403,
+    "final": "https://holyunblocker.org/",
+    "scripts": 0,
+    "urls": []
+  },
+  {
+    "site": "https://dogeunblocker.com/",
+    "error": "fetch failed"
+  },
+  {
+    "site": "https://parcoil.com/",
+    "status": 200,
+    "final": "https://parcoil.com/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://nebula.quest/",
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "site": "https://nebula-services.xyz/",
+    "error": "fetch failed"
+  },
+  {
+    "site": "https://titaniumnetwork.org/",
+    "status": 403,
+    "final": "https://titaniumnetwork.org/",
+    "scripts": 0,
+    "urls": []
+  },
+  {
+    "site": "https://playobsidian.com/",
+    "status": 200,
+    "final": "https://playobsidian.com/",
+    "scripts": 1,
+    "urls": []
+  },
+  {
+    "site": "https://shuttleproxy.com/",
+    "status": 200,
+    "final": "https://shuttleproxy.com/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://invisiproxy.com/",
+    "status": 200,
+    "final": "https://invisiproxy.com/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://definitelyscience.com/",
+    "status": 200,
+    "final": "https://definitelyscience.com/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://lichology.com/",
+    "status": 200,
+    "final": "https://lichology.com/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://mages.io/",
+    "status": 200,
+    "final": "https://mages.io/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://tinf0il.site/",
+    "status": 200,
+    "final": "https://tinf0il.site/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://fern.best/",
+    "status": 200,
+    "final": "https://fern.best/",
+    "scripts": 3,
+    "urls": []
+  },
+  {
+    "site": "https://orbitweb.org/",
+    "status": 200,
+    "final": "https://orbitweb.org/",
+    "scripts": 3,
+    "urls": []
+  },
+  {
+    "site": "https://terbiumon.top/",
+    "status": 200,
+    "final": "https://terbiumon.top/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://anura.pro/",
+    "status": 200,
+    "final": "https://anura.pro/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://vibeos.sh/",
+    "status": 200,
+    "final": "https://vibeos.sh/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://studyworkandmore.uk/",
+    "status": 200,
+    "final": "https://studyworkandmore.uk/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://daydreamx.pro/",
+    "status": 200,
+    "final": "https://daydreamx.pro/",
+    "scripts": 0,
+    "urls": []
+  },
+  {
+    "site": "https://truffled.lol/",
+    "status": 200,
+    "final": "https://truffled.lol/",
+    "scripts": 1,
+    "urls": []
+  },
+  {
+    "site": "https://petezahgames.com/",
+    "status": 200,
+    "final": "https://petezahgames.com/verify?reason=activity",
+    "scripts": 2,
+    "urls": []
+  },
+  {
+    "site": "https://achromaon.top/",
+    "status": 200,
+    "final": "https://achromaon.top/",
+    "scripts": 3,
+    "urls": []
+  },
+  {
+    "site": "https://aetheris.win/",
+    "status": 200,
+    "final": "https://aetheris.win/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://edushasta.lol/",
+    "status": 200,
+    "final": "https://edushasta.lol/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://civil.quartinal.me/",
+    "status": 200,
+    "final": "https://civil.quartinal.me/",
+    "scripts": 4,
+    "urls": []
+  },
+  {
+    "site": "https://crllect.dev/",
+    "status": 200,
+    "final": "https://crllect.dev/",
+    "scripts": 1,
+    "urls": []
+  }
+]

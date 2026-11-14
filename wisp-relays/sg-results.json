@@ -1,0 +1,38 @@
+[
+  {
+    "url": "wss://wisp.solife.me/",
+    "source": "sourcegraph",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 56,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://nebulaservices.org/wisp/",
+    "source": "sourcegraph",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 111,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tomp.app/wisp",
+    "source": "sourcegraph",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 125,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tomp.app/wisp/",
+    "source": "sourcegraph",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 126,
+    "firstLine": ""
+  }
+]

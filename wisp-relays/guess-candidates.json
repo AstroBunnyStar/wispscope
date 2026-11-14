@@ -1,0 +1,17 @@
+[
+  {"url":"wss://epoxy.mercurywork.shop/","name":"epoxy demo"},
+  {"url":"wss://wisp-beta.mercurywork.shop/","name":"wisp beta"},
+  {"url":"wss://wisp2.mercurywork.shop/","name":"wisp2"},
+  {"url":"wss://wisp.ading.dev/","name":"ading"},
+  {"url":"wss://wisp.r58playz.dev/","name":"r58playz"},
+  {"url":"wss://wisp.ducks.party/","name":"ducks.party"},
+  {"url":"wss://wisp.crllect.dev/","name":"crllect"},
+  {"url":"wss://wisp.venith.net/","name":"venith"},
+  {"url":"wss://wisp.terbiumon.top/","name":"terbium"},
+  {"url":"wss://wisp.holyunblocker.com/","name":"holyunblocker"},
+  {"url":"wss://wisp.nebula.vercel.app/","name":"nebula"},
+  {"url":"wss://wisp.anura.pro/","name":"anura sub"},
+  {"url":"wss://wisp.mercurywork.shop/wisp/","name":"mercury /wisp/"},
+  {"url":"wss://wisp.webmc.xyz/wisp/","name":"webmc /wisp/"},
+  {"url":"wss://anura.pro/wisp/","name":"anura /wisp/"}
+]

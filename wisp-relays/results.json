@@ -1,0 +1,86 @@
+[
+  {
+    "url": "wss://purnhab68-gitea.hf.space/",
+    "name": "purnhab68",
+    "source": "wisp-proxy-list",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 734,
+    "closeReason": null,
+    "dataBytes": 932,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 13:10:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "Mercury Workshop",
+    "source": "wisp-proxy-list",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 815,
+    "closeReason": null,
+    "dataBytes": 927,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 13:10:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://anura.pro/",
+    "name": "Anura",
+    "source": "wisp-proxy-list",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 827,
+    "closeReason": null,
+    "dataBytes": 932,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 13:10:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp.webmc.xyz/",
+    "name": "WebMC",
+    "source": "wisp-proxy-list",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 926,
+    "closeReason": null,
+    "dataBytes": 931,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 13:10:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://glseries.net/wisp/",
+    "name": "GLSeries",
+    "source": "staticsjv2",
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 732,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://d11zfagyzg18az.cloudfront.net/wisp/",
+    "name": "ojjyProxy backup",
+    "source": "ojjyProxy",
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 867,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://relay.widgetry.org/",
+    "name": "Widgetry",
+    "source": "AnuraOS config",
+    "ok": false,
+    "note": "timeout:handshake",
+    "version": 0,
+    "latencyMs": 14014,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

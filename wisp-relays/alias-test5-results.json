@@ -1,0 +1,47 @@
+[
+  {
+    "url": "wss://9zpbhrcegmm2x3.links.gointospace.app/wisp/",
+    "source": "fresh-shared-alias",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8006,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://5zv8uzmfng5wf2.links.gointospace.app/wisp/",
+    "source": "fresh-shared-alias",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8008,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://7j6l62iwyagskf.links.gointospace.app/wisp/",
+    "source": "fresh-shared-alias",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8009,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ovmsk6jdhe097b.links.gointospace.app/wisp/",
+    "source": "fresh-shared-alias",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8011,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://9jw0hhgmv4g3he.links.gointospace.app/wisp/",
+    "source": "fresh-shared-alias",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8014,
+    "firstLine": ""
+  }
+]

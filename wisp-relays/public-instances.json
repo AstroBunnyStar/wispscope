@@ -1,0 +1,14 @@
+[
+  {"url":"wss://holyunblocker.com/wisp/","name":"holy root wisp"},
+  {"url":"wss://holyunblocker.com/api/wisp/","name":"holy api wisp"},
+  {"url":"wss://holyunblocker.org/wisp/","name":"holy org wisp"},
+  {"url":"wss://holyunblocker.org/api/wisp/","name":"holy org api wisp"},
+  {"url":"wss://nebula.quest/wisp/","name":"nebula quest wisp"},
+  {"url":"wss://nebula.quest/api/wisp/","name":"nebula quest api wisp"},
+  {"url":"wss://nebula-services.xyz/wisp/","name":"nebula services wisp"},
+  {"url":"wss://nebula-services.xyz/api/wisp/","name":"nebula services api wisp"},
+  {"url":"wss://titaniumnetwork.org/wisp/","name":"titanium wisp"},
+  {"url":"wss://titaniumnetwork.org/api/wisp/","name":"titanium api wisp"},
+  {"url":"wss://wisp.rhw.one/","name":"rhw root"},
+  {"url":"wss://wisp.rhw.one/wisp/","name":"rhw wisp"}
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "url": "wss://fern.best/wisp/",
+    "name": "fern baseline",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 254,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:19:56 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp/",
+    "name": "vibeos baseline",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 329,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:19:56 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "mercury baseline",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 521,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:19:56 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp-server-workers.vercel.app/wisp/",
+    "name": "workers vercel wisp",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 188,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://ikonicproxy.vercel.app/wisp/",
+    "name": "ikonic vercel",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 241,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp-server-workers.vercel.app/",
+    "name": "workers vercel root",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 247,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp/",
+    "name": "kiyu proxy wisp",
+    "source": null,
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 9001,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp",
+    "name": "kiyu proxy wisp no slash",
+    "source": null,
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 9001,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/",
+    "name": "kiyu proxy root",
+    "source": null,
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 9015,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=28574",
+    "latencyMs": 195,
+    "version": 1
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp/",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=28575",
+    "latencyMs": 663,
+    "version": 1
+  }
+]

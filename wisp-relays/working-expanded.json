@@ -1,0 +1,826 @@
+{
+  "generatedAt": "2026-11-09T22:43:14.123Z",
+  "verifiedAt": "2026-11-09",
+  "count": 241,
+  "independentCount": 41,
+  "aliasCount": 200,
+  "minecraftOkIndependent": 37,
+  "test": {
+    "transport": "Wisp over WebSocket",
+    "target": "google.com:80",
+    "request": "GET / HTTP/1.1",
+    "success": "HTTP/ response received through the relay",
+    "minecraft": "Java status ping on port 25565 (Hypixel, then CubeCraft, then Origin Realms)"
+  },
+  "warning": "The 200 gateway aliases all share the gointospace.app backend. They are separate URLs, not independent relays.",
+  "independent": [
+    {
+      "url": "wss://myproxy-zeta.vercel.app/wisp/",
+      "name": "MyProxy",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 286,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://myproxy-zeta.vercel.app/api/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://motor-cycle-part.org/wisp/",
+      "name": "Motor Cycle Part",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 345,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://bare-server.fly.dev/wisp/",
+      "name": "bare-server (Fly.io)",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 372,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://fern.best/wisp/",
+      "name": "Fern",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 379,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://fern.best/wisp"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://vibeos.sh/api/wisp/",
+      "name": "vibeOS",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 407,
+      "minecraft": {
+        "ok": false,
+        "target": "Origin Realms",
+        "note": "close:72"
+      },
+      "aliases": [
+        "wss://vibeos.sh/api/wisp"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://wisp.anjomous.workers.dev/",
+      "name": "Anjomous Wisp Worker",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 423,
+      "minecraft": {
+        "ok": true,
+        "target": "CubeCraft",
+        "note": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=835"
+      },
+      "aliases": [
+        "wss://wisp.anjomous.workers.dev/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://orbitweb.org/campus/",
+      "name": "OrbitWeb",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 476,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://wisp.terbiumon.top/wisp/",
+      "name": "TerbiumOS",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 487,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://invisiproxy.com/wisp/",
+      "name": "InvisiProxy",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 516,
+      "minecraft": {
+        "ok": false,
+        "target": "Origin Realms",
+        "note": "close:65"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://definitelyscience.com/wisp/",
+      "name": "DefinitelyScience",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 539,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://lichology.com/wisp/",
+      "name": "Lichology",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 540,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://dkwmkvruzebnqlmvwzhy.supabase.co/functions/v1/proxy-wisp/",
+      "name": "Supabase proxy-wisp",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 559,
+      "minecraft": {
+        "ok": false,
+        "target": "Origin Realms",
+        "note": "close:1"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://mages.io/wisp/",
+      "name": "Mages",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 571,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://gointospace.app/wisp/",
+      "name": "GoInterstellar",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 591,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://*.links.gointospace.app/wisp/ (wildcard, same backend)"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://zakaon.top/wisp/",
+      "name": "Zakaon",
+      "protocol": "v1",
+      "httpStatus": 302,
+      "latencyMs": 655,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://vela-wisp.onrender.com/",
+      "name": "Vela Wisp (Render)",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 708,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://vela-wisp.onrender.com/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://shasta-dtg.pages.dev/wisp/",
+      "name": "Shasta",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 784,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://tinf0il.site/wisp/",
+      "name": "Tinf0il",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 788,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://yashsurjuse-wisp.hf.space/",
+      "name": "yashsurjuse HuggingFace",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 790,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://yashsurjuse-wisp.hf.space/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/wisp/",
+      "name": "Liventcord (Koyeb)",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 796,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://purnhab68-gitea.hf.space/",
+      "name": "purnhab68 HuggingFace",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 829,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://purnhab68-gitea.hf.space/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://wisp.freewisp.org/",
+      "name": "FreeWisp",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1026,
+      "minecraft": {
+        "ok": false,
+        "target": "Origin Realms",
+        "note": "close:65"
+      },
+      "aliases": [
+        "wss://freewisp.org/",
+        "wss://wisp.freewisp.org/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://wisp.webmc.xyz/",
+      "name": "WebMC",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1130,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://wisp.webmc.xyz/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://wisp.mercurywork.shop/",
+      "name": "Mercury Workshop",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1152,
+      "minecraft": {
+        "ok": true,
+        "target": "CubeCraft",
+        "note": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=834"
+      },
+      "aliases": [
+        "wss://wisp.mercurywork.shop/wisp/",
+        "wss://wisp.mercurywork.shop/v86/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://anura.pro/",
+      "name": "AnuraOS",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1161,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [
+        "wss://anura.pro/wisp/"
+      ],
+      "source": "initial"
+    },
+    {
+      "url": "wss://holywisp.fracit.al/",
+      "name": "Fracital holyWisp",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1213,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://browserjs-production.up.railway.app/wisp/",
+      "name": "BrowserJS (Railway)",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1243,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22522"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://arsenic.smartfoloo.space/wisp/",
+      "name": "Smartfoloo arsenic",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1311,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://chat.smartfoloo.space/wisp/",
+      "name": "Smartfoloo chat",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1341,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22526"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://tokyo.new-updates.info/wisp/",
+      "name": "Tokyo new-updates",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 1449,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22517"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://mex-ubg-wisp.onrender.com/wisp/",
+      "name": "MEX UBG (Render)",
+      "protocol": "v1",
+      "httpStatus": 301,
+      "latencyMs": 10532,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=22522"
+      },
+      "aliases": [],
+      "source": "initial"
+    },
+    {
+      "url": "wss://truffled.lol/wisp/",
+      "name": "Truffled",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 291,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://daydreamx.pro/wisp/",
+      "name": "DaydreamX",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 298,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://studyworkandmore.uk/wisp/",
+      "name": "Study Work and More",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 307,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://xh4r26oz8gg460od.oid76seqraqkbvwx.mvd.hi.stack.ddnsfree.com/wisp/",
+      "name": "51.222.206.184 backend",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 318,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://civil.quartinal.me/wisp/",
+      "name": "Civil Quartinal",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 447,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://petezahgames.com/wisp/",
+      "name": "Petezah Games",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 549,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://15.204.116.230.sslip.io/wisp/",
+      "name": "15.204.116.230 backend",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 565,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://achromaon.top/wisp/",
+      "name": "Achromaon",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 580,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://edushasta.lol/wisp/",
+      "name": "EduShasta",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 666,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    },
+    {
+      "url": "wss://aetheris.win/wisp/",
+      "name": "Aetheris",
+      "source": "new",
+      "protocol": "v1",
+      "httpStatus": 200,
+      "latencyMs": 749,
+      "minecraft": {
+        "ok": true,
+        "target": "Hypixel",
+        "note": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910"
+      },
+      "aliases": []
+    }
+  ],
+  "gatewayAliases": {
+    "backend": "gointospace.app",
+    "count": 200,
+    "urls": [
+      "wss://api.hfhj.links.gointospace.app/wisp/",
+      "wss://9does-no-exist33.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6update.ikgqcgxpipen.anything.links.gointospace.app/wisp/",
+      "wss://api.first.links.gointospace.app/wisp/",
+      "wss://api.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.dev.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.wwwwww.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9wwwdoes-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://7update.www.update.www.en.anything.links.gointospace.app/wisp/",
+      "wss://api.en.first.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://76update.wwwhfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://7update.update.www.status.anything.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.hfhj.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6update.wwwhfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://9en.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://9www.www.en.www.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://abxugupdate.9www.www.wwwdoes-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://76update.admin.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.dev.anything.links.gointospace.app/wisp/",
+      "wss://ampistestingspace.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.en.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://api.mail.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://543update.update.admin.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.dev.www.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://7update.www.update.assets.anything.links.gointospace.app/wisp/",
+      "wss://6update.admin.www.en.www.anything.links.gointospace.app/wisp/",
+      "wss://9fcecqadmin.www.does-no-exist33.hfhj.links.gointospace.app/wisp/",
+      "wss://anything.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6www.update.xgiinghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://8www.update.app.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://54update.www.www.admin.www.first.links.gointospace.app/wisp/",
+      "wss://8update.app.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.dev.first.links.gointospace.app/wisp/",
+      "wss://admin.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://4update.update.www.api.anything.links.gointospace.app/wisp/",
+      "wss://admin.anything.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://5txteodev.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://admin.www.wwwwww.www.www.first.links.gointospace.app/wisp/",
+      "wss://api.dev.first.links.gointospace.app/wisp/",
+      "wss://api.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://admin.www.www.www.first.links.gointospace.app/wisp/",
+      "wss://67.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://admin.en.does-no-exist33.wwwwww.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://76www.update.xgiinghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9www.www.en.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.dev.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.www.www.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://76update.en.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://9update.does-no-exist33.en.first.links.gointospace.app/wisp/",
+      "wss://9update.update.www.www.www.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://api.dev.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://admin.en.does-no-exist33.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.wwwwww.www.first.links.gointospace.app/wisp/",
+      "wss://api.does-no-exist33.en.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://api.dev.does-no-exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.dev.does-no-exist33.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://4update.update.api.anything.links.gointospace.app/wisp/",
+      "wss://5admin.does-no-exist33.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://9update.1staging.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9update.app.does-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://admin.wwwfirst.links.gointospace.app/wisp/",
+      "wss://api.dev.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://api.dev.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6update.ikgqcgxpipen.www.anything.links.gointospace.app/wisp/",
+      "wss://9update.update.www.ampistestingspace.links.gointospace.app/wisp/",
+      "wss://admin.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://api.anything.links.gointospace.app/wisp/",
+      "wss://api.dev.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://8update.update.www.www.www.anything.links.gointospace.app/wisp/",
+      "wss://adoes-no-exist33.update.www.update.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://6staging.does-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.www.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://8update.0status.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9update.update.admin.www.wwwww.first.links.gointospace.app/wisp/",
+      "wss://4update.update.www.www.www.hfhj.links.gointospace.app/wisp/",
+      "wss://8update.api.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://8update.update.admin.www.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://9update.update.ampistestingspace.links.gointospace.app/wisp/",
+      "wss://admin.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.www.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.hfhj.links.gointospace.app/wisp/",
+      "wss://5.links.gointospace.app/wisp/",
+      "wss://5update.9update.update.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://6staging.www.wwwwww.www.www.first.links.gointospace.app/wisp/",
+      "wss://9en.www.www.www.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9update.1www.update.qdpzewwwww.first.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.www.hfhj.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.www.www.first.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.hfhj.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://87update.update.assets.anything.links.gointospace.app/wisp/",
+      "wss://9staging.en.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://87update.www.update.www.en.anything.links.gointospace.app/wisp/",
+      "wss://8update.update.admin.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.en.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.wwwwww.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://7admin.en.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://7update.api.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://9www.update.does-no-exist33.en.first.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.www.www.first.links.gointospace.app/wisp/",
+      "wss://9update.9wwwdoes-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://76backend.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://87update.www.update.assets.anything.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.en.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://admin.www.www.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.dev.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.en.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.en.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6backend.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://6update.icfrsdev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.www.hfhj.links.gointospace.app/wisp/",
+      "wss://6update.admin.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://9update.api.does-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.dev.www.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.en.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://7staging.en.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://8update.admin.does-no-exist33.first.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.dev.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://69update.does-no-exist33.en.first.links.gointospace.app/wisp/",
+      "wss://6update.en.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://9update.update.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://5www.www.update.qdpzewwwww.first.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://58update.update.admin.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://admin.dev.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://3update.update.en.hfhj.links.gointospace.app/wisp/",
+      "wss://32update.xgiinghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.en.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.www.first.links.gointospace.app/wisp/",
+      "wss://admin.dev.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.hfhj.links.gointospace.app/wisp/",
+      "wss://admin.www.en.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://43update.update.admin.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.www.anything.links.gointospace.app/wisp/",
+      "wss://admin.www.does-no-exist33.wwwwww.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://4update.api.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://8update.www.update.www.app.wwwfirst.links.gointospace.app/wisp/",
+      "wss://2update.33.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.dev.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://admin.does-no-exist33.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://admin.first.links.gointospace.app/wisp/",
+      "wss://432update.www.admin.en.anything.links.gointospace.app/wisp/",
+      "wss://93.links.gointospace.app/wisp/",
+      "wss://4update.update.qdpzewwwww.first.links.gointospace.app/wisp/",
+      "wss://admin.wwfirst.links.gointospace.app/wisp/",
+      "wss://4update.www.www.admin.www.first.links.gointospace.app/wisp/",
+      "wss://admin.en.anything.links.gointospace.app/wisp/",
+      "wss://admin.exist33.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://00.links.gointospace.app/wisp/",
+      "wss://33.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://3update.update.status.anything.links.gointospace.app/wisp/",
+      "wss://5api.www.en.www.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://4update.update.qdpzewwfirst.links.gointospace.app/wisp/",
+      "wss://32update.www.admin.en.anything.links.gointospace.app/wisp/",
+      "wss://3update.update.www.www.webmail.links.gointospace.app/wisp/",
+      "wss://43update.admin.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://1000.links.gointospace.app/wisp/",
+      "wss://36update.ikgqcgxpipen.anything.links.gointospace.app/wisp/",
+      "wss://1staging.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://1update.admin.www.hsdlksldkf.links.gointospace.app/wisp/",
+      "wss://admin.www.dev.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://0api.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://21update.api.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://2update.www.www.dev.dev.first.links.gointospace.app/wisp/",
+      "wss://1www.update.staging.www.hfhj.links.gointospace.app/wisp/",
+      "wss://3update.update.www.www.en.hfhj.links.gointospace.app/wisp/",
+      "wss://4admin.www.does-no-exist33.hfhj.links.gointospace.app/wisp/",
+      "wss://3update.admin.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://3update.update.admin.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://0www.update.assets.anything.links.gointospace.app/wisp/",
+      "wss://0www.www.wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://2www.does-no-exist33.www.hfhj.links.gointospace.app/wisp/",
+      "wss://3update.www.admin.en.eeeehgvjf.links.gointospace.app/wisp/",
+      "wss://0status.wwwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://2update.xgiinghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://0e9d6874-9ae8-4cd8-892f-081e6e9b3d5d.dev.dev.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://1update.api.ghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://2update.admin.en.anything.links.gointospace.app/wisp/",
+      "wss://29wwwdoes-no-exist33.anything.links.gointospace.app/wisp/",
+      "wss://2update.www.admin.en.anything.links.gointospace.app/wisp/",
+      "wss://2www.www.wwwwww.www.www.first.links.gointospace.app/wisp/",
+      "wss://100.links.gointospace.app/wisp/",
+      "wss://0wwghfchujedujhbhre.links.gointospace.app/wisp/",
+      "wss://0dev.hfhdgsvdhsbsfjbfbfhdvd.links.gointospace.app/wisp/",
+      "wss://0.links.gointospace.app/wisp/"
+    ]
+  }
+}

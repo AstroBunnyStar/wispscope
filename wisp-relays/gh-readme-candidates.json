@@ -1,0 +1,512 @@
+[
+  {
+    "url": "wss://relay.widgetry.org/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-server.example/wisp/",
+    "name": "jorgitogomezmadrazo-gif/PS5-2",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://.../wisp/",
+    "name": "jorgitogomezmadrazo-gif/PS5-2",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.net/",
+    "name": "0magnet/websh",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://HOST:8090/",
+    "name": "0magnet/websh",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop",
+    "name": "Fracital/epoxy-tls",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://example.com/wisp/",
+    "name": "wonderhoy-labs/asahi",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example/",
+    "name": "wonderhoy-labs/asahi",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:4173/wisp/",
+    "name": "wonderhoy-labs/asahi",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "damonrosshutchins-boop/dr-seuss-search",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://.../",
+    "name": "damonrosshutchins-boop/dr-seuss-search",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.com/,other.example",
+    "name": "nyxOSdev760/sj2",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/wisp/&username=whatever",
+    "name": "zaka13alt/7kX4p",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://zakaon.top/wisp/",
+    "name": "zaka13alt/fastsw-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://127.0.0.1:6001/",
+    "name": "Fracital/holyWisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://wisp.example:6001/",
+    "name": "Fracital/holyWisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.com/",
+    "name": "Fracital/holyWisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:4000/",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://anura.pro/",
+    "name": "brooksch1234/webproxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:9000/wisp/**",
+    "name": "jo-jo-home/ojjyProxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.com/wisp/",
+    "name": "jo-jo-home/ojjyProxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-domain.example.com/wisp/",
+    "name": "jo-jo-home/ojjyProxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-relay-host/wisp/",
+    "name": "jo-jo-home/ojjyProxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://yourdomain/wisp/",
+    "name": "cocaine4kids35/nimbus",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp-render.onrender.com/x7k9.../",
+    "name": "yongshuai1013/wisp-render",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.boety.fun/wisp/",
+    "name": "TheToxicDog/wisp.boety.fun",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp/",
+    "name": "Deathstrider512/SPLASH",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp-signal",
+    "name": "domeepc/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.com/'",
+    "name": "Night-N3twork/Nova",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-server.example.com/wisp/",
+    "name": "random-school-stuff/keystone",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.freewisp.org/",
+    "name": "random-school-stuff/keystone",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.terbiumon.top/wisp/",
+    "name": "random-school-stuff/keystone",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/",
+    "name": "random-school-stuff/keystone",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://host/wisp/",
+    "name": "random-school-stuff/keystone",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://longafellow.onrender.com/wisp/",
+    "name": "yeezeedonthavekids-gif/longafellow",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://backend-ivvq.onrender.com/wisp/",
+    "name": "viztrrx/scramjet-backend",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://anura.pro/wisp/",
+    "name": "brysona320-coder/webvm2.0",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.rhw.one/",
+    "name": "wl-unblock/MIN-wlyt-Plus",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://bare-server.fly.dev/wisp/",
+    "name": "Skidware-osint-dc/nebulaos",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop'",
+    "name": "Bubbergamesites/Mini",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://ghostlite-wisp-relay.onrender.com/",
+    "name": "NotAbdullahHD/ghost-wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example/'",
+    "name": "Night-N3twork/LunaSSH",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://relay.example.com/wisp",
+    "name": "kekxv/kcode",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-domain/",
+    "name": "kekxv/kcode",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-server.example/'",
+    "name": "will-k16/dw-refresh",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://anura.pro",
+    "name": "PlanetDogeCodes/Hypers0nic",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.example.com",
+    "name": "CyrilSLi/epoxy-tls-polyfill",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/wisp/",
+    "name": "MessageX-Online/SmellyProxy.github.io",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-host/wisp/",
+    "name": "tbroprd-eng/scramjet-frontend",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-app.up.railway.app/wisp/",
+    "name": "tbroprd-eng/scramjet-wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-app.onrender.com/wisp/",
+    "name": "tbroprd-eng/scramjet-wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-app.fly.dev/wisp/",
+    "name": "tbroprd-eng/scramjet-wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://...../wisp/",
+    "name": "tbroprd-eng/scramjet-wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercuryworkshop.xyz/",
+    "name": "urnperiodic/pi",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.nova0.lol",
+    "name": "conmancloss/hellonova",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-host.example.com/wisp/",
+    "name": "NOTAHACKER9999/scrammm",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-server.example.com/'",
+    "name": "conmancloss/Nova03",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://anura.pro/wisp",
+    "name": "conmancloss/Nova03",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/wisp/'",
+    "name": "simplyrohan/lethal-js",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://example.com/wisp/'",
+    "name": "Fracital/powerMouse",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://",
+    "name": "SuperNova-Network/SuperNova-OS",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-host/",
+    "name": "SingularityLarp300/Singularity-v2",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:6001/",
+    "name": "kagamiomochi/Synthesis-Spotify",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:8080/wisp/",
+    "name": "IELevy/yllw",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://example.com/ws/alicesworld.tech:80",
+    "name": "MercuryWorkshop/wisp-js",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:18787/wisp/",
+    "name": "ee-/dokodemo",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://127.0.0.1:5001/wisp/",
+    "name": "UNBL0CKEDZ0NE/wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp.example/wisp/,wss://backup.example/",
+    "name": "socks275/Relay-hub",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://192.168.1.10:8927/sendspin",
+    "name": "warreth/wisp-pi-zero-w-image",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://127.0.0.1:6970/wisp",
+    "name": "eze-paz/walios",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://wisper.gost.run:443",
+    "name": "go-gost/mcp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://example.com/wisp/&url=https://example.com/",
+    "name": "ltorl/peekaboom-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:5001/",
+    "name": "ltorl/peekaboom-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://satona-wisp-browser-20261005.satona.workers.dev/wisp/",
+    "name": "Neon-VR/satona-source",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://127.0.0.1:4000/",
+    "name": "Neon-VR/satona-source",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://relay.sekta-classes.online/wisp/",
+    "name": "sektanaymikon/sekta-network",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-server/'",
+    "name": "Night-N3twork/MoonBeam",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://wisp-gateway.local/",
+    "name": "Night-N3twork/MoonBeam",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://gointospace.app/wisp/'",
+    "name": "Night-N3twork/MoonBeam",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-domain.example/wisp/",
+    "name": "Harshayt69/harshayt-wisp-relay",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:8081/wisp/",
+    "name": "notpozzii/orbit-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://orbit-proxy-6iw7.onrender.com/wisp/",
+    "name": "notpozzii/orbit-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-relay.example/",
+    "name": "eirasmx/moles",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-server.example/wisp/",
+    "name": "woolisbest-honke/light-lite-url",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://localhost:4142/",
+    "name": "trmekala11-dev/fih26",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://your-host:4142/",
+    "name": "trmekala11-dev/fih26",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-domain.com:8081/'",
+    "name": "Armaz/scramjet-search-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your.domain/wisp/",
+    "name": "devmidnightst/umbrella",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://mex-ubg-wisp.onrender.com/wisp/",
+    "name": "thehambugermanreal/mex",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-wisp-host.example/wisp/",
+    "name": "3541Hazen/golden-eagle-wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-service.containers.snapdeploy.app/wisp/",
+    "name": "3541Hazen/scramjet-wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-service.northflank.app/wisp/",
+    "name": "3541Hazen/scramjet-wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://golden-eagle-wisp.onrender.com/wisp/",
+    "name": "3541Hazen/scramjet-wisp",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-koyeb-service.koyeb.app/wisp/",
+    "name": "sigmabread/orbit-vercel-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://proxy.example.com/wisp/",
+    "name": "the3324/proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://browserjs-production.up.railway.app/wisp/",
+    "name": "btwiuse/gear-browser",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-server.com/wisp/",
+    "name": "cappy-dev/scramjet-proxy",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-server/",
+    "name": "TaxCollector23/rangoon",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://safari-b2-wisp.onrender.com/wisp/",
+    "name": "esimeon-oss/Safari",
+    "source": "github-readme"
+  },
+  {
+    "url": "wss://your-tunnel-url",
+    "name": "ghostproxyofficial/wisp-server",
+    "source": "github-readme"
+  },
+  {
+    "url": "ws://nebulaproxy.io/wisp/",
+    "name": "Notplayingallday383/uv-static-aio",
+    "source": "github-readme"
+  }
+]

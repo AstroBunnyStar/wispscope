@@ -1,0 +1,50 @@
+[
+  {
+    "url": "wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 281,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://speedster.heavengtwashere.workers.dev/wisp/",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 445,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://anura.pro/wisp",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 522,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://anura.pro/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 544,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://anura.pro/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 1,
+    "latencyMs": 590,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 874,
+    "firstLine": ""
+  }
+]

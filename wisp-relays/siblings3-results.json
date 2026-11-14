@@ -1,0 +1,122 @@
+[
+  {
+    "url": "wss://fern.best/wisp",
+    "name": "fern wisp no slash",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 299,
+    "closeReason": null,
+    "dataBytes": 923,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:19:25 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://relay.fern.best/wisp/",
+    "name": "relay fern",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 17,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://api.fern.best/wisp/",
+    "name": "api fern",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 31,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.fern.best/wisp/",
+    "name": "wisp fern",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 46,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://fern.best/ws",
+    "name": "fern ws",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 197,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://fern.best/api/wisp/",
+    "name": "fern api",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 219,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp/v2",
+    "name": "vibeos v2",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 262,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://vibeos.sh/api/wisp2",
+    "name": "vibeos wisp2",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 264,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.vibeos.sh/wisp/",
+    "name": "wisp vibeos",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 292,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://relay.vibeos.sh/wisp/",
+    "name": "relay vibeos",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 497,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

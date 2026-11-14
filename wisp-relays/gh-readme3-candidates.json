@@ -1,0 +1,47 @@
+[
+  {
+    "url": "wss://relay.widgetry.org/",
+    "name": "InkDOSHub/inkdoshub.github.io",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://wisp.example.com/",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://relay.eaglercraft.net",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "github-readme3"
+  },
+  {
+    "url": "ws://localhost:4000/",
+    "name": "Reb0rnEnder/MinecraftJS",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://wisp-signal",
+    "name": "domeepc/wisp",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://backend-ivvq.onrender.com/wisp/",
+    "name": "viztrrx/scramjet-backend",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://goarxyz-wisp.goarxyz.workers.dev/wisp",
+    "name": "cxyz22x/goarxyz-watch-play-listen",
+    "source": "github-readme3"
+  },
+  {
+    "url": "wss://satona-wisp-browser-20261005.satona.workers.dev/wisp/",
+    "name": "Neon-VR/satona-source",
+    "source": "github-readme3"
+  },
+  {
+    "url": "ws://127.0.0.1:4000/",
+    "name": "Neon-VR/satona-source",
+    "source": "github-readme3"
+  }
+]

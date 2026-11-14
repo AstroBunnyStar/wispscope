@@ -1,0 +1,22 @@
+[
+  {
+    "url": "ws://host:8787",
+    "name": "melonman106/Wisp-Relay",
+    "source": "repo-scan"
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev",
+    "name": "melonman106/Wisp-Relay",
+    "source": "repo-scan"
+  },
+  {
+    "url": "wss://golden-eagle-wisp.onrender.com/wisp/",
+    "name": "3541Hazen/scramjet-wisp",
+    "source": "repo-scan"
+  },
+  {
+    "url": "wss://api.antarctic.games/wisp/",
+    "name": "eliandeanzo2014-creator/Palladium-Games",
+    "source": "repo-scan"
+  }
+]

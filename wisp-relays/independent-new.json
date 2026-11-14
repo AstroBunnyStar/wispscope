@@ -1,0 +1,13 @@
+[
+  {"url":"wss://15.204.116.230.sslip.io/wisp/","name":"15.204.116.230 backend"},
+  {"url":"wss://51.222.206.184.sslip.io/wisp/","name":"51.222.206.184 backend"},
+  {"url":"wss://15.204.116.230.nip.io/wisp/","name":"15.204.116.230 nip"},
+  {"url":"wss://51.222.206.184.nip.io/wisp/","name":"51.222.206.184 nip"},
+  {"url":"wss://edushasta.lol/wisp/","name":"edushasta"},
+  {"url":"wss://truffled.lol/wisp/","name":"truffled"},
+  {"url":"wss://petezahgames.com/wisp/","name":"petezahgames"},
+  {"url":"wss://studyworkandmore.uk/wisp/","name":"studyworkandmore"},
+  {"url":"wss://daydreamx.pro/wisp/","name":"daydreamx"},
+  {"url":"wss://civil.quartinal.me/wisp/","name":"civil quartinal"},
+  {"url":"wss://aetheris.win/wisp/","name":"aetheris"}
+]

@@ -1,0 +1,20 @@
+[
+  {"url":"wss://gointerstellar.app/wisp/","name":"interstellar wisp"},
+  {"url":"wss://gointerstellar.app/api/wisp/","name":"interstellar api wisp"},
+  {"url":"wss://wisp.gointerstellar.app/","name":"interstellar wisp sub"},
+  {"url":"wss://scramjet.mercurywork.shop/wisp/","name":"scramjet playground wisp"},
+  {"url":"wss://scramjet.mercurywork.shop/api/wisp/","name":"scramjet playground api"},
+  {"url":"wss://wisp.scramjet.mercurywork.shop/","name":"scramjet wisp sub"},
+  {"url":"wss://holyubofficial.net/wisp/","name":"holy official wisp"},
+  {"url":"wss://holyubofficial.net/api/wisp/","name":"holy official api wisp"},
+  {"url":"wss://wisp.holyubofficial.net/","name":"holy wisp sub"},
+  {"url":"wss://dogeunblocker.com/wisp/","name":"doge wisp"},
+  {"url":"wss://dogeunblocker.com/api/wisp/","name":"doge api wisp"},
+  {"url":"wss://parcoil.com/wisp/","name":"parcoil wisp"},
+  {"url":"wss://parcoil.com/api/wisp/","name":"parcoil api wisp"},
+  {"url":"wss://obsidian.titaniumnetwork.org/wisp/","name":"obsidian wisp"},
+  {"url":"wss://obsidian.titaniumnetwork.org/api/wisp/","name":"obsidian api wisp"},
+  {"url":"wss://wisp.invisiproxy.com/","name":"invisi wisp sub"},
+  {"url":"wss://invisiproxy.com/api/wisp/","name":"invisi api wisp"},
+  {"url":"wss://wisp.mercurywork.shop/","name":"mercury baseline"}
+]

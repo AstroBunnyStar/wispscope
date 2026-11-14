@@ -1,0 +1,29 @@
+[
+  {
+    "url": "wss://m.update.67.links.gointospace.app/wisp/",
+    "source": "urlscan-gointospace",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 486,
+    "firstLine": "HTTP/1.1 302 Found"
+  },
+  {
+    "url": "wss://test.update.24.links.gointospace.app/wisp/",
+    "source": "urlscan-gointospace",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 489,
+    "firstLine": "HTTP/1.1 302 Found"
+  },
+  {
+    "url": "wss://shop.update.1.links.gointospace.app/wisp/",
+    "source": "urlscan-gointospace",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 738,
+    "firstLine": "HTTP/1.1 302 Found"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "host": "admin.proxy.hydrovolter.com",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/api/wisp/",
+    "host": "admin.proxy.hydrovolter.com",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://health.acne-support.info/api/wisp/",
+    "host": "health.acne-support.info",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 366,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp/",
+    "host": "health.acne-support.info",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 663,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  }
+]

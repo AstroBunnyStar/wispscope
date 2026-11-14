@@ -1,0 +1,182 @@
+[
+  {
+    "url": "wss://linuxontab-net.fly.dev/wisp",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 321,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://zodiac.icu/wisp/",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 448,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 533,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://anura.pro/wisp/",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 599,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://lunaar.org/wisp/",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 631,
+    "firstLine": "HTTP/1.1 301 Moved Permanently"
+  },
+  {
+    "url": "wss://edu.info.east-kazakhstan.su.cdn.cloudflare.net/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 16,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://nebulaservices.org/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 17,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dreaming.is-not.cool.cdn.cloudflare.net/wisp",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 17,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://nexus.garfield-math.xyz/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 22,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.mercuryworkshop.network/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 36,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.kbve.com/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 44,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://studylive.up.railway.app/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 138,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://glseries.net/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 351,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.orkestr.run",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 403,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.rhw.one/wisp",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 2147,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.rhw.one",
+    "source": "github issues",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 3992,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://nebulaproxy.io/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10012,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://genesis-wisp.onrender.com/wisp/",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 10015,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://goarxyz-wisp.goarxyz.workers.dev/wisp",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:connect",
+    "version": 1,
+    "latencyMs": 10015,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wisp.djorivaltech.com",
+    "source": "github issues",
+    "ok": false,
+    "note": "timeout:handshake",
+    "version": 0,
+    "latencyMs": 10016,
+    "firstLine": ""
+  }
+]

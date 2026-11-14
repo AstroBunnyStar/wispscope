@@ -1,0 +1,5 @@
+wss://linuxontab-net.fly.dev/wisp
+wss://zodiac.icu/wisp/
+wss://wisp.mercurywork.shop
+wss://anura.pro/wisp/
+wss://lunaar.org/wisp/

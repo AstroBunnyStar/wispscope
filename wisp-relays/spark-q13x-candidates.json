@@ -1,0 +1,13 @@
+[
+  {"url":"wss://us-east.wisp.q13x.com/","name":"q13x US East Wisp","source":"WorldEditAxe/wisp-docker wispcraft default"},
+  {"url":"wss://us-east.wisp.q13x.com/wisp/","name":"q13x US East Wisp /wisp/","source":"WorldEditAxe/wisp-docker wispcraft default"},
+  {"url":"wss://wisp.q13x.com/","name":"q13x Wisp root","source":"WorldEditAxe/wisp-docker"},
+  {"url":"wss://mci-wisp-node.sparkpowered.org/","name":"Spark Kansas City Wisp","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://nrt-wisp-node.sparkpowered.org/","name":"Spark Tokyo Wisp","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://fra-wisp-node.sparkpowered.org/","name":"Spark Frankfurt Wisp","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://sin-wisp-node.sparkpowered.org/","name":"Spark Singapore Wisp","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://mci-wisp-node.sparkpowered.org/wisp/","name":"Spark MCI /wisp/","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://nrt-wisp-node.sparkpowered.org/wisp/","name":"Spark NRT /wisp/","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://fra-wisp-node.sparkpowered.org/wisp/","name":"Spark FRA /wisp/","source":"WorldEditAxe/webshell src/lib/wisp.ts"},
+  {"url":"wss://sin-wisp-node.sparkpowered.org/wisp/","name":"Spark SIN /wisp/","source":"WorldEditAxe/webshell src/lib/wisp.ts"}
+]

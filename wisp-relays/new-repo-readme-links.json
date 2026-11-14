@@ -1,0 +1,158 @@
+[
+  {
+    "full_name": "ltorl/knoiren-browser",
+    "homepage": "https://ltorl.github.io/knoiren-browser",
+    "description": "A singlefile node proxy + browser with extreme compatibility that is better than scramjet / ultraviolet level proxies.",
+    "urls": [
+      "https://ltorl.github.io/knoiren-browser",
+      "https://cdn.jsdelivr.net/gh/ltorl/knoiren-svg/open.svg",
+      "https://cdn.jsdelivr.net/npm/knoiren-browser/open.svg",
+      "https://jsd.yizex.cn/gh/ltorl/knoiren-svg/open.svg",
+      "https://jsd.nmmsl.top/gh/ltorl/knoiren-svg/open.svg",
+      "https://jsd.cdn.zzko.cn/gh/ltorl/knoiren-svg/open.svg",
+      "https://code.webcache.cn/gh/ltorl/knoiren-svg/open.svg",
+      "https://jsd.proxy.aks.moe/gh/ltorl/knoiren-svg/open.svg",
+      "https://cdn.jsdmirror.com/gh/ltorl/knoiren-svg/open.svg",
+      "https://jsdelivr.b-cdn.net/gh/ltorl/knoiren-svg/open.svg",
+      "https://jsd.onmicrosoft.cn/gh/ltorl/knoiren-svg/open.svg",
+      "https://cdn.jsdelivr.net.cn/gh/ltorl/knoiren-svg/open.svg",
+      "https://cdn.statically.io/gh/ltorl/knoiren-svg@main/open.svg",
+      "https://cdn.jsdelivr.net/gh/ltorl/knoiren-browser/index.js",
+      "http://localhost:8080**",
+      "https://peekaboom-proxy.github.io/__px/https://example.com/"
+    ]
+  },
+  {
+    "full_name": "AmirCmir1/website-test",
+    "homepage": "https://amircmir1.github.io/website-test/",
+    "description": "A proxy test using Scramjet",
+    "urls": []
+  },
+  {
+    "full_name": "theexpie/Bubbly",
+    "homepage": "https://theexpie.github.io/Bubbly/",
+    "description": "A web proxy using the Scramjet engine. It's my first working real big proxy, with inspo from DogeUB (https://github.com/dogeub/-/).",
+    "urls": []
+  },
+  {
+    "full_name": "its-Onyx/nova",
+    "homepage": "https://its-onyx.github.io/nova/",
+    "description": "Nova is a unblocked games site built around Scramjet.",
+    "urls": []
+  },
+  {
+    "full_name": "kiyuwww/proxy",
+    "homepage": "https://proxy-dfg7.onrender.com/",
+    "description": "High-performance C++ proxy server with WISP protocol support, built-in DNS caching, and a web dashboard.",
+    "urls": [
+      "https://isocpp.org/",
+      "https://www.docker.com/"
+    ]
+  },
+  {
+    "full_name": "UserArham/scramjet-proxy",
+    "homepage": "https://scramjet-web-browser.vercel.app",
+    "description": "An proxy made by Mercury Workshop, AB cloakable to the web, so you can use it on another site with its VPN masker, and etc. Browser is made by Mercury Workshop.",
+    "urls": []
+  },
+  {
+    "full_name": "hamoamerica746-create/croxy-ar-proxy",
+    "homepage": "https://croxy-ar-proxy.vercel.app",
+    "description": "CroxyAr Web Proxy - Fast Mobile & Desktop Unblocker (Vercel Ready)",
+    "urls": []
+  },
+  {
+    "full_name": "lynverix/paroxysm",
+    "homepage": "",
+    "description": "A web proxy interface built on Scramjet with an Epoxy transport over WISP. paroxysm is the continuation of mirage.",
+    "urls": [
+      "http://localhost:8080/"
+    ]
+  },
+  {
+    "full_name": "Jxoj/SuperUser",
+    "homepage": "",
+    "description": "A NextGen scramjet proxy.",
+    "urls": [
+      "http://localhost:8080**",
+      "http://localhost:8080"
+    ]
+  },
+  {
+    "full_name": "random-school-stuff/keystone",
+    "homepage": "",
+    "description": "A clean, self-hosted web proxy built on Ultraviolet and Wisp",
+    "urls": [
+      "https://random-school-stuff.github.io/keystone/",
+      "http://localhost",
+      "http://localhost:8080",
+      "http://127.0.0.1",
+      "http://192.168.1.10"
+    ]
+  },
+  {
+    "full_name": "yongshuai1013/wisp-render",
+    "homepage": "",
+    "description": "Minimal WISP proxy server (Mercury Workshop wisp-js) for Render — alternate egress for the sideimpactor login, gated by a secret path and restricted to Apple hosts on port 443.",
+    "urls": []
+  },
+  {
+    "full_name": "sishdtydjs-dot/scramjet-app",
+    "homepage": "",
+    "description": "",
+    "urls": []
+  },
+  {
+    "full_name": "NuzProjects/Atlas",
+    "homepage": "",
+    "description": "Atlas, the best unblocked proxy! No Ads, split view, history, and more!",
+    "urls": []
+  },
+  {
+    "full_name": "Fansist/unblocked",
+    "homepage": "",
+    "description": "DogeUB unblocker deployment",
+    "urls": [
+      "https://ko-fi.com/img/githubbutton_sm.svg",
+      "https://ko-fi.com/I3I81MF4CH",
+      "https://contrib.rocks/image?repo=xorynix/dogeub",
+      "https://www.star-history.com/?repos=xorynix%2Fdogeub&type=timeline&legend=top-left",
+      "https://api.star-history.com/chart?repos=xorynix/dogeub&type=timeline&theme=dark&legend=top-left",
+      "https://api.star-history.com/chart?repos=xorynix/dogeub&type=timeline&legend=top-left"
+    ]
+  },
+  {
+    "full_name": "sheldonpooperhaha-png/roki",
+    "homepage": "",
+    "description": "ROKI: a starfield start page with a password-locked Scramjet proxy, games and a panic key",
+    "urls": [
+      "https://nodejs.org",
+      "http://localhost:8080/join/",
+      "https://3-15-1-2.nip.io",
+      "https://roki-hub.pages.dev",
+      "https://d3b3wz3481cm76.cloudfront.net",
+      "https://caddyserver.com",
+      "https://nip.io"
+    ]
+  },
+  {
+    "full_name": "ScratchyGH/speedster",
+    "homepage": "",
+    "description": "Browser-in-a-browser web proxy: Scramjet fork, libcul transport, Cloudflare Wisp server",
+    "urls": [
+      "https://scratchygh.github.io/speedster/",
+      "https://speedster",
+      "http://127.0.0.1:8787"
+    ]
+  },
+  {
+    "full_name": "Fracital/powerMouse",
+    "homepage": "https://stomp.fracit.al",
+    "description": "SystemYA's implementation of the TOMP model.",
+    "urls": [
+      "https://stomp.fracit.al",
+      "https://example.com",
+      "http://localhost:8080"
+    ]
+  }
+]

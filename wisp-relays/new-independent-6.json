@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ind-42",
+    "name": "q13x US East",
+    "url": "wss://us-east.wisp.q13x.com/",
+    "group": "independent",
+    "baseline": 283,
+    "mc": true,
+    "source": "WorldEditAxe/wisp-docker; certificate SAN",
+    "httpLatencyMs": 283,
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=1205"
+  },
+  {
+    "id": "ind-43",
+    "name": "q13x SE Asia",
+    "url": "wss://se-asia.wisp.q13x.com/",
+    "group": "independent",
+    "baseline": 1719,
+    "mc": true,
+    "source": "certificate SAN for wisp.q13x.com",
+    "httpLatencyMs": 1719,
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=1205"
+  },
+  {
+    "id": "ind-44",
+    "name": "Spark Kansas City",
+    "url": "wss://mci-wisp-node.sparkpowered.org/",
+    "group": "independent",
+    "baseline": 915,
+    "mc": true,
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "httpLatencyMs": 915,
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=25101"
+  },
+  {
+    "id": "ind-45",
+    "name": "Spark Tokyo",
+    "url": "wss://nrt-wisp-node.sparkpowered.org/",
+    "group": "independent",
+    "baseline": 1231,
+    "mc": true,
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "httpLatencyMs": 1231,
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=1204"
+  },
+  {
+    "id": "ind-46",
+    "name": "Spark Frankfurt",
+    "url": "wss://fra-wisp-node.sparkpowered.org/",
+    "group": "independent",
+    "baseline": 780,
+    "mc": true,
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "httpLatencyMs": 780,
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=25101"
+  },
+  {
+    "id": "ind-47",
+    "name": "Spark Singapore",
+    "url": "wss://sin-wisp-node.sparkpowered.org/",
+    "group": "independent",
+    "baseline": 1119,
+    "mc": true,
+    "source": "WorldEditAxe/webshell src/lib/wisp.ts",
+    "httpLatencyMs": 1119,
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=1205"
+  }
+]

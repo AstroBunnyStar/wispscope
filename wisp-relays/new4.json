@@ -1,0 +1,11 @@
+[
+  {"url":"wss://proxy-dfg7.onrender.com/","name":"kiyu proxy root"},
+  {"url":"wss://proxy-dfg7.onrender.com/wisp/","name":"kiyu proxy wisp"},
+  {"url":"wss://proxy-dfg7.onrender.com/wisp","name":"kiyu proxy wisp no slash"},
+  {"url":"wss://wisp-server-workers.vercel.app/","name":"workers vercel root"},
+  {"url":"wss://wisp-server-workers.vercel.app/wisp/","name":"workers vercel wisp"},
+  {"url":"wss://ikonicproxy.vercel.app/wisp/","name":"ikonic vercel"},
+  {"url":"wss://wisp.mercurywork.shop/","name":"mercury baseline"},
+  {"url":"wss://fern.best/wisp/","name":"fern baseline"},
+  {"url":"wss://vibeos.sh/api/wisp/","name":"vibeos baseline"}
+]

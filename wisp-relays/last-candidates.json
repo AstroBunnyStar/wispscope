@@ -1,0 +1,22 @@
+[
+  {"url":"wss://relay.eaglercraft.net/","name":"eagler relay root"},
+  {"url":"wss://relay.eaglercraft.net/wisp/","name":"eagler relay wisp"},
+  {"url":"wss://volutus-relay.nimbus-sync.workers.dev/","name":"volutus root"},
+  {"url":"wss://volutus-relay.nimbus-sync.workers.dev/wisp/","name":"volutus wisp"},
+  {"url":"wss://wisp.000000076.xyz/","name":"000076 root"},
+  {"url":"wss://wisp.000000076.xyz/wisp/","name":"000076 wisp"},
+  {"url":"wss://ellan.site/tunnel","name":"ellan tunnel"},
+  {"url":"wss://skerry-light.onrender.com/ws","name":"skerry ws"},
+  {"url":"wss://wisp.fly.dev/","name":"fly root"},
+  {"url":"wss://wisp.fly.dev/wisp/","name":"fly wisp"},
+  {"url":"wss://wisp.up.railway.app/","name":"railway root"},
+  {"url":"wss://wisp.up.railway.app/wisp/","name":"railway wisp"},
+  {"url":"wss://wisp.onrender.com/","name":"render root"},
+  {"url":"wss://wisp.onrender.com/wisp/","name":"render wisp"},
+  {"url":"wss://wisp.koyeb.app/","name":"koyeb root"},
+  {"url":"wss://wisp.koyeb.app/wisp/","name":"koyeb wisp"},
+  {"url":"wss://wisp.herokuapp.com/","name":"heroku root"},
+  {"url":"wss://wisp.herokuapp.com/wisp/","name":"heroku wisp"},
+  {"url":"wss://wisp.etcherfx.dev/","name":"etcherfx wisp"},
+  {"url":"wss://wisp.malmox.vercel.app/","name":"malmox wisp"}
+]

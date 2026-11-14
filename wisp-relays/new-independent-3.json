@@ -1,0 +1,29 @@
+[
+  {
+    "url": "wss://lunaar.org/wisp/",
+    "source": "github fresh",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 711,
+    "firstLine": "HTTP/1.1 200 OK"
+  },
+  {
+    "url": "wss://linuxontab-net.fly.dev/wisp",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 321,
+    "firstLine": "HTTP/1.1 200 OK"
+  },
+  {
+    "url": "wss://zodiac.icu/wisp/",
+    "source": "github issues",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 448,
+    "firstLine": "HTTP/1.1 200 OK"
+  }
+]

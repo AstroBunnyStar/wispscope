@@ -1,0 +1,14 @@
+wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/wisp/
+wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/
+wss://bare-server.fly.dev/wisp/
+wss://gointospace.app/wisp/
+wss://wisp.terbiumon.top/wisp/
+wss://zakaon.top/wisp/
+wss://wisp.mercurywork.shop/wisp/
+wss://wisp.mercurywork.shop/
+wss://anura.pro/wisp/
+wss://anura.pro/
+wss://wisp.mercurywork.shop
+wss://wisp.freewisp.org/wisp/
+wss://wisp.freewisp.org/
+wss://browserjs-production.up.railway.app/wisp/

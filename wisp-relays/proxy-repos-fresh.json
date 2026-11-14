@@ -1,0 +1,3956 @@
+[
+  {
+    "full_name": "Therealwh/Web-Proxy-Telegram-Panel-TG-BOT",
+    "homepage": "",
+    "description": "Telegram-прокси панель на движке Telemt: Web Proxy и MTProto, бот продаж с приёмом оплаты, рефералка и публичный API. Установка одной командой.",
+    "updated_at": "2026-11-12T01:08:50Z",
+    "topics": [
+      "billing",
+      "mtproto",
+      "mtproxy",
+      "panel",
+      "proxy",
+      "proxy-panel",
+      "russia",
+      "sales-bot",
+      "self-hosted",
+      "telegram",
+      "telegram-bot",
+      "telegram-proxy",
+      "telemt",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "d4rkwyng/duckfind",
+    "homepage": "",
+    "description": "Retro web search & reader — serves the modern web as plain HTML for vintage browsers.",
+    "updated_at": "2026-11-12T16:44:18Z",
+    "topics": [
+      "duckduckgo",
+      "frogfind",
+      "old-browsers",
+      "php",
+      "plain-html",
+      "readability",
+      "retro-computing",
+      "retrocomputing",
+      "vintage-computers",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "f8924919/web-proxy",
+    "homepage": "",
+    "description": "Web ベースのプロキシサービス。URL 入力でサーバーが中継し、HTML/CSS 書き換え・Service Worker 横取り・SSRF/乱用対策・ヘッドレスブラウザ中継に対応（Next.js 15）",
+    "updated_at": "2026-11-01T10:11:13Z",
+    "topics": [
+      "docker",
+      "nextjs",
+      "proxy",
+      "self-hosted",
+      "typescript",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "leplusorg/docker-tor",
+    "homepage": "https://hub.docker.com/r/leplusorg/tor",
+    "description": "Run TOR conveniently from a multi-platform docker container.",
+    "updated_at": "2026-11-12T07:18:23Z",
+    "topics": [
+      "anonymity",
+      "docker",
+      "docker-container",
+      "docker-image",
+      "dockerfile",
+      "information-security",
+      "infosec",
+      "proxy",
+      "socks5",
+      "theonionrouter",
+      "tor",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "selenesia/lyra",
+    "homepage": "https://lyra.zip",
+    "description": "a really cool web-proxy",
+    "updated_at": "2026-11-14T11:17:39Z",
+    "topics": [
+      "anime-streaming",
+      "chats",
+      "games",
+      "movies-streaming",
+      "shows",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "bout2bus/thepiratebay-proxy-list",
+    "homepage": "https://bout2bus.github.io/thepiratebay-proxy-list/",
+    "description": "Working The Pirate Bay proxy list 2026. Updated daily with fast, secure TPB mirrors. Unblock The Pirate Bay in UK, US, Australia & 30+ countries. 100% verified proxies.",
+    "updated_at": "2026-11-13T17:32:34Z",
+    "topics": [
+      "2026",
+      "anonymous-browsing",
+      "bypass-isp",
+      "censorship-circumvention",
+      "github-pages",
+      "mirror-sites",
+      "open-source",
+      "p2p-proxy",
+      "piratebay-mirror",
+      "piratebay-proxy",
+      "privacy-tools",
+      "proxy-list",
+      "the-pirate-bay",
+      "torrent-proxy",
+      "torrent-sites",
+      "tpb-mirror",
+      "tpb-proxy",
+      "unblock-tpb",
+      "unblock-websites",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "uPortal-Project/WebproxyPortlet",
+    "homepage": "",
+    "description": "",
+    "updated_at": "2026-09-21T03:09:01Z",
+    "topics": [
+      "gateway-sso",
+      "hacktoberfest",
+      "java",
+      "portal",
+      "portlet",
+      "uportal",
+      "uportal-start-bundled",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "mynamescrax/aetheris",
+    "homepage": "https://aetheris.win",
+    "description": "We focus on unblocked games, our proxy and our simplicity to our site.",
+    "updated_at": "2026-11-13T19:21:15Z",
+    "topics": [
+      "arcade",
+      "free",
+      "games",
+      "html",
+      "open-source",
+      "pr0xy",
+      "proxy",
+      "school",
+      "school-proxy",
+      "search-engine",
+      "ultraviolet",
+      "unblocked",
+      "unblocked-games",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "xPROMSx/telegram-web-proxy-manager",
+    "homepage": "https://t.me/promsdev",
+    "description": "Self-hosted Telegram WEB Proxy for Ubuntu — one-command setup, HTTPS, Fake Sites, safe updates with rollback, SOCKS5 and 3x-ui integration.",
+    "updated_at": "2026-11-13T16:26:41Z",
+    "topics": [
+      "3x-ui",
+      "certbot",
+      "letsencrypt",
+      "linux",
+      "nginx",
+      "proxy",
+      "self-hosted",
+      "socks5",
+      "systemd",
+      "telegram",
+      "telegram-blocked",
+      "telegram-proxy-2026",
+      "telemt",
+      "telemt-panel",
+      "ubuntu",
+      "web-proxy",
+      "xray",
+      "xray-core"
+    ]
+  },
+  {
+    "full_name": "UseInterstellar/Interstellar",
+    "homepage": "https://discord.gg/Interstellar",
+    "description": "Interstellar is a web proxy service offering blazing-fast speeds, a wide variety of games, and has served over 17 million users since 2022",
+    "updated_at": "2026-11-14T00:33:48Z",
+    "topics": [
+      "discord",
+      "games",
+      "interstellar",
+      "interstellarnetwork",
+      "interstellarunblocker",
+      "proxies",
+      "proxy",
+      "school",
+      "unblocked",
+      "unblocked-games",
+      "unblocker",
+      "unblockers",
+      "web-proxy",
+      "youtube"
+    ]
+  },
+  {
+    "full_name": "roygurner-gif/cloxy",
+    "homepage": "",
+    "description": "Give your local AI eyes and memory — native to your Mac. Apple Silicon LLM (MLX) + web proxy + conversation RAG in one process, OpenAI-compatible.",
+    "updated_at": "2026-11-12T08:00:21Z",
+    "topics": [
+      "ai-memory",
+      "ai-tools",
+      "apple-silicon",
+      "claude-code",
+      "embeddings",
+      "fastapi",
+      "local-llm",
+      "mac-mini",
+      "mlx",
+      "ollama",
+      "rag",
+      "self-hosted",
+      "vector-search",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "PeteZah-Games/PeteZahGames",
+    "homepage": "https://petezahgames.com",
+    "description": "Official repo for PeteZah Games. Please star if you fork!",
+    "updated_at": "2026-11-11T05:27:34Z",
+    "topics": [
+      "app",
+      "apps",
+      "bypass",
+      "discord",
+      "game",
+      "games",
+      "petezah",
+      "proxies",
+      "proxy",
+      "school",
+      "titanium-network",
+      "titanium-network-proxies",
+      "titanium-network-proxy",
+      "unblock",
+      "unblocked",
+      "unblockers",
+      "unrestricted",
+      "web-proxy",
+      "youtube"
+    ]
+  },
+  {
+    "full_name": "RealThalesGit/Site2Local",
+    "homepage": "",
+    "description": "A Vibe-coded python project which makes a existent website running on localhost or any external ip address!",
+    "updated_at": "2026-11-09T20:46:38Z",
+    "topics": [
+      "caching",
+      "digital-preservation",
+      "offline-access",
+      "python",
+      "reverse-proxy",
+      "self-hosted",
+      "self-hosting",
+      "static-website",
+      "vibe-coded",
+      "vibe-coding",
+      "web-archiving",
+      "web-crawler",
+      "web-mirror",
+      "web-mirroring",
+      "web-proxy",
+      "website-backup",
+      "website-clone",
+      "website-cloner"
+    ]
+  },
+  {
+    "full_name": "koldakov/proxium",
+    "homepage": "",
+    "description": "Self-hosted HTTP/SOCKS5 proxy gateway with an admin UI: accounts, ACLs, TLS, quotas and outgoing IP pools.",
+    "updated_at": "2026-11-09T20:11:20Z",
+    "topics": [
+      "asyncio",
+      "fastapi",
+      "fastapi-admin-panel",
+      "forward-proxy",
+      "http-proxy",
+      "https-proxy",
+      "networking",
+      "proxy",
+      "proxy-server",
+      "python",
+      "socks5",
+      "socks5-proxy",
+      "socks5-server",
+      "tls",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Novaro1/halcyon",
+    "homepage": "",
+    "description": "Self-hosted web proxy on Scramjet 2.x + Wisp + libcurl — end-to-end encrypted, with a built-in ad/tracker/malware blocker, popup blocker, overlay remover and tracking-link cleaner. Zero build step.",
+    "updated_at": "2026-11-09T02:33:11Z",
+    "topics": [
+      "adblock",
+      "libcurl",
+      "nodejs",
+      "privacy",
+      "proxy",
+      "scramjet",
+      "self-hosted",
+      "service-worker",
+      "web-proxy",
+      "wisp"
+    ]
+  },
+  {
+    "full_name": "dazacode/shasta",
+    "homepage": "https://shasta-dtg.pages.dev",
+    "description": "The source of Shasta: a browser that runs inside a browser tab, with a Store of games and apps. Published at each release (AGPL-3.0).",
+    "updated_at": "2026-11-07T23:11:37Z",
+    "topics": [
+      "agpl",
+      "browser",
+      "scramjet",
+      "typescript",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "RRedwire/red-wire",
+    "homepage": "https://red-wire.org",
+    "description": "RedWire - open infrastructure for a less restricted web. Proxies, transports, games and browser tooling.",
+    "updated_at": "2026-11-06T15:40:38Z",
+    "topics": [
+      "agpl",
+      "bare-mux",
+      "epoxy",
+      "proxy",
+      "self-hosted",
+      "service-worker",
+      "ultraviolet",
+      "web-proxy",
+      "wisp"
+    ]
+  },
+  {
+    "full_name": "sm1ee/Sniper",
+    "homepage": "https://smlee.io/Sniper/",
+    "description": "AI friendly HTTP/HTTPS MITM Proxy",
+    "updated_at": "2026-11-06T10:53:53Z",
+    "topics": [
+      "automation",
+      "bugbounty",
+      "burp-alternative",
+      "http-proxy",
+      "https-proxy",
+      "intercept",
+      "lightweight",
+      "opensource",
+      "pentesting",
+      "proxy",
+      "security",
+      "skills",
+      "tools",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "thehornet2002/tg_web_proxy_cf",
+    "homepage": "",
+    "description": " Secure Telegram Web Proxy relay running on Cloudflare Workers with WebSocket multiplexing, Obfuscated2 transport, stateless sessions, and optional camouflage.",
+    "updated_at": "2026-11-04T17:40:11Z",
+    "topics": [
+      "cloudflare-workers",
+      "javascript",
+      "mtproto",
+      "mtproto-proxy",
+      "obfuscated",
+      "serverless",
+      "telegram-proxy-iran",
+      "web-proxy",
+      "websocket"
+    ]
+  },
+  {
+    "full_name": "SimonWaldherr/HARP",
+    "homepage": "",
+    "description": "HARP - the Golang HTTP AutoRegister Reverse Proxy",
+    "updated_at": "2026-11-01T18:37:01Z",
+    "topics": [
+      "cache",
+      "golang",
+      "grpc",
+      "grpc-client",
+      "grpc-server",
+      "hacktoberfest-accepted",
+      "hacktoberfest2025",
+      "help-wanted",
+      "http",
+      "http-proxy",
+      "inverse-proxy",
+      "proof-of-concept",
+      "proxy",
+      "proxy-server",
+      "reverse-proxy",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "halitsever/girici-web-proxy",
+    "homepage": "https://halitsever.github.io/girici-web-proxy/",
+    "description": "Web proxy project written in Typescript & Vue.js. Node.js alternative for php-proxy.",
+    "updated_at": "2026-10-31T22:21:19Z",
+    "topics": [
+      "javascript",
+      "nodejs",
+      "online",
+      "online-proxy",
+      "proxy",
+      "web",
+      "web-proxy",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "PeteZah-Games/PeteZahNext",
+    "homepage": "https://next.petezahgames.com",
+    "description": "PeteZah Games' next evolution",
+    "updated_at": "2026-11-02T03:50:23Z",
+    "topics": [
+      "app",
+      "apps",
+      "bypass",
+      "discord",
+      "game",
+      "games",
+      "nextjs",
+      "petezah",
+      "proxies",
+      "proxy",
+      "school",
+      "unblock",
+      "unblocked",
+      "unblockers",
+      "web-proxy",
+      "youtube"
+    ]
+  },
+  {
+    "full_name": "solohkemp-tech/EMP29-Scramjet",
+    "homepage": "https://t.me/emp29",
+    "description": "EMP29 Scramjet | Bilingual browser workspace with advanced tabs, workspaces and dual transport",
+    "updated_at": "2026-10-31T10:22:05Z",
+    "topics": [
+      "persian",
+      "pwa",
+      "scramjet",
+      "web-browser",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "xinyitang3/cftgwebproxy",
+    "homepage": "",
+    "description": "基于 Cloudflare Pages + Worker + DNS 自动解析 的 Telegram Web Proxy 代理方案。主程序运行于 Pages 规避 Worker 直接代理易触发的 1101/522 错误，Worker 仅作转发层并承接 Pages 无法路由的优选域名，配合自动 DNS 解析，实现高可用、稳定的接入。",
+    "updated_at": "2026-11-14T13:06:35Z",
+    "topics": [
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "cron-job",
+      "mtproto",
+      "network-tools",
+      "proxy",
+      "telegram-proxy-2026",
+      "tg-proxy-windows",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "kannagi0303/RelayGate",
+    "homepage": "",
+    "description": "A web proxy for Windows with traffic control, ad blocking, and web response customization.",
+    "updated_at": "2026-10-31T01:38:33Z",
+    "topics": [
+      "adblock",
+      "content-filtering",
+      "http-proxy",
+      "https-proxy",
+      "mitm",
+      "proxy",
+      "rust",
+      "traffic-inspection",
+      "web-proxy",
+      "windows"
+    ]
+  },
+  {
+    "full_name": "chemicaljs/chemical",
+    "homepage": "https://chemicaljs.github.io",
+    "description": "Easily create your own web proxy with no experience required.",
+    "updated_at": "2026-11-01T09:54:31Z",
+    "topics": [
+      "chemical",
+      "chemicaljs",
+      "nebelung",
+      "proxy",
+      "scramjet",
+      "titanium-network",
+      "titaniumnetwork",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "onestraw/simple-web-proxy",
+    "homepage": "",
+    "description": "A Simple HTTP Proxy",
+    "updated_at": "2026-10-30T00:49:41Z",
+    "topics": [
+      "epoll",
+      "http",
+      "proxy",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Gnome-Steader/Ultraproxy",
+    "homepage": "",
+    "description": "A complex proxy made for handling all sites including the ones with huge backends and capatcha. With its own YouTube search engine.",
+    "updated_at": "2026-10-29T18:07:02Z",
+    "topics": [
+      "html",
+      "ipmask",
+      "javascript",
+      "nodejs",
+      "proxy",
+      "ultraproxy",
+      "web-proxy",
+      "webproxy",
+      "webproxy-lab",
+      "webscraping"
+    ]
+  },
+  {
+    "full_name": "FountainGunsmithAxe/proxy-browser-extension",
+    "homepage": "",
+    "description": "Proxy Browser Extension, a network utility designed to route web traffic through secure proxy servers and bypass regional restrictions. It provides a seamless user experience to help users protect their online privacy, mask IP addresses, and access blocked content effortlessly.",
+    "updated_at": "2026-10-28T17:48:11Z",
+    "topics": [
+      "chrome-extension",
+      "chrome-proxy",
+      "chrome-proxy-extension",
+      "proxy",
+      "proxy-extension",
+      "proxy-for-chrome",
+      "proxy-generator",
+      "proxy-list",
+      "proxy-list-github",
+      "proxy-rotator",
+      "proxy-site",
+      "proxy-switcher",
+      "proxy-tool",
+      "rotating-proxy",
+      "socks5-proxy",
+      "socks5-proxy-list",
+      "socks5-server",
+      "socks5-server-java",
+      "web-proxy",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "tgvpno/mtproto-telegram-proxy",
+    "homepage": "https://tgvpn.io",
+    "description": "一键部署脚本：mtproto 代理，Telegram 官方最新 MTProxy 概念验证代理，支持 Desktop/Android/iOS。",
+    "updated_at": "2026-10-28T12:59:46Z",
+    "topics": [
+      "anti-dpi",
+      "mtproto",
+      "mtproxy",
+      "obfuscation",
+      "one-click-deploy",
+      "proxy",
+      "telegram",
+      "tproxy-server",
+      "vpn-server",
+      "web-proxy",
+      "websocket-proxy"
+    ]
+  },
+  {
+    "full_name": "YGGverse/mycelium-catalog",
+    "homepage": "https://github.com/threefoldtech/mycelium",
+    "description": "The Mycelium catalog",
+    "updated_at": "2026-10-28T09:14:03Z",
+    "topics": [
+      "bittorrent",
+      "books",
+      "catalog",
+      "dns",
+      "ftp",
+      "game",
+      "git",
+      "i2p",
+      "irc",
+      "iroh",
+      "kellnr",
+      "mesh",
+      "mycelium",
+      "nostr",
+      "peers",
+      "proxy",
+      "public-peers",
+      "services",
+      "trackers",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "sriail/Phage",
+    "homepage": "",
+    "description": "A Simple Ultravilot style proxy running in a Cloudflare worker",
+    "updated_at": "2026-10-26T20:18:23Z",
+    "topics": [
+      "cloudflare-workers",
+      "iframe-embeds",
+      "javascript",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "vdistortion/mtproto-web-proxy-manager",
+    "homepage": "",
+    "description": "MTProto and Telegram Desktop WEB proxy manager for Linux, powered by telego and Docker. Caddy integration, FakeTLS, multi-user support and an interactive Bash CLI.",
+    "updated_at": "2026-10-22T17:24:57Z",
+    "topics": [
+      "bash",
+      "caddy",
+      "caddy-docker-proxy",
+      "docker",
+      "faketls",
+      "linux",
+      "mtproto",
+      "mtproto-proxy",
+      "self-hosted",
+      "telego",
+      "telegram",
+      "telegram-desktop",
+      "telegram-proxy",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "omerfys/Boomfy",
+    "homepage": "",
+    "description": "Destroy Any Website Game & 2D Stickman Physics Shooter | HTML5 Canvas 2D, Local Web Proxy, 10 Destructive Weapons & Infinite Parallax Worlds",
+    "updated_at": "2026-10-22T14:50:03Z",
+    "topics": [
+      "2d-platformer",
+      "arcade-game",
+      "boomfy",
+      "browser-game",
+      "canvas-game",
+      "creative-coding",
+      "destroy-any-website",
+      "destruction-physics",
+      "game-engine",
+      "html5-canvas",
+      "internet-sitelerini-yok-etme",
+      "javascript-game",
+      "omerfy",
+      "parallax-scrolling",
+      "physics-engine",
+      "pixel-art",
+      "python-server",
+      "stickman-game",
+      "web-proxy",
+      "zero-dependency"
+    ]
+  },
+  {
+    "full_name": "QuiteAFancyEmerald/InvisiProxy-Legacy",
+    "homepage": "https://invisiproxy.com",
+    "description": "InvisiProxy is a project (web proxy service) that helps you access websites that may be blocked by your network, government or policy all within your browser. This is the legacy/old version using Fastify. PLEASE USE THE NEW VERSION! (Star if you fork it!)",
+    "updated_at": "2026-11-13T22:08:14Z",
+    "topics": [
+      "adblocking",
+      "anonymity",
+      "bypass",
+      "bypass-recaptchav3",
+      "docker",
+      "fastify",
+      "holyunblocker",
+      "https-proxy",
+      "javascript",
+      "nodejs",
+      "onion-service",
+      "privacy",
+      "proxy",
+      "socks5-proxy",
+      "tor",
+      "unblock",
+      "unblocker",
+      "vpn",
+      "web-proxy",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "NebulaServices/Noctura",
+    "homepage": "https://noctura.tech",
+    "description": "The blazing fast solution to internet censorship. Access blocked websites with ease while maintaining anonymity and security.",
+    "updated_at": "2026-10-31T15:11:27Z",
+    "topics": [
+      "holy-unblocker",
+      "unblocked",
+      "unblocked-games",
+      "unblocker",
+      "web-proxy",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "tropyggg/ha-ilo3-revamped-fix",
+    "homepage": "",
+    "description": "This Home Assistant add-on is a specialized secure web proxy designed specifically to enable seamless compatibility with the ha-hp_ilo-revamped integration. / Този аддон за Home Assistant е специализиран сигурен уеб тунел (прокси), създаден специално за осигуряване на пълна съвместимост с интеграцията ha-hp_ilo-revamped.",
+    "updated_at": "2026-10-20T15:02:26Z",
+    "topics": [
+      "hassio-addon",
+      "home-assistant",
+      "home-assistant-addon",
+      "homelab",
+      "hp-ilo",
+      "hp-ilo3",
+      "hp-proliant",
+      "hpe-ilo",
+      "nginx-proxy",
+      "self-hosted",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "safetystore-org/safetystore",
+    "homepage": "https://safetystore.pages.dev",
+    "description": "Short links, file uploads, signed download links, a web proxy and a notes blog. Nuxt 3 on Cloudflare Pages.",
+    "updated_at": "2026-10-20T11:56:15Z",
+    "topics": [
+      "cloudflare-d1",
+      "cloudflare-pages",
+      "file-sharing",
+      "markdown-notes",
+      "nuxt",
+      "signed-cdn",
+      "telegram-bot",
+      "url-shortener",
+      "vue",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "masghar/relay-browser",
+    "homepage": "https://masghar.github.io/relay-browser/",
+    "description": "Self-hosted private web browser: browse through your own server with sandboxed tabs, tracker blocking, and nothing kept after you close it.",
+    "updated_at": "2026-10-21T03:38:53Z",
+    "topics": [
+      "browser",
+      "browser-in-browser",
+      "express",
+      "geo-testing",
+      "hls",
+      "javascript",
+      "nodejs",
+      "open-source",
+      "privacy",
+      "private-browsing",
+      "proxy-browser",
+      "remote-browser",
+      "sandbox",
+      "self-hosted",
+      "tracker-blocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "smartfoloo/arsenic",
+    "homepage": "https://arsenic.smartfoloo.space",
+    "description": "A private, ad-free web proxy built with Svelte and Node.js.",
+    "updated_at": "2026-11-03T00:26:07Z",
+    "topics": [
+      "css3",
+      "games",
+      "html5",
+      "javascript",
+      "node",
+      "nodejs",
+      "open-source",
+      "proxies",
+      "scramjet",
+      "svelte",
+      "trending",
+      "ultraviolet",
+      "ultraviolet-proxy",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "rbvaradi/steal-abrain-rot-menu",
+    "homepage": "",
+    "description": "Steal A Brainrot script with Auto Steal, Teleport, No Kick bypass, and more for PC and mobile in 2026.",
+    "updated_at": "2026-10-14T07:34:48Z",
+    "topics": [
+      "build-tool",
+      "commonjs",
+      "cvpr2019",
+      "hyperneat",
+      "javascript",
+      "neat",
+      "neuroevolution",
+      "nv-tlabs",
+      "semantic-boundaries",
+      "semantic-segmentation",
+      "stealjs",
+      "web",
+      "web-browser",
+      "web-filter",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "mhshbkdh5800/DomainShuttle",
+    "homepage": "https://mhshbkdh5800.github.io",
+    "description": "Generate consistent subject-driven videos using an open-domain approach that balances reference fidelity with cross-domain editability.",
+    "updated_at": "2026-10-14T07:27:22Z",
+    "topics": [
+      "android",
+      "architecture",
+      "backend",
+      "clean-code",
+      "design-patterns",
+      "development",
+      "domainname",
+      "free",
+      "freedomain",
+      "html",
+      "javascript",
+      "music-player",
+      "nodejs",
+      "system-design",
+      "typescript",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Calliopegelding314/download-tor-browser",
+    "homepage": "https://calliopegelding314.github.io",
+    "description": "Download verified installer links for the official Tor Browser across Windows, macOS, Linux, and Android.",
+    "updated_at": "2026-10-13T07:09:53Z",
+    "topics": [
+      "anonymity",
+      "anonymous-browsing",
+      "browser-in-the-browser",
+      "fastify",
+      "https-proxy",
+      "javascript",
+      "nodejs",
+      "onion-crawler",
+      "onion-service",
+      "onions-list",
+      "privacy",
+      "tor-browser",
+      "updater",
+      "verification",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Abhisheek-Dutta/thepiratebay-proxy-list",
+    "homepage": "",
+    "description": "Provide daily updated, verified proxy and mirror sites to access The Pirate Bay securely in over 30 countries including the UK and US.",
+    "updated_at": "2026-10-13T06:55:26Z",
+    "topics": [
+      "2026",
+      "anonymous-browsing",
+      "bypass-isp",
+      "censorship-circumvention",
+      "github-pages",
+      "mirror-sites",
+      "open-source",
+      "piratebay-mirror",
+      "piratebay-proxy",
+      "privacy-tools",
+      "proxy-list",
+      "the-pirate-bay",
+      "tpb-proxy",
+      "unblock-tpb",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Idealismpylon504/Proxy-Any-App",
+    "homepage": "",
+    "description": "Route specific Windows applications through SOCKS5 or HTTP proxies without changing system-wide network settings.",
+    "updated_at": "2026-10-12T05:00:48Z",
+    "topics": [
+      "android",
+      "anthropic",
+      "claude",
+      "codex",
+      "codex-cli",
+      "developer-tools",
+      "fast-proxy",
+      "gemini",
+      "generator",
+      "gfiles",
+      "grok",
+      "http",
+      "llm-proxy",
+      "ollama",
+      "openai",
+      "openapi",
+      "openrouter",
+      "proxy",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "Undyed-sponsor739/helios",
+    "homepage": "",
+    "description": "Run an autonomous research agent that operates over SSH without requiring a server, enabling remote task execution and data gathering.",
+    "updated_at": "2026-10-12T04:48:03Z",
+    "topics": [
+      "ai",
+      "components",
+      "custom-minecraft-launcher",
+      "design-system",
+      "design-systems",
+      "ethereum",
+      "hashicorp",
+      "java",
+      "maintained",
+      "minecraft",
+      "minecraft-launcher",
+      "orchestration",
+      "proxies",
+      "school-project",
+      "securly-bypass",
+      "self-hosted",
+      "voting",
+      "web-proxy",
+      "web-proxy-for-school",
+      "web-scraper"
+    ]
+  },
+  {
+    "full_name": "etcherfx/phosphur",
+    "homepage": "https://phosphur.etcherfx.dev",
+    "description": "A tabbed browser-in-a-browser built on Scramjet and Wisp.",
+    "updated_at": "2026-10-20T14:30:07Z",
+    "topics": [
+      "astro",
+      "bun",
+      "scramjet",
+      "service-worker",
+      "svelte",
+      "unblocker",
+      "web-proxy",
+      "wisp"
+    ]
+  },
+  {
+    "full_name": "ogmabox/ogma-sdk",
+    "homepage": "https://ogmabox.com",
+    "description": "Official TypeScript SDK definitions for building Ogma plugins with HTTP interception, security findings, storage, events, API integration, and UI extensions",
+    "updated_at": "2026-11-05T02:59:54Z",
+    "topics": [
+      "application-security",
+      "application-security-tools",
+      "bugbounty",
+      "bugbounty-tool",
+      "burp-suite",
+      "caido",
+      "ctf",
+      "ogma",
+      "pentesting",
+      "pentesting-tools",
+      "plugin-sdk",
+      "redteam",
+      "web-proxy",
+      "web-security"
+    ]
+  },
+  {
+    "full_name": "ScrapingBee/mcp-server",
+    "homepage": "https://mcp.scrapingbee.com/#tools",
+    "description": "ScrapingBee MCP Server helps AI agents access live web data through Model Context Protocol, structured JSON-RPC execution, and web scraping workflows.",
+    "updated_at": "2026-10-09T12:40:41Z",
+    "topics": [
+      "ecommerce-application",
+      "ecommerce-scraper",
+      "firecrawl-alternative",
+      "google-scraper",
+      "google-search-api",
+      "mcp-integration",
+      "mcp-server",
+      "mcp-servers",
+      "proxy-scraper",
+      "search-results-scraper",
+      "serp-scraper",
+      "serp-scraper-api",
+      "web-proxy",
+      "web-scraping",
+      "web-scraping-api",
+      "web-scraping-python",
+      "web-scraping-software"
+    ]
+  },
+  {
+    "full_name": "UserN0tAdmin/mtproxy-bridge",
+    "homepage": "",
+    "description": "Turn tg://proxy and tg://webproxy links into a local SOCKS5 server — for Kurigram and anything that speaks SOCKS5. FakeTLS, obfuscated2, padded intermediate.",
+    "updated_at": "2026-10-09T03:01:14Z",
+    "topics": [
+      "faketls",
+      "kurigram",
+      "mtproto",
+      "mtproto-proxy",
+      "proxy",
+      "pyrogram",
+      "python",
+      "socks5",
+      "tdlib",
+      "telegram",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "JonerCoder/tags",
+    "homepage": "",
+    "description": "A 100% HTML, for school, \"OS\" unblocked file.",
+    "updated_at": "2026-11-13T23:44:09Z",
+    "topics": [
+      "forschool",
+      "os",
+      "proxy",
+      "schoolproxy",
+      "unblocker",
+      "version-2"
+    ]
+  },
+  {
+    "full_name": "Pinnedyr/What-The-Facqkuit",
+    "homepage": "https://www.wtfq.online/",
+    "description": "What the facqkuit",
+    "updated_at": "2026-11-06T21:18:28Z",
+    "topics": [
+      "html",
+      "javascript",
+      "math",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "studioluftbruecke/hermes-unblockbruecke",
+    "homepage": "https://unblockbruecke.luftbruecke.studio",
+    "description": "Decks of short, playful cards that get you unstuck, or get your Hermes agent unstuck too.",
+    "updated_at": "2026-11-13T15:51:05Z",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "creative-coding",
+      "creativity",
+      "creativity-techniques",
+      "creativity-tool",
+      "creativity-tools",
+      "hermes-agent",
+      "hermes-agent-plugin",
+      "hermes-plugin",
+      "hermes-plugins",
+      "nous-research",
+      "nousresearch",
+      "productivity",
+      "productivity-tool",
+      "productivity-tools",
+      "unblock",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "NotBigWhiteThing/Solar-Unblocker",
+    "homepage": "",
+    "description": "do not run this, this is a program that crashes your chromebook",
+    "updated_at": "2026-11-13T17:54:37Z",
+    "topics": [
+      "malware",
+      "prank",
+      "proxy",
+      "unblocker",
+      "virus"
+    ]
+  },
+  {
+    "full_name": "civilnetwork-dev/Civil",
+    "homepage": "https://civil.quartinal.me",
+    "description": "The source code for Civil Proxy and affiliated softwares.",
+    "updated_at": "2026-11-11T02:12:10Z",
+    "topics": [
+      "cisco-umbrella",
+      "goguardian",
+      "goguardianbypass",
+      "iboss",
+      "securly-bypass",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "0800WebDev/pgis3",
+    "homepage": "https://pgis3.vercel.app",
+    "description": "better version of pgis, still not done",
+    "updated_at": "2026-11-06T14:01:59Z",
+    "topics": [
+      "pgis",
+      "ubg",
+      "unblocked-games-website",
+      "unblocked-hub",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblockedgames",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "browsersolver/web-unlocker-api",
+    "homepage": "https://www.browsersolver.com",
+    "description": "Web Unlocker API by BrowserSolver: Fetch pages that still block headless browsers. Python, TypeScript, cURL, PHP, C#, Go, Java, Ruby examples.",
+    "updated_at": "2026-11-11T09:23:56Z",
+    "topics": [
+      "anti-bot-bypass",
+      "api",
+      "bot-challenge",
+      "browsersolver",
+      "html-scraper",
+      "json-api",
+      "python",
+      "rest-api",
+      "scraping-api",
+      "typescript",
+      "unblocker",
+      "web-scraping",
+      "web-unlocker",
+      "web-unlocker-api"
+    ]
+  },
+  {
+    "full_name": "theexpie/Osama",
+    "homepage": "https://theexpie.github.io/Osama/",
+    "description": "bin Proxy",
+    "updated_at": "2026-11-10T21:39:47Z",
+    "topics": [
+      "games",
+      "gn-math",
+      "proxies",
+      "proxy",
+      "seraph",
+      "unblocked-hub",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblocker-website",
+      "unblockers",
+      "unblockers-for-school",
+      "webports"
+    ]
+  },
+  {
+    "full_name": "Ashik245-commits/Slate",
+    "homepage": "https://ashik245-commits.github.io",
+    "description": "Open, edit, search, format, and save huge files instantly in this fast, simple text editor for Windows and Linux.",
+    "updated_at": "2026-11-09T06:05:16Z",
+    "topics": [
+      "2d-animation",
+      "api",
+      "database",
+      "embedded-database",
+      "game-development",
+      "github-pages",
+      "iboss",
+      "jekyll",
+      "pixel-art-editor",
+      "qt",
+      "rich-text",
+      "rust",
+      "sprites",
+      "theme",
+      "unblock",
+      "unblocker",
+      "unblockers"
+    ]
+  },
+  {
+    "full_name": "ubusatprep-collab/Lebron-Games",
+    "homepage": "",
+    "description": "The next best սոbӏосkеԁ ցаmеѕ site for school with over 800 games!                               Links: https://deeply-syzygy-rw9kf.ship.place/                       https://lebron-games--main.ubusatprep.deno.net/      ",
+    "updated_at": "2026-11-08T15:11:00Z",
+    "topics": [
+      "fun",
+      "games",
+      "gamesite",
+      "gaming",
+      "gaming-website",
+      "school",
+      "unblocked-hub",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers-for-school"
+    ]
+  },
+  {
+    "full_name": "crawlomatic/universal-web-unblocker-api",
+    "homepage": "https://apify.com/misterkhan/universal-web-unblocker-extractor",
+    "description": "Autonomous AI unblocker and DOM card extractor that solves Cloudflare, DataDome, PerimeterX, and Akamai WAFs with zero configuration.",
+    "updated_at": "2026-11-09T14:01:40Z",
+    "topics": [
+      "antibot",
+      "apify-actor",
+      "bypass-cloudflare",
+      "crawler",
+      "stealth-browser",
+      "unblocker",
+      "web-scraping"
+    ]
+  },
+  {
+    "full_name": "CoolDude2349/Offline-HTML-Games-Pack",
+    "homepage": "",
+    "description": "352 offline HTML games, each on a single file",
+    "updated_at": "2026-11-14T15:31:32Z",
+    "topics": [
+      "flash-games",
+      "games",
+      "html-games",
+      "offline",
+      "offline-first",
+      "offline-games",
+      "single-file",
+      "unblock",
+      "unblocker",
+      "unblocker-for-school",
+      "unity-games",
+      "web-games"
+    ]
+  },
+  {
+    "full_name": "sslightly/Html5-games",
+    "homepage": "",
+    "description": "A whole collection of HTML5 Offline HTML5 Games for school!",
+    "updated_at": "2026-11-09T15:30:58Z",
+    "topics": [
+      "goguardian-bypass",
+      "goguardian-hacks",
+      "goguardian-remover",
+      "goguardianbypass",
+      "html5-game",
+      "lightspeed-bypass",
+      "mdm-bypass",
+      "offline",
+      "schoolbypass",
+      "securly-bypass",
+      "securly-kill",
+      "securlykill",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers",
+      "unblockers-for-school",
+      "webport",
+      "webports"
+    ]
+  },
+  {
+    "full_name": "jungledev1337/zapret",
+    "homepage": "",
+    "description": "Обход блокировок Discord (голосовые каналы RTC), Telegram и YouTube 4K со встроенной блокировкой рекламы. Нативный Liquid Glass GUI на Rust под Windows 10/11 и NFQUEUE сервис под Linux. Без VPN.",
+    "updated_at": "2026-11-05T23:51:05Z",
+    "topics": [
+      "antifilter",
+      "discord-unblock",
+      "discord-voice",
+      "dpi-bypass",
+      "goodbyedpi",
+      "linux",
+      "mtproto",
+      "nfqueue",
+      "rust-gui",
+      "telegram-proxy",
+      "unblocker",
+      "webrtc",
+      "windivert",
+      "windows",
+      "youtube-adblock",
+      "zapret"
+    ]
+  },
+  {
+    "full_name": "InvisiProxy/InvisiProxyLTS",
+    "homepage": "https://invisiproxy.com",
+    "description": "InvisiProxy LTS is a web proxy service (website) that helps you access websites that may be blocked by your network, government or policy all within your browser with no downloads. It does this securely and with additional privacy features. Browse Tor/Onion sites in any browser, hide browsing activity and bypass filters. (Star if you fork it!)",
+    "updated_at": "2026-11-13T22:59:46Z",
+    "topics": [
+      "adblocking",
+      "anonymity",
+      "bypass",
+      "bypass-recaptchav3",
+      "docker",
+      "holyunblocker",
+      "https-proxy",
+      "javascript",
+      "nodejs",
+      "onion-service",
+      "privacy",
+      "proxy",
+      "socks5-proxy",
+      "solidjs",
+      "tor",
+      "typescript",
+      "unblock",
+      "unblocker",
+      "vite",
+      "vpn"
+    ]
+  },
+  {
+    "full_name": "Metallic-Web/Metallic",
+    "homepage": "https://metallic.eu.org/",
+    "description": "A powerful web proxy built for speed and customization.",
+    "updated_at": "2026-11-08T01:48:21Z",
+    "topics": [
+      "proxy",
+      "proxy-site",
+      "scramjet",
+      "titaniumnetwork",
+      "titaniumnetwork-proxies",
+      "unblocked",
+      "unblocked-games",
+      "unblocked-websites",
+      "unblocker",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "the67kid67/dgsn-pr0xy-network",
+    "homepage": "https://docs.google.com/document/d/1R42y8HGfiWengMIAsEa_qKKAQKwrWYWje4xYtvJe-rs/edit",
+    "description": "",
+    "updated_at": "2026-10-30T22:54:10Z",
+    "topics": [
+      "games",
+      "google-docs",
+      "proxies",
+      "proxy",
+      "school",
+      "ubg",
+      "unblocked-games-sites",
+      "unblocked-hub",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers",
+      "unblockers-for-school"
+    ]
+  },
+  {
+    "full_name": "SchoolAcademicScience/Axion",
+    "homepage": "https://sites.google.com/sunnyvaleisd.net/classrooms",
+    "description": "A very accurate discord html clone meant for school ",
+    "updated_at": "2026-11-12T16:37:40Z",
+    "topics": [
+      "chat",
+      "chat-app",
+      "chat-application",
+      "chatapp",
+      "chatroom",
+      "discord",
+      "discord-js",
+      "discord-webhook",
+      "discordjs",
+      "gmaes",
+      "unblock",
+      "unblockedatschool",
+      "unblocker",
+      "unblocker-for-school"
+    ]
+  },
+  {
+    "full_name": "FordF-450/imgur-unblocker",
+    "homepage": "",
+    "description": "Chrome extension (Manifest V3) that loads region-blocked Imgur images through DuckDuckGo's image proxy instead of hiding them.",
+    "updated_at": "2026-10-26T14:09:03Z",
+    "topics": [
+      "chrome-extension",
+      "duckduckgo",
+      "imgur",
+      "manifest-v3",
+      "proxy",
+      "region-block",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "ltorl/altior-browser",
+    "homepage": "",
+    "description": " - A Proxy Browser designed to look like chrome. ONLY 3 FILES!!!! (not counting readme or codespaces config)",
+    "updated_at": "2026-10-30T19:31:34Z",
+    "topics": [
+      "proxy-browser",
+      "proxy-browser-for-school",
+      "scramjet",
+      "unblocker",
+      "unblocker-for-school"
+    ]
+  },
+  {
+    "full_name": "Denisjoint75/wisp",
+    "homepage": "https://denisjoint75.github.io",
+    "description": "",
+    "updated_at": "2026-10-14T07:35:18Z",
+    "topics": [
+      "agent-skills",
+      "ai-for-science",
+      "bioinformatics",
+      "local-first",
+      "nerf",
+      "neuralfields",
+      "pubsub",
+      "pytorch",
+      "research-assistant",
+      "scientific-computing",
+      "scientific-workflow",
+      "tauri",
+      "titaniumnetwork",
+      "unblock",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "dgarridou/KaLM-Jev",
+    "homepage": "https://dgarridou.github.io",
+    "description": "Run efficient local Choice, Score, and Noul services with KaLM-Reranker-V1-R2 for structured judgments without generating text.",
+    "updated_at": "2026-11-09T04:30:19Z",
+    "topics": [
+      "api",
+      "axios",
+      "cloudflare",
+      "cloudreve",
+      "discord",
+      "file",
+      "front-end",
+      "html",
+      "huggingface",
+      "netease",
+      "netease-cloud-music",
+      "neteasecloud",
+      "neteasemusic",
+      "nodejs",
+      "unblocker",
+      "vue"
+    ]
+  },
+  {
+    "full_name": "BombedByXander/lib-backup",
+    "homepage": "xcarcade.vercel.app",
+    "description": "xanders arcade backup",
+    "updated_at": "2026-10-11T17:10:10Z",
+    "topics": [
+      "games",
+      "proxies",
+      "proxy",
+      "unblock",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers",
+      "unblockers-for-school",
+      "unblocking"
+    ]
+  },
+  {
+    "full_name": "0800WebDev/zinc",
+    "homepage": "https://zinc-browser.vercel.app",
+    "description": "another scramjet proxy but static and with a lot of features.",
+    "updated_at": "2026-11-06T19:11:22Z",
+    "topics": [
+      "epoxy",
+      "libcurl",
+      "proxy",
+      "proxy-browser",
+      "proxy-browser-for-school",
+      "proxy-browser-for-work",
+      "school-proxies",
+      "school-proxy",
+      "scramjet",
+      "unblock",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblocker-school",
+      "unblocker-website",
+      "unblockers",
+      "unblockers-for-school",
+      "web-proxy",
+      "web-proxy-for-school"
+    ]
+  },
+  {
+    "full_name": "NebulaServices/Nebula",
+    "homepage": "https://nebulaproxy.io",
+    "description": "a stunning and sleek web proxy with support for hundreds of popular sites. ",
+    "updated_at": "2026-11-13T19:18:53Z",
+    "topics": [
+      "cloudflare",
+      "proxy",
+      "unblocker",
+      "webdevelopment",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "titaniumnetwork-dev/Oxide-Docs",
+    "homepage": "https://docs.titaniumnetwork.org",
+    "description": "The official documentation site for TitaniumNetwork. Here we provide advanced web proxy services through the progression of web proxy technologies. This composes from advanced URL rewriting proxies, protocols and more.",
+    "updated_at": "2026-10-05T15:38:58Z",
+    "topics": [
+      "documentation",
+      "titaniumnetwork-proxies",
+      "unblocker",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "tazihad/evadedpi",
+    "homepage": "",
+    "description": "EvadeDPI is a modern, high-performance Deep Packet Inspection (DPI) circumvention tool.",
+    "updated_at": "2026-10-05T11:36:57Z",
+    "topics": [
+      "bypass-censorship",
+      "bypassing",
+      "circumvention",
+      "dpi",
+      "dpi-bypassing",
+      "goodbyedpi",
+      "green",
+      "unblock",
+      "unblocker",
+      "unblockers-for-school"
+    ]
+  },
+  {
+    "full_name": "nautilus-os/GUST",
+    "homepage": "https://gust-browser.vercel.app/",
+    "description": "GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distributed with ease, and with no reliance on serviceworkers, GUST can be used without the need to host it on an admin-blockable website.",
+    "updated_at": "2026-11-14T21:21:34Z",
+    "topics": [
+      "dinguschan",
+      "goguardian-bypass",
+      "html",
+      "lightspeed-bypass",
+      "maintained",
+      "pr0xy",
+      "proxies",
+      "proxies-for-school",
+      "proxies-for-school-chromebook",
+      "proxy",
+      "proxy-site",
+      "school",
+      "school-proxy",
+      "securly-bypass",
+      "self-hosted",
+      "unblockable",
+      "unblocked",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "cjhdevact/GUST-Chinese",
+    "homepage": "",
+    "description": "GUST 中文翻译版本。GUST 是由 Nautilus Labs 开发团队专为高度受限环境设计的一款强大、现代的 Web 代理。它完全静态、打包为单个 HTML 文件，使其可以轻松下载、分享和分发；同时由于完全不依赖 Service Worker，GUST 无需托管在可能被管理员封禁的网站上即可使用。",
+    "updated_at": "2026-10-09T00:19:03Z",
+    "topics": [
+      "dinguschan",
+      "goguardian-bypass",
+      "html",
+      "lightspeed-bypass",
+      "maintained",
+      "pr0xy",
+      "proxies",
+      "proxies-for-school",
+      "proxies-for-school-chromebook",
+      "proxy",
+      "proxy-site",
+      "school",
+      "school-proxy",
+      "securly-bypass",
+      "self-hosted",
+      "unblockable",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "medvedeff-true/Zapret-GUI",
+    "homepage": "",
+    "description": "Программа на основе zapret (запрет), разблокирует YouTube, Discord, Telegram и другие заблокированные сайты",
+    "updated_at": "2026-11-13T23:16:08Z",
+    "topics": [
+      "dpi",
+      "dpi-bypassing",
+      "gui",
+      "russia",
+      "russian",
+      "telegram",
+      "tg",
+      "unblock",
+      "unblocker",
+      "vpn",
+      "windivert",
+      "windows",
+      "winws",
+      "youtube",
+      "zapret",
+      "zapret-discord",
+      "zapret-discord-youtube"
+    ]
+  },
+  {
+    "full_name": "Trickybird/chrome-extension",
+    "homepage": "https://trickybird.com",
+    "description": "Chrome extension that routes one browser tab through the TrickyBird web proxy. It never asks for access to the sites you route.",
+    "updated_at": "2026-09-21T23:11:24Z",
+    "topics": [
+      "anticensorship",
+      "browser-extension",
+      "censorship-circumvention",
+      "chrome-extension",
+      "free-proxy",
+      "internet-freedom",
+      "javascript",
+      "manifest-v3",
+      "mv3",
+      "privacy",
+      "privacy-tools",
+      "proxy",
+      "unblock",
+      "unblocker",
+      "web-proxy",
+      "webproxy",
+      "zero-dependencies"
+    ]
+  },
+  {
+    "full_name": "Aluminum-Depot/Tinf0il",
+    "homepage": "https://tinf0il.site",
+    "description": "Probe the internet privately.",
+    "updated_at": "2026-09-24T02:55:10Z",
+    "topics": [
+      "bypass",
+      "exploit",
+      "goguardian",
+      "iboss",
+      "proxy",
+      "scramjet",
+      "securly",
+      "unblock",
+      "unblocker",
+      "webproxy",
+      "website"
+    ]
+  },
+  {
+    "full_name": "finestcrtn/nukera",
+    "homepage": "",
+    "description": "GUI ZAPRET for Instagram, Telegram web + app proxy, YouTube, Discord,  Whatsapp и тд. Cross-platform: Win, Android, Mac OS, Linux. Один клик-все работает. zapret gui android linux byedpi tg proxy telegram instagram dpi zapret gui android linux byedpi tg proxy telegram instagram dpi zapret gui android linux byedpi tg proxy telegram instagram dpi ",
+    "updated_at": "2026-11-13T16:35:48Z",
+    "topics": [
+      "andorid",
+      "discord",
+      "dpi",
+      "gui-zapret",
+      "instagram",
+      "linux",
+      "reels",
+      "telegram",
+      "unblocker",
+      "whatsap",
+      "youtube",
+      "zapret"
+    ]
+  },
+  {
+    "full_name": "lanyon-tutoring-help/mono",
+    "homepage": "https://lanyon-tutoring-help.github.io/mono/",
+    "description": "Great place for school/workplaces if stuff is blocked. Features games, a proxy, and more!",
+    "updated_at": "2026-10-09T00:21:13Z",
+    "topics": [
+      "games",
+      "proxy",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "TypeThe0ry/OWU",
+    "homepage": "https://owu.terracat.net/",
+    "description": "Self-hosted web proxy with a Go data plane, Vinext UI, GitHub/OIDC SSO, WebSocket, and fixed TCP tunnels",
+    "updated_at": "2026-10-04T09:37:32Z",
+    "topics": [
+      "golang",
+      "nginx",
+      "oauth2-proxy",
+      "oidc",
+      "privacy",
+      "react",
+      "reverse-proxy",
+      "self-hosted",
+      "sso",
+      "swift",
+      "tcp-tunnel",
+      "typescript",
+      "unblocker",
+      "web-proxy",
+      "websocket"
+    ]
+  },
+  {
+    "full_name": "3kh0/ext-remover",
+    "homepage": "https://3kh0.github.io/ext-remover/",
+    "description": "A curated list of exploits for ChromeOS",
+    "updated_at": "2026-11-14T02:28:02Z",
+    "topics": [
+      "chromeos",
+      "exploit",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "sriail/Cloudmoon-InPlay",
+    "homepage": "",
+    "description": "Simple, deployable Cloudflare worker that unblocks Cloudmoon at work/school for effortless gaming! https://google-classroom.sriail.workers.dev/",
+    "updated_at": "2026-10-19T15:49:21Z",
+    "topics": [
+      "chrome-browser",
+      "cloud-gaming",
+      "cloud-streaming-platform",
+      "cloudflare",
+      "cloudflare-workers",
+      "gaming",
+      "gaming-site",
+      "gaming-website",
+      "javascript",
+      "roblox",
+      "unblocked-browsing",
+      "unblocker",
+      "youtube"
+    ]
+  },
+  {
+    "full_name": "smartfoloo/filter-checker",
+    "homepage": "",
+    "description": "A URL checker for multiple content filters",
+    "updated_at": "2026-11-14T03:30:18Z",
+    "topics": [
+      "filter-checker",
+      "fortiguard",
+      "lightspeed",
+      "unblocker",
+      "web-filter"
+    ]
+  },
+  {
+    "full_name": "PlanetDogeCodes/Hypers0nic",
+    "homepage": "https://hypers0nic.vercel.app",
+    "description": "A blazing-fast Scramjet proxy built for easily browsing the modern web.",
+    "updated_at": "2026-08-17T05:42:55Z",
+    "topics": [
+      "goguardian",
+      "goguardianbypass",
+      "lanschool",
+      "lanschoolair",
+      "lightspeed-bypass",
+      "proxy",
+      "proxy-server",
+      "scramjet",
+      "securly-bypass",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers"
+    ]
+  },
+  {
+    "full_name": "amibhai/OpenRoute",
+    "homepage": "",
+    "description": "A personal-use Chrome extension that detects when a site is blocked, works out how it's being blocked, and then walks that one domain down a failover ladder until something gets it through — at full speed for everyone else.",
+    "updated_at": "2026-11-10T04:18:13Z",
+    "topics": [
+      "bypassing",
+      "censorship-bypass",
+      "censorship-free",
+      "censorship-resistance",
+      "dns",
+      "dns-over-https",
+      "doh",
+      "extension",
+      "internet-freedom",
+      "javascript",
+      "proxy",
+      "split-tunneling",
+      "tor",
+      "tunneling",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "cyanpurr/Sapphire",
+    "homepage": "https://サファイア.cyanpurr.cc.cd",
+    "description": "Unblocked HTML5 App Launcher for Restricted Devices",
+    "updated_at": "2026-08-13T07:19:45Z",
+    "topics": [
+      "bypasser",
+      "bypassing",
+      "chrome",
+      "chromebook",
+      "chromeos",
+      "opfs",
+      "pwa",
+      "pwa-app",
+      "pwa-apps",
+      "school",
+      "schools",
+      "unblock",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers",
+      "unblockers-for-school",
+      "unblocking",
+      "website"
+    ]
+  },
+  {
+    "full_name": "Purfview/Imgur-Images-Unblocker",
+    "homepage": "",
+    "description": "Loads images from Imgur/PIXhost in the blocked countries",
+    "updated_at": "2026-11-07T11:41:58Z",
+    "topics": [
+      "imgur",
+      "unblocker",
+      "userscript"
+    ]
+  },
+  {
+    "full_name": "zayd-the-gr8/isle",
+    "homepage": "https://isle.city/",
+    "description": "bypass internet censorship, while allowing you to have a elegant experience with a polished UI",
+    "updated_at": "2026-11-14T02:45:15Z",
+    "topics": [
+      "censorship",
+      "censorship-bypass",
+      "censorship-resistance",
+      "censorship-resistant",
+      "proxy",
+      "render",
+      "school",
+      "scramjet",
+      "search-engine",
+      "ubg",
+      "wisp"
+    ]
+  },
+  {
+    "full_name": "U-spe/spydr",
+    "homepage": "https://dns1.mjevents.org",
+    "description": "The new, cleaner verison of JetX. ",
+    "updated_at": "2026-11-12T13:43:12Z",
+    "topics": [
+      "cloudfare-system",
+      "jetx",
+      "legacy-assets",
+      "macvg",
+      "scramjet",
+      "spydr-project",
+      "ubg-games",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "yourworstnightmare1/proxy-list",
+    "homepage": "https://yourworstnightmare1.github.io/proxy-list/",
+    "description": "List of sites to bypass internet censorship",
+    "updated_at": "2026-11-13T04:39:44Z",
+    "topics": [
+      "goguardian-bypass",
+      "lightspeed-filter",
+      "proxy",
+      "proxy-list",
+      "rammerhead",
+      "reblock",
+      "scramjet",
+      "ultraviolet-proxy",
+      "ultraviolet-proxy-links",
+      "unbl0ckedgames",
+      "unblocked-games",
+      "unblocked-hub",
+      "unblockedatschool",
+      "unblockedforschool",
+      "unblocker-for-school",
+      "unblocker-website",
+      "unblockers-for-school",
+      "web"
+    ]
+  },
+  {
+    "full_name": "shifter-io/web-proxy",
+    "homepage": "https://shifter.io/web-proxy",
+    "description": "Free browser-based proxy for browsing websites through residential IPs, with country selection, an embeddable JavaScript SDK, and a self-hosted Rust backend.",
+    "updated_at": "2026-11-14T01:06:23Z",
+    "topics": [
+      "docker",
+      "embeddable",
+      "geotargeting",
+      "haproxy",
+      "javascript",
+      "proxy",
+      "redis",
+      "residential-proxies",
+      "rust",
+      "scramjet",
+      "sdk",
+      "self-hosted",
+      "websocket",
+      "wisp"
+    ]
+  },
+  {
+    "full_name": "mizcausevic-dev/scramjet-anatomy-jig",
+    "homepage": "https://mizcausevic-dev.github.io/scramjet-anatomy-jig/",
+    "description": "34-second schematic anatomy jig of a Mach 6 air-breathing scramjet flowpath.",
+    "updated_at": "2026-10-22T02:04:07Z",
+    "topics": [
+      "aerospace",
+      "anatomy",
+      "animation",
+      "canvas",
+      "github-pages",
+      "hypersonic",
+      "propulsion",
+      "schlieren",
+      "scramjet",
+      "sern"
+    ]
+  },
+  {
+    "full_name": "mizcausevic-dev/scramjet-flowpath-explainer",
+    "homepage": "https://mizcausevic-dev.github.io/scramjet-flowpath-explainer/",
+    "description": "34-second frame-locked schematic of Scramjet Flowpath. Explanatory only, not a certified reference.",
+    "updated_at": "2026-10-21T19:17:59Z",
+    "topics": [
+      "aerospace-engineering",
+      "anatomy-explainer",
+      "education",
+      "flowpath",
+      "motion-explainer",
+      "scramjet",
+      "technical-schematic"
+    ]
+  },
+  {
+    "full_name": "dotgui-dev/DotGUI",
+    "homepage": "https://discord.gg/invite/U8tT8AazXb",
+    "description": "DotGUI (formerly Zenithub and before that, BlackoutGames) is an advanced game-site that features over 100+ games, a proxy, tools, clean UI and UX, and high-quality updates that bring much needed changes. Its also the easiest to deploy, since we are STATIC! We also have the fastest fan-service of ANY site out there!",
+    "updated_at": "2026-11-12T13:50:25Z",
+    "topics": [
+      "cloudflare-pages",
+      "dotgui",
+      "games",
+      "netlify",
+      "scramjet",
+      "unblocked",
+      "unblocked-proxy",
+      "unblockedai",
+      "unblockedforschool",
+      "unblocker-for-school",
+      "vercel",
+      "website"
+    ]
+  },
+  {
+    "full_name": "Bolt-Network/Bolt-Unblocker",
+    "homepage": "https://boltunblocker.com",
+    "description": "Bolt is one of the fastest and most feature-packed web proxies ever!",
+    "updated_at": "2026-11-08T02:10:28Z",
+    "topics": [
+      "exploit",
+      "game-site",
+      "proxy",
+      "proxy-for-school",
+      "rammerhead",
+      "scramjet",
+      "ultraviolet",
+      "ultraviolet-proxy",
+      "web-proxy",
+      "web-proxy-for-school"
+    ]
+  },
+  {
+    "full_name": "chemicaljs/chemical-legacy",
+    "homepage": "chemicaljs.github.io",
+    "description": "Easily create your own web proxy with no experience required.",
+    "updated_at": "2026-10-04T05:22:08Z",
+    "topics": [
+      "chemical",
+      "chemicaljs",
+      "nebelun",
+      "nebelung",
+      "proxy",
+      "scramjet",
+      "titanium-network",
+      "titaniumnetwork",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "ermersonmoura/LOGAN-Hypersonic-Vehicle-Model",
+    "homepage": "https://doi.org/10.13140/RG.2.2.25090.95682",
+    "description": "6-DoF hypersonic vehicle flight dynamics model coupled with a one-dimensional scramjet thermodynamic engine, including integrated guidance, navigation, and control.",
+    "updated_at": "2026-11-13T07:19:36Z",
+    "topics": [
+      "6dof",
+      "aerodynamics",
+      "aerospace",
+      "autopilot",
+      "flight-control",
+      "flight-dynamics",
+      "gnc",
+      "hypersonic",
+      "hypersonic-vehicle",
+      "matlab",
+      "propulsion",
+      "scramjet",
+      "simulink",
+      "thermodynamics",
+      "waverider"
+    ]
+  },
+  {
+    "full_name": "task4z/catclass-singlefile",
+    "homepage": "https://0.catclass.net",
+    "description": "Scramjet v2? Yes, CatClass has its own single file version now, too!",
+    "updated_at": "2026-09-15T09:35:40Z",
+    "topics": [
+      "catclass",
+      "games",
+      "scramjet",
+      "single-file",
+      "unblocker-for-school"
+    ]
+  },
+  {
+    "full_name": "0800WebDev/PGIS-wisp",
+    "homepage": "https://pgis-wisp.joytree.site",
+    "description": "",
+    "updated_at": "2026-10-25T15:40:37Z",
+    "topics": [
+      "backend",
+      "mjs",
+      "proxy",
+      "proxy-server",
+      "scramjet",
+      "server",
+      "service",
+      "web-proxy",
+      "wisp",
+      "ws",
+      "wss"
+    ]
+  },
+  {
+    "full_name": "Nuper-s-Projects/Slipstream",
+    "homepage": "",
+    "description": "A modern, lightweight, privacy-focused web proxy powered by Scramjet, Wisp, and Libcurl.",
+    "updated_at": "2026-08-23T11:33:12Z",
+    "topics": [
+      "javascript",
+      "nodejs",
+      "proxy",
+      "scramjet"
+    ]
+  },
+  {
+    "full_name": "crllect/ProxDocs",
+    "homepage": "https://docs.crllect.dev",
+    "description": "A comprehensive tutorial on how to run your own web proxy. Featuring a proxy builder which allows for different technologies, settings and features as boilerplate.",
+    "updated_at": "2026-11-13T19:34:07Z",
+    "topics": [
+      "build-tool",
+      "cli",
+      "documentation",
+      "night-network",
+      "proxy",
+      "scramjet",
+      "tutorial",
+      "ultraviolet",
+      "ultraviolet-proxy"
+    ]
+  },
+  {
+    "full_name": "transicle/Revision",
+    "homepage": "",
+    "description": "ScramJet based proxy server for evading internet censorship using a proof of concept port changing system to constantly remain unblocked, automatically changing to the latest ScramJet builds.",
+    "updated_at": "2026-09-26T16:46:14Z",
+    "topics": [
+      "bypass",
+      "proxy",
+      "proxy-server",
+      "school-bypass",
+      "school-proxy",
+      "school-unblocker",
+      "scramjet",
+      "unblock",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "x8rr/scramjet-templates",
+    "homepage": "",
+    "description": "Drag-and-drop templates for setting up Scramjet v2 in your project.",
+    "updated_at": "2026-11-10T18:19:41Z",
+    "topics": [
+      "mercuryworkshop",
+      "proxy",
+      "scramjet",
+      "template"
+    ]
+  },
+  {
+    "full_name": "yourworstnightmare1/bavarium-browser",
+    "homepage": "",
+    "description": "Browser designed to bypass internet censorship",
+    "updated_at": "2026-07-21T14:20:41Z",
+    "topics": [
+      "browser",
+      "bypass-filter",
+      "censorship-circumvention",
+      "chromium",
+      "cross-platform",
+      "devtools",
+      "electron",
+      "html",
+      "macos",
+      "npm",
+      "proxy",
+      "scramjet",
+      "ultraviolet-proxy",
+      "unblockedatschool",
+      "windows",
+      "wisp",
+      "wss"
+    ]
+  },
+  {
+    "full_name": "afrozahmed385-eng/CFD-Analysis-of-Scramjet-Injectors",
+    "homepage": "",
+    "description": "Published undergraduate research on CFD analysis of hydrogen-fueled scramjet injector geometries using ANSYS Fluent.",
+    "updated_at": "2026-07-11T06:11:08Z",
+    "topics": [
+      "aerospace",
+      "ansys",
+      "ansys-fluent",
+      "cfd",
+      "combustion",
+      "compressible-flow",
+      "computational-fluid-dynamics",
+      "fluid-mechanics",
+      "gas-dynamics",
+      "hydrogen",
+      "propulsion",
+      "research",
+      "scramjet",
+      "supersonic"
+    ]
+  },
+  {
+    "full_name": "x8rr/sail-sj",
+    "homepage": "",
+    "description": "A Scramjet example with batteries included.",
+    "updated_at": "2026-11-10T18:19:49Z",
+    "topics": [
+      "browser",
+      "scramjet",
+      "template"
+    ]
+  },
+  {
+    "full_name": "frankaaldana48506867158/dotgui-site",
+    "homepage": "",
+    "description": "DotGUI Site (2026) is the premier utility for advanced GUI design and web interface management. Streamline your site development with this secure, high-speed, and optimized professional tool.",
+    "updated_at": "2026-06-25T08:11:59Z",
+    "topics": [
+      "cloudflare-pages",
+      "dotgui",
+      "games",
+      "netlify",
+      "scramjet",
+      "unblockedai",
+      "unblockedforschool",
+      "unblocker-for-school",
+      "vercel",
+      "website"
+    ]
+  },
+  {
+    "full_name": "kiziltepecemsit5607/dotgui-unblocked-games",
+    "homepage": "",
+    "description": "DotGUI Unblocked Games (2026) is the premier utility for instant access to premium entertainment. Enjoy high-speed performance and a secure, optimized interface for seamless gaming anywhere.",
+    "updated_at": "2026-06-25T07:53:29Z",
+    "topics": [
+      "cloudflare-pages",
+      "dotgui",
+      "games",
+      "netlify",
+      "scramjet",
+      "unblockedai",
+      "unblockedforschool",
+      "unblocker-for-school",
+      "vercel",
+      "website"
+    ]
+  },
+  {
+    "full_name": "rhenryw/SPLASH",
+    "homepage": "https://splash.best",
+    "description": "Secure Proxy for Live Audiovisual SHell- a CLI themed web proxy",
+    "updated_at": "2026-10-15T00:29:06Z",
+    "topics": [
+      "proxy",
+      "scramjet",
+      "unblocked",
+      "unblockedforschool",
+      "unscensorweb"
+    ]
+  },
+  {
+    "full_name": "s0lace-games/s0lace",
+    "homepage": "",
+    "description": "shut down",
+    "updated_at": "2026-05-06T20:32:18Z",
+    "topics": [
+      "games",
+      "gaming",
+      "html5",
+      "media",
+      "proxy",
+      "scramjet",
+      "unblocked-games-website",
+      "unblockedg",
+      "unblocker",
+      "unblocker-for-school"
+    ]
+  },
+  {
+    "full_name": "yogesh031020/hypersonic-scramjet-ai-optimization",
+    "homepage": "",
+    "description": "AI-driven aerodynamic analysis of scramjet hypersonic vehicle using OpenVSP VSPAERO PrePoMax and ML",
+    "updated_at": "2026-05-04T16:58:25Z",
+    "topics": [
+      "aerospace",
+      "airsim",
+      "airsim-drdo",
+      "fea-analysis",
+      "hypersonic",
+      "machine-learning",
+      "openvsp",
+      "python",
+      "scramjet"
+    ]
+  },
+  {
+    "full_name": "Lunaris-cool/Lunaris-cool.github.io",
+    "homepage": "https://lunaris-cool.github.io",
+    "description": "portfolio",
+    "updated_at": "2026-05-15T07:33:56Z",
+    "topics": [
+      "chromebookexploits",
+      "chromebookhack",
+      "schoolchromebook",
+      "schoolchromebooks",
+      "scramjet",
+      "titaniumnetwork",
+      "ultraviolet",
+      "unblockeddocs",
+      "unblockedgames"
+    ]
+  },
+  {
+    "full_name": "virtuan4-max/m-nimum",
+    "homepage": "https://m1nimum.uber.space/",
+    "description": "m!n·i·mum /ˈminəməm/ noun the least or smallest amount or quantity of files possible, attainable, or required for a fully functional web proxy. ",
+    "updated_at": "2026-04-26T17:17:50Z",
+    "topics": [
+      "html",
+      "javascript",
+      "proxy",
+      "scramjet",
+      "unblocked"
+    ]
+  },
+  {
+    "full_name": "Destroyed12121/staticsjv2",
+    "homepage": "https://destroyed12121.github.io/staticsjv2/",
+    "description": "Static scramjet",
+    "updated_at": "2026-11-13T19:21:10Z",
+    "topics": [
+      "proxy",
+      "scramjet",
+      "static",
+      "staticproxy"
+    ]
+  },
+  {
+    "full_name": "sudocontrolhuman/somethingOS",
+    "homepage": "https://os.freshyogurt.org",
+    "description": "Coolest thing I ever made (nvm my minecraft server is cooler)",
+    "updated_at": "2026-08-18T03:46:06Z",
+    "topics": [
+      "html",
+      "os",
+      "proxy",
+      "scramjet",
+      "something"
+    ]
+  },
+  {
+    "full_name": "sriail/Radius",
+    "homepage": "https://studyworkandmore.uk",
+    "description": "a simple, sleek, and fast web proxy based on Radius with advanced updates and deployment features",
+    "updated_at": "2026-04-22T14:48:48Z",
+    "topics": [
+      "astro",
+      "bare-mux",
+      "epoxy",
+      "fastify",
+      "libcurl",
+      "proxy",
+      "proxy-server",
+      "scramjet",
+      "search",
+      "server",
+      "tailwind-css",
+      "ultraviolet",
+      "unblocker",
+      "unblockers",
+      "vite",
+      "web",
+      "webproxy",
+      "website",
+      "websocket",
+      "wisp-js"
+    ]
+  },
+  {
+    "full_name": "gdg-net/green-dog-group-v2",
+    "homepage": "https://gdg.radiohapure.com",
+    "description": "The official green dog group repo, pls star",
+    "updated_at": "2025-09-26T20:12:17Z",
+    "topics": [
+      "gdg",
+      "greendoggroup",
+      "mercuryworkshop",
+      "proxy",
+      "scramjet"
+    ]
+  },
+  {
+    "full_name": "kyladev/Kpx-main",
+    "homepage": "https://kpx-demo.knetwork.dev:8081/",
+    "description": "A proxy, based on Scramjet, including various extra features, meant to be deployed as a website.",
+    "updated_at": "2026-09-25T21:36:02Z",
+    "topics": [
+      "proxy",
+      "scramjet",
+      "unblock",
+      "unblocker",
+      "unblocker-for-school",
+      "unblockers",
+      "unblockers-for-school"
+    ]
+  },
+  {
+    "full_name": "simplyrohan/ultratabs",
+    "homepage": "",
+    "description": "An Arc inspired web-proxy",
+    "updated_at": "2026-08-04T17:45:27Z",
+    "topics": [
+      "arc-browser",
+      "frontend",
+      "proxy",
+      "scramjet",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "EnchantedDonutStudioz/Bolt",
+    "homepage": "https://boltunblocker.bot.nu",
+    "description": "Bolt is one of the fastest and most feature-packed web proxies ever!",
+    "updated_at": "2026-03-02T01:57:56Z",
+    "topics": [
+      "bolt",
+      "boltunblocker",
+      "proxy",
+      "rammerhead",
+      "scramjet",
+      "ultraviolet",
+      "ultraviolet-proxy",
+      "unblocked-games",
+      "unblocker",
+      "unblocker-for-school",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "karlroush/scramjet_fuelViability",
+    "homepage": "",
+    "description": "Part of Spring 2018 research at the Ben T. Zinn Combustion Laboratory",
+    "updated_at": "2023-06-16T18:18:22Z",
+    "topics": [
+      "combustion",
+      "jet-fuel",
+      "scramjet"
+    ]
+  },
+  {
+    "full_name": "scramjetorg/framework-cpp",
+    "homepage": "",
+    "description": "Simple yet powerful live data computation framework. C++ port of Scramjet framework.",
+    "updated_at": "2026-06-04T06:40:48Z",
+    "topics": [
+      "cpp",
+      "data-stream",
+      "event-stream",
+      "reactive-programming",
+      "scramjet",
+      "spark-streaming",
+      "stream",
+      "stream2",
+      "transformations"
+    ]
+  },
+  {
+    "full_name": "m4opt/m4opt",
+    "homepage": "https://m4opt.readthedocs.io/",
+    "description": "Multi-Mission Multi-Messenger Observation Planning Toolkit",
+    "updated_at": "2026-11-12T11:52:02Z",
+    "topics": [
+      "astronomy",
+      "cplex",
+      "healpix",
+      "mixed-integer-programming",
+      "nasa",
+      "operations-research",
+      "optimization",
+      "satellite",
+      "scheduling-algorithms",
+      "telescope",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "scaleway/ultraviolet",
+    "homepage": "https://ultraviolet.scaleway.com",
+    "description": "A monorepo Design System with React components.",
+    "updated_at": "2026-11-12T15:50:57Z",
+    "topics": [
+      "form",
+      "react",
+      "react-hook-form",
+      "scaleway",
+      "typescript",
+      "ui",
+      "ui-components",
+      "ui-library",
+      "ultraviolet",
+      "vanilla-extract"
+    ]
+  },
+  {
+    "full_name": "woudc/woudc-data-registry",
+    "homepage": "https://woudc.org",
+    "description": "WOUDC Data Registry is a platform that manages Ozone and Ultraviolet Radiation data in support of the World Ozone and Ultraviolet Radiation Data Centre (WOUDC), one of six World Data Centres as part of the Global Atmosphere Watch programme of the WMO.",
+    "updated_at": "2026-11-11T14:21:15Z",
+    "topics": [
+      "gaw",
+      "ozone",
+      "ozonesonde",
+      "spectral",
+      "totalozone",
+      "ultraviolet",
+      "umkehr",
+      "uv",
+      "wmo"
+    ]
+  },
+  {
+    "full_name": "nirholas/openbare",
+    "homepage": "https://openbare.xyz",
+    "description": "Decentralized, censorship-resistant web proxy network: bare-server nodes, node registry and a failover client.",
+    "updated_at": "2026-11-11T16:14:01Z",
+    "topics": [
+      "censorship-resistance",
+      "claude-code-plugin",
+      "cloudflare-workers",
+      "decentralized",
+      "nodejs",
+      "proxy",
+      "tomphttp",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "ouzounis/CV19global",
+    "homepage": "https://osf.io/kgxuf/",
+    "description": "CV19global: 54 countries, 82 indicators, 2 years, 3,066,472 data points",
+    "updated_at": "2026-11-08T10:32:00Z",
+    "topics": [
+      "covid-19",
+      "mers",
+      "sars",
+      "sars-cov-2",
+      "seasonality",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "Adnaninho/ML8511",
+    "homepage": "",
+    "description": "A simple Arduino library for the ML8511 UV sensor to measure UV intensity and calculate UV Index with support for multiple units and custom calibration.",
+    "updated_at": "2026-11-06T19:00:07Z",
+    "topics": [
+      "bmp180",
+      "esp-library",
+      "feels-like",
+      "google-iot-core",
+      "humidity",
+      "ky037",
+      "mikroc",
+      "mikrosdk",
+      "mqtt",
+      "nodemcu",
+      "temperature",
+      "ultraviolet",
+      "uv",
+      "winc1510"
+    ]
+  },
+  {
+    "full_name": "NYU-DataServices/uv-wacz-test",
+    "homepage": "",
+    "description": "Crawl live sites to produce WACZ files with browsertrix-crawler",
+    "updated_at": "2026-10-26T17:24:02Z",
+    "topics": [
+      "ultraviolet",
+      "webrecorder"
+    ]
+  },
+  {
+    "full_name": "prajwel/cosmit",
+    "homepage": "",
+    "description": "Cosmic-ray tools for AstroSat/UVIT",
+    "updated_at": "2026-10-23T11:02:00Z",
+    "topics": [
+      "astronomical-algorithms",
+      "astronomy",
+      "astronomy-astrophysics",
+      "astronomy-software",
+      "astrosat",
+      "cosmic-rays",
+      "ultraviolet",
+      "uvit",
+      "uvit-data"
+    ]
+  },
+  {
+    "full_name": "rtCarl/ultraviolet",
+    "homepage": "",
+    "description": "🛠️ Build a RISC-native architecture combining RISC-V/ARM CPUs and CUDA GPUs on OpenBSD for a streamlined, secure, and efficient computing experience.",
+    "updated_at": "2026-10-13T06:34:44Z",
+    "topics": [
+      "bypass",
+      "circumvention",
+      "discord-unblocker",
+      "form",
+      "heroku",
+      "javascript",
+      "nodejs",
+      "proxy-server",
+      "react-hook-form",
+      "reakit",
+      "scaleway",
+      "service-worker",
+      "static-site",
+      "styled-components",
+      "titanium-network",
+      "ui-components",
+      "ultraviolet",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "bluetomatographics-wq/SpectrumSim",
+    "homepage": "https://spectrumsimulations.com/",
+    "description": "Creative electromagnetic spectrum photo simulations — created and designed by David B. Stevens.",
+    "updated_at": "2026-10-06T18:43:09Z",
+    "topics": [
+      "electromagnetic-spectrum",
+      "image-processing",
+      "infrared",
+      "open-source",
+      "photo-effects",
+      "react",
+      "typescript",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "janearc/puffin-dist",
+    "homepage": "",
+    "description": "tui console for kubernetes and claude agents, but beautiful",
+    "updated_at": "2026-09-17T00:40:57Z",
+    "topics": [
+      "bubbletea",
+      "charmbracelet",
+      "claude-code",
+      "kubernetes",
+      "observability",
+      "tui",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "MowkE/LUMASHAPE",
+    "homepage": "",
+    "description": "The bird's fourth primary — a 4D color space you can rotate. Tetrachromat receptor lattice as a tesseract: rotate color into ultraviolet, collapse it to the human cube, see the metamer fibers your eye can't split. Zero-dependency WebGL2.",
+    "updated_at": "2026-09-06T08:23:29Z",
+    "topics": [
+      "4d",
+      "bird-vision",
+      "color",
+      "color-science",
+      "tetrachromacy",
+      "ultraviolet",
+      "visualization",
+      "webgl2"
+    ]
+  },
+  {
+    "full_name": "smartfoloo/lunarsync",
+    "homepage": "https://github.com/smartfoloo/arsenic",
+    "description": "This project has been archived. For a more updated and maintained proxy, check out arsenic.",
+    "updated_at": "2026-11-11T17:52:31Z",
+    "topics": [
+      "css",
+      "free",
+      "html",
+      "javascript",
+      "js",
+      "nodejs",
+      "proxy",
+      "service",
+      "trending",
+      "ultraviolet",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "leisurelyleon/asml-euv-lithography-controller",
+    "homepage": "",
+    "description": "Bare-metal real-time OS controller for ASML EUV lithography simulation. Features nanometer mirror interferometry in C, picosecond laser timing, molten tin droplet synchronization, and Rust-based SIMD physics execution for extreme ultraviolet semiconductor manufacturing.",
+    "updated_at": "2026-09-22T22:46:32Z",
+    "topics": [
+      "execution",
+      "laser",
+      "lithography",
+      "molten",
+      "nanometer",
+      "physics",
+      "picosecond",
+      "rust-ba",
+      "rust-based",
+      "semiconductor-manufacturing",
+      "semiconductors",
+      "simd",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "avsa242/si114x-spin",
+    "homepage": "",
+    "description": "Parallax P8X32A/Propeller driver object for the Silicon Labs Si114x UV/Proximity/Ambient light sensor",
+    "updated_at": "2026-08-08T15:19:04Z",
+    "topics": [
+      "ambient",
+      "ambient-light-sensor",
+      "driver",
+      "infrared",
+      "ir",
+      "p8x32a",
+      "propeller",
+      "proximity",
+      "proximity-sensor",
+      "sensor",
+      "si1145",
+      "si1146",
+      "si1147",
+      "si114x",
+      "spin",
+      "ultraviolet",
+      "uv",
+      "uv-index"
+    ]
+  },
+  {
+    "full_name": "crllect/How-to-make-an-ultraviolet-proxy",
+    "homepage": "",
+    "description": "This is a guide for how to set up ultraviolet. It covers how to create new frontend for ultraviolet, or integrate existing frontend. Need help? DM on discord @crllect",
+    "updated_at": "2026-11-02T04:27:00Z",
+    "topics": [
+      "example",
+      "how-to-make-proxy",
+      "proxy",
+      "school",
+      "titanium-network",
+      "tutorial",
+      "tutorial-code",
+      "ultraviolet",
+      "unblocked-school",
+      "uv"
+    ]
+  },
+  {
+    "full_name": "zgr2575/SlowGuardian",
+    "homepage": "https://sg.zadmin.xyz",
+    "description": "A lightweight frontend using $UV to vnbl0ck every imaginable website. ",
+    "updated_at": "2026-04-01T15:08:51Z",
+    "topics": [
+      "games",
+      "proxy",
+      "ultraviolet",
+      "ultraviolet-frontend",
+      "unblocked-games",
+      "uv"
+    ]
+  },
+  {
+    "full_name": "bachya/pyopenuv",
+    "homepage": "",
+    "description": "☀️A simple Python API to retrieve data from openuv.io",
+    "updated_at": "2025-06-21T09:48:23Z",
+    "topics": [
+      "asyncio",
+      "health",
+      "python3",
+      "sun",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "s0lace-games/astriex",
+    "homepage": "https://astriex.vercel.app",
+    "description": "Astriex is a fully open source unblocked frontend proxy gaming site.  credit me if you take my code please or go fuck youself",
+    "updated_at": "2026-09-17T00:52:29Z",
+    "topics": [
+      "frontend",
+      "games",
+      "html5",
+      "media",
+      "opensource",
+      "proxy",
+      "ultraviolet",
+      "unblocked-games",
+      "unblockedatschool",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "titaniumnetwork-dev/Ultraviolet",
+    "homepage": "https://docs.titaniumnetwork.org/proxies/ultraviolet",
+    "description": "A sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Succeeded by Scramjet.",
+    "updated_at": "2026-11-13T19:18:58Z",
+    "topics": [
+      "bypass-recaptcha-v2",
+      "bypasscaptcha",
+      "discord-unblocker",
+      "es6",
+      "es6-javascript",
+      "google-login",
+      "javascript",
+      "nodejs",
+      "proxy",
+      "service-worker",
+      "titaniumnetwork",
+      "typescript",
+      "ultraviolet",
+      "unblock",
+      "unblocker",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "blacklight-foundation/ultraviolet",
+    "homepage": "https://ultraviolet-lang.org",
+    "description": "A high-visibility, general purpose programing language for humans and AI.",
+    "updated_at": "2026-11-08T23:01:25Z",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "coding",
+      "compiler",
+      "programming-language",
+      "programming-languages",
+      "ultraviolet",
+      "vibe-coding"
+    ]
+  },
+  {
+    "full_name": "yourworstnightmare1/yourworstnightmare1.github.io",
+    "homepage": "https://yourworstnightmare1.github.io/",
+    "description": "Backend web API for ReBlock applications and websites",
+    "updated_at": "2026-05-10T23:45:51Z",
+    "topics": [
+      "api",
+      "emulation",
+      "reblock",
+      "reblock-games",
+      "ultraviolet",
+      "ultraviolet-proxy",
+      "unblocked-games",
+      "yourworstnightmare1"
+    ]
+  },
+  {
+    "full_name": "octaprog7/ltr390uv",
+    "homepage": "",
+    "description": "Модуль MicroPython для управления LTR390UV. Датчик внешней освещенности в видимом и ультрафиолетовом диапазонах. MicroPython module for controlling the LTR390UV. Ambient light sensor in visible and ultraviolet ranges.",
+    "updated_at": "2026-04-21T16:07:51Z",
+    "topics": [
+      "als",
+      "i2c",
+      "micropython",
+      "sensor",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "uxabix/UVExpose",
+    "homepage": "",
+    "description": "A portable UV exposure controller firmware. The project uses a modular architecture with persistent settings, preset storage in Flash, battery protection logic, and an encoder-driven OLED UI.",
+    "updated_at": "2026-03-11T13:13:25Z",
+    "topics": [
+      "c",
+      "cubeide",
+      "cubemx",
+      "embedded",
+      "kicad",
+      "kicad-schematics",
+      "stm32",
+      "stm32f103",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "titaniumnetwork-dev/Ultraviolet-App",
+    "homepage": "https://docs.titaniumnetwork.org/proxies/ultraviolet",
+    "description": "Example application of Ultraviolet which can be deployed in production.",
+    "updated_at": "2026-11-13T19:18:58Z",
+    "topics": [
+      "nodejs",
+      "proxy",
+      "proxy-server",
+      "ultraviolet",
+      "webproxy",
+      "website"
+    ]
+  },
+  {
+    "full_name": "prajwel/PhD_thesis",
+    "homepage": "http://hdl.handle.net/10603/641236",
+    "description": "My PhD thesis titled \"Study of the effect of AGN activity on star formation in nearby galaxies using UVIT\".",
+    "updated_at": "2025-12-16T12:23:07Z",
+    "topics": [
+      "agn",
+      "agn-feedback",
+      "astronomy",
+      "astrophysics",
+      "galaxies",
+      "star-formation",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "lich-games/Definitely-Science",
+    "homepage": "https://definitelyscience.com",
+    "description": "Definitely Science is a site with an amazing collection of online games.",
+    "updated_at": "2026-10-16T17:37:45Z",
+    "topics": [
+      "online-games",
+      "titaniumnetwork",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "bryanhanson/FOSS4Spectroscopy",
+    "homepage": "https://bryanhanson.github.io/FOSS4Spectroscopy/",
+    "description": "FOSS Resources for Spectroscopy",
+    "updated_at": "2025-11-25T17:04:49Z",
+    "topics": [
+      "eem",
+      "infrared",
+      "nmr",
+      "raman",
+      "spectroscopy",
+      "ultraviolet",
+      "visible",
+      "xrf"
+    ]
+  },
+  {
+    "full_name": "PurpleKingdomGames/ultraviolet",
+    "homepage": "https://ultraviolet.indigoengine.io/",
+    "description": "Scala 3 to GLSL transpiler library",
+    "updated_at": "2026-05-19T08:35:18Z",
+    "topics": [
+      "gamedev",
+      "glsl",
+      "indigo",
+      "scala",
+      "scala3",
+      "scala3-metaprogramming",
+      "shaders",
+      "ultraviolet",
+      "webgl"
+    ]
+  },
+  {
+    "full_name": "PurpleKingdomGames/roguelike-starterkit",
+    "homepage": "http://rlsk.indigoengine.io/",
+    "description": "Terminal rendering for Indigo based roguelike games.",
+    "updated_at": "2026-08-04T02:04:24Z",
+    "topics": [
+      "gamedev",
+      "indigo",
+      "roguelike",
+      "roguelikedev",
+      "scala",
+      "scalajs",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "prajwel/curvit",
+    "homepage": "",
+    "description": "Create light curves from UVIT data.",
+    "updated_at": "2026-05-29T03:49:41Z",
+    "topics": [
+      "astronomy",
+      "astrosat",
+      "instrument-coordinate",
+      "light-curves",
+      "lightcurves",
+      "python",
+      "science",
+      "ultraviolet",
+      "uvit",
+      "uvit-data",
+      "variability"
+    ]
+  },
+  {
+    "full_name": "bryanhanson/ChemoSpec",
+    "homepage": "https://bryanhanson.github.io/ChemoSpec/",
+    "description": "R functions for the chemometric analysis of spectra",
+    "updated_at": "2026-05-04T18:16:55Z",
+    "topics": [
+      "infrared",
+      "nmr",
+      "raman",
+      "spectroscopy",
+      "ultraviolet",
+      "visible",
+      "xrf"
+    ]
+  },
+  {
+    "full_name": "mrsproutt/Easyviolet",
+    "homepage": "",
+    "description": "An easy way to use the ultraviolet proxy.",
+    "updated_at": "2026-09-30T07:50:16Z",
+    "topics": [
+      "nodejs",
+      "proxy",
+      "tomphttp",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "spencerau/UV_SpotDetection",
+    "homepage": "",
+    "description": "Traditional Digital Image Processing (non Deep Learning) approach to detect biological matter from pets, such as cat hairball stains and urine in apartment.",
+    "updated_at": "2025-12-17T21:36:33Z",
+    "topics": [
+      "cats",
+      "image-processing",
+      "ultraviolet",
+      "uv"
+    ]
+  },
+  {
+    "full_name": "11bunno11/voidious-legacy",
+    "homepage": "https://voidious.vercel.app",
+    "description": "Voidious is a proxy with zero ads and has all the necessities for browsing the web, forked from Interstellar. Check them out!",
+    "updated_at": "2026-07-07T09:31:26Z",
+    "topics": [
+      "discord",
+      "dynamic",
+      "evasion",
+      "hypertabs",
+      "incognito",
+      "interstellar",
+      "ludicrous",
+      "no-ads",
+      "proxies",
+      "proxy",
+      "school",
+      "school-unblocker",
+      "twitter",
+      "ultraviolet",
+      "unblocker",
+      "vercel",
+      "x",
+      "youtube"
+    ]
+  },
+  {
+    "full_name": "SynthEDU/synthedu.github.io",
+    "homepage": "https://synthedu.github.io/",
+    "description": "SynthEDU is a fun platform that makes learning cool with games, a proxy service, and more! This repo shows you how to set up and deploy SynthEDU on platforms like Koyeb, Vercel, and Hop.sh. Whether you want to help out or just check it out, you're in the right place. Let's build the future of learning together!",
+    "updated_at": "2025-05-11T16:25:30Z",
+    "topics": [
+      "css",
+      "education",
+      "html",
+      "js",
+      "synthedu",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "Skoolgq/Polaris",
+    "homepage": "https://polarislearning.org",
+    "description": "The professional unblocked games site.",
+    "updated_at": "2026-11-13T19:19:24Z",
+    "topics": [
+      "game",
+      "game-site",
+      "games",
+      "gamesite",
+      "nodejs",
+      "proxy",
+      "ultraviolet",
+      "unblocked",
+      "unblocked-games",
+      "unblocked-websites",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "steviecurran/star-spectrum",
+    "homepage": "",
+    "description": "C (pgplot) code to plot the Planck function of a black body (Sun or any other star)",
+    "updated_at": "2025-02-18T21:13:49Z",
+    "topics": [
+      "astrophysics",
+      "color",
+      "infrared",
+      "physics",
+      "planck",
+      "radio",
+      "spectral-energy-distribution",
+      "stars",
+      "stellar",
+      "sun",
+      "teaching",
+      "temperature",
+      "ultraviolet",
+      "visible"
+    ]
+  },
+  {
+    "full_name": "steviecurran/interstellar-dust",
+    "homepage": "",
+    "description": "Fit a modified black body (grey body) to mid-infrared  astronomical data",
+    "updated_at": "2025-02-18T20:33:18Z",
+    "topics": [
+      "astrophysics",
+      "blackhole",
+      "error-handling",
+      "fitting",
+      "infrared",
+      "interstellar-medium",
+      "star-formation",
+      "teaching",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "Treme-cmd/VoidNetwork-Enhanced",
+    "homepage": "https://vne.up.railway.app",
+    "description": "The enhanced version of Void Network.",
+    "updated_at": "2025-02-05T19:16:45Z",
+    "topics": [
+      "proxy",
+      "ultraviolet",
+      "ultraviolet-proxy",
+      "unblocked",
+      "unblocked-games"
+    ]
+  },
+  {
+    "full_name": "davesmith00000/roguelike",
+    "homepage": "https://davesmith00000.github.io/roguelike/",
+    "description": "My Generic Roguelike",
+    "updated_at": "2026-08-04T02:04:35Z",
+    "topics": [
+      "gamedev",
+      "indigo",
+      "roguelike",
+      "roguelike-game",
+      "roguelikedev",
+      "scala",
+      "scalajs",
+      "ultraviolet"
+    ]
+  },
+  {
+    "full_name": "TheRealGeoDash2019/Rammerhead-Patches",
+    "homepage": "https://settings.lhost.dev",
+    "description": "My Testing of Rammerhead Theming and Shortcuts. I guess...",
+    "updated_at": "2026-11-07T06:08:19Z",
+    "topics": [
+      "browser",
+      "patches",
+      "rammerhead",
+      "theming"
+    ]
+  },
+  {
+    "full_name": "HeyPuter/browser.js",
+    "homepage": "https://puter.com/app/browser",
+    "description": "Highly Configurable Browser Environment for the Web",
+    "updated_at": "2026-11-14T15:03:31Z",
+    "topics": [
+      "browser",
+      "proxy-browser",
+      "rammerhead",
+      "web-browser"
+    ]
+  },
+  {
+    "full_name": "Mhrnqaruni/lan-web-proxy",
+    "homepage": "",
+    "description": "Authenticated self-hosted browser proxy for a LAN or HTTPS VPS, powered by Python and Rammerhead",
+    "updated_at": "2026-09-24T13:12:05Z",
+    "topics": [
+      "browser-proxy",
+      "lan",
+      "python",
+      "rammerhead",
+      "reverse-proxy",
+      "self-hosted",
+      "vps",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "dewijones92/rammerhead-arm64",
+    "homepage": "",
+    "description": "Prebuilt multi-arch Docker images for Rammerhead (linux/arm64 + linux/amd64) - built on native GitHub arm64 runners. For Raspberry Pi, Ampere, Graviton and Apple silicon.",
+    "updated_at": "2026-08-01T14:58:02Z",
+    "topics": [
+      "aarch64",
+      "arm64",
+      "docker",
+      "docker-image",
+      "ghcr",
+      "multi-arch",
+      "proxy",
+      "rammerhead",
+      "raspberry-pi",
+      "web-proxy"
+    ]
+  },
+  {
+    "full_name": "sigmaslicer-pog/ultrahead",
+    "homepage": "https://sigmaslicer-pog.github.io/ultrahead/",
+    "description": "",
+    "updated_at": "2026-07-13T20:37:08Z",
+    "topics": [
+      "proxy",
+      "proxy-server",
+      "rammerhead",
+      "school-app",
+      "ultraviolet-proxy",
+      "unblockedatschool"
+    ]
+  },
+  {
+    "full_name": "wea-f/ByePassHub",
+    "homepage": "https://wea-f.github.io/Norepted/",
+    "description": "1000+ unrestricted proxies, games, tools, bookmarklets, and AI",
+    "updated_at": "2026-11-04T16:36:31Z",
+    "topics": [
+      "ai",
+      "bookmarklets",
+      "byepasshub",
+      "bypass",
+      "exploit",
+      "games",
+      "hub",
+      "interstellar",
+      "links",
+      "lists",
+      "proxy",
+      "proxy-list",
+      "rammerhead",
+      "tools",
+      "unblock",
+      "unblocked-games",
+      "unblocked-websites"
+    ]
+  },
+  {
+    "full_name": "Quartinal/Rammerhead",
+    "homepage": "",
+    "description": "An improved rammerhead easy deployment version using PNPM and Docker.",
+    "updated_at": "2024-10-26T22:59:03Z",
+    "topics": [
+      "proxy-for-school",
+      "proxy-for-school-chromebook",
+      "rammerhead"
+    ]
+  },
+  {
+    "full_name": "evmaneh/Proxy-List-Creator",
+    "homepage": "",
+    "description": "A simple tool made to store/save/archive different school proxy unblockers.",
+    "updated_at": "2024-10-16T17:57:43Z",
+    "topics": [
+      "list",
+      "node",
+      "proxy",
+      "rammerhead",
+      "school",
+      "ultraviolet",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "holy-unblocker/website-legacy-aio",
+    "homepage": "https://holyubofficial.net/",
+    "description": "All-in-one Holy Unblocker bundle",
+    "updated_at": "2026-09-24T05:13:58Z",
+    "topics": [
+      "holyunblocker",
+      "rammerhead",
+      "titaniumnetwork",
+      "tomphttp"
+    ]
+  },
+  {
+    "full_name": "Echkyx/ForeverKyx-Web-Browser",
+    "homepage": "https://foreverkyxweb.replit.app/",
+    "description": "Proxy for school computers. ",
+    "updated_at": "2026-10-12T14:50:43Z",
+    "topics": [
+      "bypass",
+      "bypassschool",
+      "foreverkyx",
+      "helpkyx",
+      "kyx",
+      "proxies",
+      "proxy",
+      "rammerhead",
+      "school",
+      "unblocked",
+      "vpn"
+    ]
+  },
+  {
+    "full_name": "Echkyx/HelpKyx",
+    "homepage": "http://helpkyx.com/",
+    "description": "Assignment Manager: GitHub-based web app for assignment management. Users sign up, log in, upload/view assignments. Secure, efficient, easy-to-use interface.",
+    "updated_at": "2024-04-25T13:59:00Z",
+    "topics": [
+      "assignments",
+      "bypassschool",
+      "helper",
+      "proxies",
+      "rammerhead",
+      "school",
+      "unblocked",
+      "unblocked-games",
+      "unblocked-school",
+      "unblocked-websites",
+      "vpn"
+    ]
+  },
+  {
+    "full_name": "loganofcdev/Rammerhead-Remake",
+    "homepage": "https://tridentgames.lol/Rammerhead-Remake",
+    "description": "This is a edited version for trident games | All creds to original owner :)",
+    "updated_at": "2024-03-19T00:09:56Z",
+    "topics": [
+      "rammerhead"
+    ]
+  },
+  {
+    "full_name": "rammerhq/RammerhqCenter",
+    "homepage": "https://rammerhq.github.io/RammerhqCenter/",
+    "description": "Welcome to My Game Website On Github Pages",
+    "updated_at": "2026-05-01T09:48:09Z",
+    "topics": [
+      "1v1lol",
+      "discord",
+      "fortnite",
+      "games",
+      "rammer",
+      "rammerhead",
+      "static",
+      "unblocked-games",
+      "unblocked-websites",
+      "unblocker"
+    ]
+  },
+  {
+    "full_name": "Therealwh/Therealwh.github.io",
+    "homepage": "",
+    "description": "Рабочий MTProto Web Proxy для Telegram — живой статус онлайн, проверка каждые 5 минут, подключение в 1 клик. MTProto proxy, webproxy, обход блокировок.",
+    "updated_at": "2026-11-13T09:59:39Z",
+    "topics": [
+      "antiblocking",
+      "mtproto",
+      "mtproto-proxy",
+      "mtproxy",
+      "proxy",
+      "proxy-server",
+      "status-page",
+      "telegram",
+      "telegram-proxy",
+      "telegram-webproxy",
+      "vpn-alternative",
+      "webproxy"
+    ]
+  },
+  {
+    "full_name": "IOUWDIHYUWDAIHGAWDYUGAWDUYAWGYGWDYWYDWA/github-proxy",
+    "homepage": "",
+    "description": "GitHub-only web proxy requirements and feasibility research",
+    "updated_at": "2026-11-12T07:35:00Z",
+    "topics": []
+  },
+  {
+    "full_name": "mgkvibez/standalone-webcontainer",
+    "homepage": "",
+    "description": "Browser-native Node.js runtime: in-memory POSIX VFS, service-worker network proxy, JS-shimmed Node APIs on native V8. MIT.",
+    "updated_at": "2026-11-12T17:05:10Z",
+    "topics": []
+  },
+  {
+    "full_name": "Pxys-io/DailyProxyList",
+    "homepage": "",
+    "description": "A free daily updated and tested proxy list from all over the web ",
+    "updated_at": "2026-11-12T07:07:05Z",
+    "topics": []
+  },
+  {
+    "full_name": "praythein1994-cpu/ruijie-voucher-app",
+    "homepage": "",
+    "description": "Ruijie Cloud voucher management — web app + proxy + Android APK",
+    "updated_at": "2026-11-12T15:49:26Z",
+    "topics": []
+  },
+  {
+    "full_name": "s12ryt/multi-cf-proxy",
+    "homepage": "",
+    "description": "多開CF代理：多條 Cloudflare WARP 隧道聚合，SOCKS5/HTTP 帳密分流出口，Web 管理 + 自動重連",
+    "updated_at": "2026-11-11T15:50:21Z",
+    "topics": []
+  },
+  {
+    "full_name": "faevyl/Whyopensource",
+    "homepage": "",
+    "description": "Basically a client side web proxy for people like ME. code by well, michael n ",
+    "updated_at": "2026-11-14T19:14:04Z",
+    "topics": []
+  },
+  {
+    "full_name": "theriturajps/proxy-list",
+    "homepage": "https://theriturajps.github.io/proxy-list/docs/",
+    "description": "Automatically updated repository of free public proxies. Hourly refreshed HTTP/HTTPS proxies for web scraping, cybersecurity, and testing. Raw list available with website.",
+    "updated_at": "2026-11-12T14:21:49Z",
+    "topics": [
+      "proxies",
+      "proxy",
+      "proxy-server"
+    ]
+  },
+  {
+    "full_name": "encondata/switchyard",
+    "homepage": "",
+    "description": "A web UI for running Caddy as your reverse proxy, replacing Nginx Proxy Manager.",
+    "updated_at": "2026-11-09T20:24:30Z",
+    "topics": []
+  },
+  {
+    "full_name": "oleg-tkachuk/paladin",
+    "homepage": "",
+    "description": "Multi-tenant control plane for S3-compatible object storage: tenant-scoped credentials, Cedar policies, quotas, audit and events. Not an S3 proxy — clients move bytes over presigned URLs. Connect API, web console, Go and Python SDKs, and an MCP server for AI agents.",
+    "updated_at": "2026-11-12T15:28:09Z",
+    "topics": [
+      "cedar",
+      "connect-rpc",
+      "control-plane",
+      "golang",
+      "helm",
+      "kubernetes",
+      "mcp",
+      "model-context-protocol",
+      "multi-tenant",
+      "nextjs",
+      "object-storage",
+      "postgresql",
+      "presigned-url",
+      "s3"
+    ]
+  },
+  {
+    "full_name": "asepharyana/scraper",
+    "homepage": "https://scraper.asepharyana.my.id/docs",
+    "description": "Rust/Axum web scraper & image proxy API — anime, comics, social-media video, OpenTelemetry metrics, Swagger UI.",
+    "updated_at": "2026-11-12T17:36:22Z",
+    "topics": []
+  },
+  {
+    "full_name": "meteorik-media/Video-Processor",
+    "homepage": "",
+    "description": "Compress raw video into light proxies an AI (or a person) can watch and log with exact timestamps. CLI + local web UI, Python stdlib + ffmpeg.",
+    "updated_at": "2026-11-14T19:30:12Z",
+    "topics": [
+      "ai",
+      "ffmpeg",
+      "gameplay",
+      "proxy",
+      "python",
+      "video"
+    ]
+  },
+  {
+    "full_name": "hamoamerica746-create/croxy-ar-proxy",
+    "homepage": "https://croxy-ar-proxy.vercel.app",
+    "description": "CroxyAr Web Proxy - Fast Mobile & Desktop Unblocker (Vercel Ready)",
+    "updated_at": "2026-11-14T21:27:50Z",
+    "topics": []
+  },
+  {
+    "full_name": "arminfelder/WS-FED-PROXY",
+    "homepage": "",
+    "description": "Web Services Federation SAML2 middleware",
+    "updated_at": "2026-11-04T23:53:33Z",
+    "topics": []
+  },
+  {
+    "full_name": "secureline-io/securesuite",
+    "homepage": "",
+    "description": "Free, open-source (AGPL) web application security testing toolkit — intercepting proxy, manual tools, scanner, and OAST in a single ~11 MB Rust binary.",
+    "updated_at": "2026-11-11T23:36:24Z",
+    "topics": []
+  },
+  {
+    "full_name": "miqonee/Kaponir",
+    "homepage": "",
+    "description": "Local-first privacy proxy for LLM workflows with reversible masking, discovery, OCR, and a web control panel.",
+    "updated_at": "2026-11-12T07:41:29Z",
+    "topics": []
+  },
+  {
+    "full_name": "envoyproxy/envoy-website",
+    "homepage": "https://envoyproxy.io",
+    "description": "Envoy Proxy website",
+    "updated_at": "2026-11-12T16:54:11Z",
+    "topics": [
+      "cncf",
+      "envoy",
+      "website"
+    ]
+  },
+  {
+    "full_name": "ahpio/ahpd",
+    "homepage": "https://ahpio.github.io/ahpd/",
+    "description": "An open-source, plugin-driven AHP server with native Claude and pi agents, ACP agents (Codex, Copilot, Gemini), model proxying, tools and MCP servers, sandboxed computers and terminals, automations, conversational bots, and a web UI (ahpw). Users, permissions and usage tracking are built in. Build your own host and plugins with @ahpd/sdk.",
+    "updated_at": "2026-11-14T11:05:23Z",
+    "topics": [
+      "agent-host-protocol",
+      "claude",
+      "claude-code",
+      "codex",
+      "copilot",
+      "deepseek-harness",
+      "gemini",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "openrouter",
+      "pi-harness",
+      "pi-sdk"
+    ]
+  },
+  {
+    "full_name": "ben-efros/caddy-rs",
+    "homepage": "",
+    "description": "Caddy-compatible HTTP/1.1-3 web server, reverse proxy and TLS automation engine in Rust",
+    "updated_at": "2026-11-12T09:59:47Z",
+    "topics": [
+      "acme",
+      "caddy",
+      "caddyfile",
+      "http3",
+      "reverse-proxy",
+      "rust",
+      "self-hosted",
+      "tls",
+      "web-server"
+    ]
+  },
+  {
+    "full_name": "dsh-plugins/dsh-network-settings",
+    "homepage": "https://dsh-plug.in/",
+    "description": "A DeepSeek Harness plugin that bundles three network capabilities — User-Agent rewriting (from @dsh-plugin/dsh-user-agent), a HTTP / HTTPS-CONNECT / SOCKS5 proxy (from dsh-net-proxy), and configurable request auto-retry — all driven from a single 网络设置 (Network) tab in the Web settings.",
+    "updated_at": "2026-11-10T09:28:31Z",
+    "topics": [
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "proxies",
+      "proxy",
+      "retry",
+      "retry-times",
+      "user-agent",
+      "user-agents"
+    ]
+  },
+  {
+    "full_name": "stjanovitz/tilefinch",
+    "homepage": "https://github.com/stjanovitz/tilefinch/releases",
+    "description": "An experimental modern web browser for the Sony PSP: on device with no proxy with video decoded entirely on device",
+    "updated_at": "2026-11-13T08:12:08Z",
+    "topics": [
+      "browser-engine",
+      "c11",
+      "embedded",
+      "homebrew",
+      "mips",
+      "playstation-portable",
+      "psp",
+      "web-browser"
+    ]
+  },
+  {
+    "full_name": "waynestate/helmet",
+    "homepage": "",
+    "description": "Wayne State's baseline runtime: security headers, session hardening, trusted proxies, a health check and structured logs for web apps.",
+    "updated_at": "2026-11-12T00:39:33Z",
+    "topics": []
+  },
+  {
+    "full_name": "bastianbl/proyecto_final_telematicos",
+    "homepage": "",
+    "description": "Proyecto Final Servicios Telemáticos: Balanceador de Carga Web con Apache mod_proxy_balancer",
+    "updated_at": "2026-11-14T21:41:11Z",
+    "topics": []
+  },
+  {
+    "full_name": "swmerc/pwrsrv",
+    "homepage": "",
+    "description": "This is a dirt simple web server that proxies parts of the REST API for the DLI Pro Switch.  I may extend it to multiple switches later.  Or not.",
+    "updated_at": "2025-11-10T02:16:29Z",
+    "topics": []
+  },
+  {
+    "full_name": "stdotwork/pluxy",
+    "homepage": "",
+    "description": "pluxy (plug + proxy): proxy core, desktop app and web panel in one repo",
+    "updated_at": "2026-11-12T06:34:36Z",
+    "topics": []
+  },
+  {
+    "full_name": "7allom/ForgeProxy",
+    "homepage": "",
+    "description": "A fast, open-source HTTP/HTTPS intercepting proxy and web security workbench written in Rust.",
+    "updated_at": "2026-11-12T12:48:10Z",
+    "topics": [
+      "egui",
+      "http-proxy",
+      "mitm-proxy",
+      "pentesting",
+      "proxy",
+      "rust",
+      "security-tools"
+    ]
+  },
+  {
+    "full_name": "yasin321/noor-app",
+    "homepage": "",
+    "description": "React/TypeScript web application containerized with Docker and served via Nginx reverse proxy",
+    "updated_at": "2026-11-11T16:47:37Z",
+    "topics": [
+      "apk",
+      "docker",
+      "github-actions",
+      "nginx",
+      "react",
+      "typescript"
+    ]
+  },
+  {
+    "full_name": "NiceGenn/WebProxy",
+    "homepage": "",
+    "description": "",
+    "updated_at": "2026-11-12T14:41:20Z",
+    "topics": []
+  },
+  {
+    "full_name": "damonwork/tauri-downloader",
+    "homepage": "",
+    "description": "Gestor de descargas robusto y fácil de usar tipo IDM, construido con Tauri (Rust + Web). Multi-hilo, reanudar, cookies por enlace, parser de curl, proxies.",
+    "updated_at": "2026-08-13T14:17:48Z",
+    "topics": []
+  },
+  {
+    "full_name": "Eoth/mimicway",
+    "homepage": "",
+    "description": "Mock or proxy any HTTP API, rule by rule, from a web UI: one self-contained binary, no telemetry",
+    "updated_at": "2026-11-12T03:11:39Z",
+    "topics": [
+      "api-mock",
+      "api-testing",
+      "developer-tools",
+      "http-mock",
+      "mock-server",
+      "mocking",
+      "mockoon-alternative",
+      "proxy",
+      "qa",
+      "rest-api",
+      "rust",
+      "self-hosted",
+      "soap",
+      "testing",
+      "wiremock-alternative"
+    ]
+  },
+  {
+    "full_name": "Haizoooon/caddy-webui",
+    "homepage": "",
+    "description": "Flat-design web UI for the Caddy Admin API — manage reverse proxies, static sites, redirects and TLS from the browser.",
+    "updated_at": "2026-11-14T20:05:40Z",
+    "topics": [
+      "caddy",
+      "docker",
+      "homelab",
+      "nextjs",
+      "reverse-proxy",
+      "tailwindcss",
+      "webui"
+    ]
+  },
+  {
+    "full_name": "scout1959/1-Click-Web-Proxy",
+    "homepage": "",
+    "description": "1-Click Web Proxy is a free add-on for Windows that provides quick online anonymity and privacy protection. Use it easily to bypass restrictions and surf the web securely. Enjoy full access now!",
+    "updated_at": "2026-11-12T09:20:15Z",
+    "topics": [
+      "1-click-proxy",
+      "1-click-web-proxy-windows",
+      "add-ons-extensions",
+      "download-1-click-web-proxy",
+      "proxy-extension",
+      "proxy-software",
+      "tools",
+      "windows-software"
+    ]
+  },
+  {
+    "full_name": "invesdwin/invesdwin-webproxy",
+    "homepage": "",
+    "description": "A parallel download manager for web scraping that supports proxy servers",
+    "updated_at": "2026-10-31T05:51:06Z",
+    "topics": []
+  },
+  {
+    "full_name": "michaelbaker-dev/agentvault",
+    "homepage": "",
+    "description": "A secrets vault for your Tailscale network: web UI, REST API, MCP and a key-attaching proxy for apps and AI agents",
+    "updated_at": "2026-11-14T17:17:39Z",
+    "topics": []
+  },
+  {
+    "full_name": "sinhaparth5/palisade-waf",
+    "homepage": "https://waf.astrareconslabs.com/",
+    "description": "A single-binary Web Application Firewall + reverse proxy for Go, built on Coraza (OWASP CRS) with a built-in admin dashboard. ",
+    "updated_at": "2026-11-14T08:19:58Z",
+    "topics": [
+      "certificate",
+      "coraza",
+      "coraza-waf",
+      "firewall",
+      "ja4",
+      "mcp",
+      "security",
+      "tailwindcss",
+      "waf"
+    ]
+  },
+  {
+    "full_name": "fabriziosalmi/secure-proxy-manager",
+    "homepage": "https://fabriziosalmi.github.io/secure-proxy-manager/",
+    "description": "Secure proxy solution with filtering, real-time monitoring and a modern web UI.",
+    "updated_at": "2026-11-11T17:17:21Z",
+    "topics": [
+      "content-filtering",
+      "dns-filtering",
+      "egress-filtering",
+      "homelab",
+      "icap",
+      "proxy",
+      "proxy-configuration",
+      "proxy-tool",
+      "secure-web-gateway",
+      "self-hosted",
+      "squid",
+      "squid-proxy",
+      "squid-proxy-security",
+      "ui",
+      "waf"
+    ]
+  },
+  {
+    "full_name": "kpirnie/podnest",
+    "homepage": "https://podnest.app/",
+    "description": "A self-hosted, hardened web hosting control panel. Provision and manage WordPress, PHP, Python, Node.js, .NET, static, and reverse-proxy sites — with SSL, SFTP, backups, cron, phpMyAdmin, WP-CLI, WAF, and per-site security rules.",
+    "updated_at": "2026-11-12T15:04:45Z",
+    "topics": [
+      "containerization",
+      "control-panel",
+      "controlpanel",
+      "docker",
+      "go",
+      "golang",
+      "hosting",
+      "podman",
+      "web-hosting",
+      "web-hosting-management",
+      "webhosting"
+    ]
+  },
+  {
+    "full_name": "jhopan/PanProxyScanner",
+    "homepage": "",
+    "description": "Pan Proxy Scanner — pengumpul & verifikator proxy publik (Go, tanpa CGO) + panel web + APK Android",
+    "updated_at": "2026-11-12T20:34:07Z",
+    "topics": []
+  },
+  {
+    "full_name": "0Bu/tesla-key-esp32",
+    "homepage": "https://0bu.github.io/tesla-key-esp32/",
+    "description": "ESP32 BLE key proxy for Tesla vehicles, evcc support, web installer",
+    "updated_at": "2026-11-11T20:52:21Z",
+    "topics": [
+      "esp32",
+      "evcc",
+      "tesla"
+    ]
+  },
+  {
+    "full_name": "Dushnilin/tachyon",
+    "homepage": "",
+    "description": "The Swiss Army knife of OpenWrt networking — sing-box proxy, DPI bypass, Telegram control, atomic self-healing, and per-device routing — all managed from a single Web UI",
+    "updated_at": "2026-11-14T20:16:20Z",
+    "topics": [
+      "anti-censorship",
+      "byedpi",
+      "bypass-dpi",
+      "dns",
+      "fakeip",
+      "luci",
+      "nftables",
+      "openwrt",
+      "proxy",
+      "router",
+      "sing-box",
+      "tachyon",
+      "tproxy",
+      "ucode",
+      "vless",
+      "vpn",
+      "wireguard",
+      "zapret",
+      "zapret2"
+    ]
+  },
+  {
+    "full_name": "thaibault/nginx-web-node-plugin",
+    "homepage": "https://tsickert.com/nginx-web-node-plugin",
+    "description": "A nginx proxy server configuration template for WebNode based solutions.",
+    "updated_at": "2026-11-12T14:48:29Z",
+    "topics": []
+  },
+  {
+    "full_name": "ncsa/lumen",
+    "homepage": "",
+    "description": "Lumen is a self-hosted AI gateway. It provides a web chat interface and an OpenAI-compatible API proxy",
+    "updated_at": "2026-11-11T05:23:28Z",
+    "topics": [
+      "ai-chat",
+      "ai-proxy",
+      "openai-api"
+    ]
+  },
+  {
+    "full_name": "Cooperiano/duckduckgo-mcp",
+    "homepage": "",
+    "description": "Free, no-API-key DuckDuckGo web search MCP server: parallel crawling, AI research ranking, proxy auto-detect. Ships as npm mcp-duckduckgo.",
+    "updated_at": "2026-11-14T19:32:05Z",
+    "topics": [
+      "ai-agents",
+      "duckduckgo",
+      "go",
+      "mcp",
+      "search"
+    ]
+  },
+  {
+    "full_name": "beastjaguarrun/BurpSuite-Brofessional-2026",
+    "homepage": "",
+    "description": "⭐️ Burp Suite | Web Application Security Testing Toolkit | Penetration Testing Software | HTTP Proxy & Interceptor | Vulnerability Scanner | Manual & Automated Testing Tool | Setup Installer v2026.10.1 | Latest Build Updated | Desktop Windows 10/11 PC ⭐️",
+    "updated_at": "2026-11-12T13:28:41Z",
+    "topics": [
+      "burp-pro",
+      "burp-suite-2026",
+      "burp-suite-certified-professional",
+      "burp-suite-professional-free-trial",
+      "burp-suite-professional-websecurity",
+      "burp-suite-professional-windows"
+    ]
+  },
+  {
+    "full_name": "mpromonet/rtsp2web",
+    "homepage": "https://rtsp2web.agreeabletree-365b9a90.canadacentral.azurecontainerapps.io/",
+    "description": "RTSP to websocket proxy rendering using webcodec",
+    "updated_at": "2026-11-01T15:14:38Z",
+    "topics": [
+      "rtsp",
+      "webcodecs",
+      "websocket"
+    ]
+  },
+  {
+    "full_name": "vasilnedev/rev-proxy",
+    "homepage": "",
+    "description": "A reverse proxy, based on Node.js Express, server to manage multiple micro-services as a single web application.",
+    "updated_at": "2025-04-01T20:18:15Z",
+    "topics": []
+  },
+  {
+    "full_name": "johestephan/esp32-cellbridge",
+    "homepage": "",
+    "description": "Self-hosted ESP32 LTE cellular gateway for LilyGO T-A7670E & T-A7608X: 3GPP PDU SMS, voice calls, prepaid credit monitor, USSD, and 4G HTTP/SOCKS5 proxy with a Web UI, REST API, Webhooks & Home Assistant/Node-Red integratio",
+    "updated_at": "2026-11-14T18:53:35Z",
+    "topics": []
+  },
+  {
+    "full_name": "wangwanjie/gately",
+    "homepage": "https://gately.cn",
+    "description": "Open-source, auditable network gateway for homelabs, NAS and servers: DDNS, STUN traversal, port forwarding with SNI routing, reverse proxy and web server, ACME certificates, WAF, Tailscale, frp, Cloudflare Tunnel, Docker and web terminal in one binary. Runs on Docker, fnOS, OpenWrt, Linux, macOS and Windows.",
+    "updated_at": "2026-11-14T12:01:17Z",
+    "topics": [
+      "acme",
+      "cloudflare-tunnel",
+      "ddns",
+      "docker",
+      "fnos",
+      "frp",
+      "golang",
+      "homelab",
+      "nas",
+      "nat-traversal",
+      "openwrt",
+      "port-forwarding",
+      "reverse-proxy",
+      "self-hosted",
+      "sni-proxy",
+      "stun",
+      "tailscale",
+      "waf",
+      "web-terminal"
+    ]
+  },
+  {
+    "full_name": "Simplinity/retrogate",
+    "homepage": "",
+    "description": "A macOS proxy that lets your 1999 Mac browse the 2026 web. TLS bridging, HTML5→HTML 3.2 transcoding, image conversion, and a Wayback Machine time machine. Because your PowerBook deserves Wikipedia and your Quadra 605 didn't ask for React.",
+    "updated_at": "2026-10-25T19:02:15Z",
+    "topics": [
+      "classic-mac-os",
+      "html32",
+      "macos",
+      "netscape",
+      "proxy-server",
+      "retro-computing",
+      "sheepshaver",
+      "swiftnio",
+      "vintage-mac",
+      "wayback-machine"
+    ]
+  }
+]

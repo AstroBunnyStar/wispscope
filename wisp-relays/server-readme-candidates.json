@@ -1,0 +1,57 @@
+[
+  {
+    "url": "wss://domain.tld/",
+    "name": "rhenryw/deployWisp",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://domain.tld/wisp",
+    "name": "rhenryw/deployRay",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://yourdomain.tld/wisp",
+    "name": "rhenryw/deployRay",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://vela-wisp.onrender.com/",
+    "name": "Chezburgar/vela-wisp",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://wisp.mercurywork.shop/",
+    "name": "random-school-stuff/keystone",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://wisp.freewisp.org/",
+    "name": "random-school-stuff/keystone",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://wisp.terbiumon.top/wisp/",
+    "name": "random-school-stuff/keystone",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://anura.pro/",
+    "name": "random-school-stuff/keystone",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/",
+    "name": "random-school-stuff/keystone",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://",
+    "name": "privkeyio/wisp",
+    "source": "server-readme"
+  },
+  {
+    "url": "wss://local/wisp/",
+    "name": "dazacode/shasta-wisp",
+    "source": "server-readme"
+  }
+]

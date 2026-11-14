@@ -1,0 +1,20 @@
+[
+  {
+    "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+    "source": "proxy bundle",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 195,
+    "firstLine": "HTTP/1.1 200 OK"
+  },
+  {
+    "url": "wss://health.acne-support.info/wisp/",
+    "source": "proxy bundle",
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 663,
+    "firstLine": "HTTP/1.1 200 OK"
+  }
+]

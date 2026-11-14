@@ -1,0 +1,893 @@
+[
+  {
+    "url": "wss://envoyproxy.io/wisp",
+    "host": "envoyproxy.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 35,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://osf.io/api/wisp/",
+    "host": "osf.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 41,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://envoyproxy.io/api/wisp/",
+    "host": "envoyproxy.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 47,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ahpio.github.io/wisp",
+    "host": "ahpio.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 53,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://osf.io/wisp/",
+    "host": "osf.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 57,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://0bu.github.io/api/wisp/",
+    "host": "0bu.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 58,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://0bu.github.io/wisp",
+    "host": "0bu.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 61,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://shifter.io/api/wisp/",
+    "host": "shifter.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 63,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://davesmith00000.github.io/api/wisp/",
+    "host": "davesmith00000.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 63,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://fabriziosalmi.github.io/api/wisp/",
+    "host": "fabriziosalmi.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 66,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://osf.io/wisp",
+    "host": "osf.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 68,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://davesmith00000.github.io/wisp",
+    "host": "davesmith00000.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 68,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rammerhq.github.io/wisp",
+    "host": "rammerhq.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 69,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dsh-plug.in/wisp",
+    "host": "dsh-plug.in",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 69,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rammerhq.github.io/api/wisp/",
+    "host": "rammerhq.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 70,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://sigmaslicer-pog.github.io/wisp",
+    "host": "sigmaslicer-pog.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 71,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://3kh0.github.io/wisp",
+    "host": "3kh0.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 74,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://theriturajps.github.io/wisp",
+    "host": "theriturajps.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 77,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.indigoengine.io/api/wisp/",
+    "host": "ultraviolet.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 84,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://podnest.app/wisp",
+    "host": "podnest.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 85,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://mizcausevic-dev.github.io/api/wisp/",
+    "host": "mizcausevic-dev.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 87,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://envoyproxy.io/wisp/",
+    "host": "envoyproxy.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 87,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://xn--bckcf0e8h.cyanpurr.cc.cd/wisp",
+    "host": "xn--bckcf0e8h.cyanpurr.cc.cd",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 88,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://3kh0.github.io/api/wisp/",
+    "host": "3kh0.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 90,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ahpio.github.io/api/wisp/",
+    "host": "ahpio.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 91,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://shifter.io/wisp",
+    "host": "shifter.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 92,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tsickert.com/wisp",
+    "host": "tsickert.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 92,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://mizcausevic-dev.github.io/wisp",
+    "host": "mizcausevic-dev.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 93,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.indigoengine.io/wisp",
+    "host": "ultraviolet.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 93,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rlsk.indigoengine.io/wisp",
+    "host": "rlsk.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 94,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://sigmaslicer-pog.github.io/api/wisp/",
+    "host": "sigmaslicer-pog.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 95,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://fabriziosalmi.github.io/wisp",
+    "host": "fabriziosalmi.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 95,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dsh-plug.in/api/wisp/",
+    "host": "dsh-plug.in",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 95,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://theriturajps.github.io/api/wisp/",
+    "host": "theriturajps.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 103,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ahpio.github.io/wisp/",
+    "host": "ahpio.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 105,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://fabriziosalmi.github.io/wisp/",
+    "host": "fabriziosalmi.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 105,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://theriturajps.github.io/wisp/",
+    "host": "theriturajps.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 107,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://davesmith00000.github.io/wisp/",
+    "host": "davesmith00000.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 107,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rlsk.indigoengine.io/api/wisp/",
+    "host": "rlsk.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 108,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://sigmaslicer-pog.github.io/wisp/",
+    "host": "sigmaslicer-pog.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 109,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://shifter.io/wisp/",
+    "host": "shifter.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 117,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rammerhq.github.io/wisp/",
+    "host": "rammerhq.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 118,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://0bu.github.io/wisp/",
+    "host": "0bu.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 118,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tsickert.com/api/wisp/",
+    "host": "tsickert.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 118,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://yourworstnightmare1.github.io/api/wisp/",
+    "host": "yourworstnightmare1.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 130,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://podnest.app/api/wisp/",
+    "host": "podnest.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 131,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://yourworstnightmare1.github.io/wisp/",
+    "host": "yourworstnightmare1.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 134,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://woudc.org/wisp",
+    "host": "woudc.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 142,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.indigoengine.io/wisp/",
+    "host": "ultraviolet.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 142,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://xn--bckcf0e8h.cyanpurr.cc.cd/wisp/",
+    "host": "xn--bckcf0e8h.cyanpurr.cc.cd",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 152,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://mizcausevic-dev.github.io/wisp/",
+    "host": "mizcausevic-dev.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 152,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://yourworstnightmare1.github.io/wisp",
+    "host": "yourworstnightmare1.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 154,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://xn--bckcf0e8h.cyanpurr.cc.cd/api/wisp/",
+    "host": "xn--bckcf0e8h.cyanpurr.cc.cd",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 154,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://woudc.org/api/wisp/",
+    "host": "woudc.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 155,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dsh-plug.in/wisp/",
+    "host": "dsh-plug.in",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 157,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://spectrumsimulations.com/api/wisp/",
+    "host": "spectrumsimulations.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 166,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://spectrumsimulations.com/wisp",
+    "host": "spectrumsimulations.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 169,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://calliopegelding314.github.io/api/wisp/",
+    "host": "calliopegelding314.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 170,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://3kh0.github.io/wisp/",
+    "host": "3kh0.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 170,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://podnest.app/wisp/",
+    "host": "podnest.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 173,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ashik245-commits.github.io/wisp",
+    "host": "ashik245-commits.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 174,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://pgis-wisp.joytree.site/wisp/",
+    "host": "pgis-wisp.joytree.site",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 175,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ashik245-commits.github.io/wisp/",
+    "host": "ashik245-commits.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 177,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tsickert.com/wisp/",
+    "host": "tsickert.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 178,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dgarridou.github.io/wisp",
+    "host": "dgarridou.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 180,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://calliopegelding314.github.io/wisp",
+    "host": "calliopegelding314.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 183,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dgarridou.github.io/wisp/",
+    "host": "dgarridou.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 187,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dgarridou.github.io/api/wisp/",
+    "host": "dgarridou.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 190,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ashik245-commits.github.io/api/wisp/",
+    "host": "ashik245-commits.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 192,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://pgis-wisp.joytree.site/api/wisp/",
+    "host": "pgis-wisp.joytree.site",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 194,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://spectrumsimulations.com/wisp/",
+    "host": "spectrumsimulations.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 201,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://woudc.org/wisp/",
+    "host": "woudc.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 209,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://pgis-wisp.joytree.site/wisp",
+    "host": "pgis-wisp.joytree.site",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 218,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://calliopegelding314.github.io/wisp/",
+    "host": "calliopegelding314.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 240,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://rlsk.indigoengine.io/wisp/",
+    "host": "rlsk.indigoengine.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 265,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.scaleway.com/wisp/",
+    "host": "ultraviolet.scaleway.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 447,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.scaleway.com/api/wisp/",
+    "host": "ultraviolet.scaleway.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 449,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ultraviolet.scaleway.com/wisp",
+    "host": "ultraviolet.scaleway.com",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 467,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tgvpn.io/wisp",
+    "host": "tgvpn.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 679,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tgvpn.io/wisp/",
+    "host": "tgvpn.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 684,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://tgvpn.io/api/wisp/",
+    "host": "tgvpn.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 684,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gately.cn/wisp",
+    "host": "gately.cn",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 710,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gately.cn/api/wisp/",
+    "host": "gately.cn",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 713,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://unblockbruecke.luftbruecke.studio/wisp",
+    "host": "unblockbruecke.luftbruecke.studio",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 720,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://unblockbruecke.luftbruecke.studio/wisp/",
+    "host": "unblockbruecke.luftbruecke.studio",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 723,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://unblockbruecke.luftbruecke.studio/api/wisp/",
+    "host": "unblockbruecke.luftbruecke.studio",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 731,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://scraper.asepharyana.my.id/wisp",
+    "host": "scraper.asepharyana.my.id",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 1025,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://scraper.asepharyana.my.id/api/wisp/",
+    "host": "scraper.asepharyana.my.id",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 1126,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://scraper.asepharyana.my.id/wisp/",
+    "host": "scraper.asepharyana.my.id",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 1237,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://gately.cn/wisp/",
+    "host": "gately.cn",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 1524,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.browsersolver.com/wisp",
+    "host": "www.browsersolver.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6003,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.browsersolver.com/wisp/",
+    "host": "www.browsersolver.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6005,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://puter.com/wisp",
+    "host": "puter.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6008,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://puter.com/api/wisp/",
+    "host": "puter.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6012,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ghostly.tools/api/wisp/",
+    "host": "ghostly.tools",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6014,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ghostly.tools/wisp/",
+    "host": "ghostly.tools",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6015,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://ghostly.tools/wisp",
+    "host": "ghostly.tools",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6015,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://puter.com/wisp/",
+    "host": "puter.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6015,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.browsersolver.com/api/wisp/",
+    "host": "www.browsersolver.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 6017,
+    "firstLine": ""
+  }
+]

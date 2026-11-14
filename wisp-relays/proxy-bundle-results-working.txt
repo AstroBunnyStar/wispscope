@@ -1,0 +1,4 @@
+wss://admin.proxy.hydrovolter.com/wisp/
+wss://admin.proxy.hydrovolter.com/api/wisp/
+wss://health.acne-support.info/api/wisp/
+wss://health.acne-support.info/wisp/

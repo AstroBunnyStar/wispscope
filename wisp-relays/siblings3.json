@@ -1,0 +1,12 @@
+[
+  {"url":"wss://wisp.fern.best/wisp/","name":"wisp fern"},
+  {"url":"wss://relay.fern.best/wisp/","name":"relay fern"},
+  {"url":"wss://api.fern.best/wisp/","name":"api fern"},
+  {"url":"wss://fern.best/api/wisp/","name":"fern api"},
+  {"url":"wss://vibeos.sh/api/wisp2","name":"vibeos wisp2"},
+  {"url":"wss://vibeos.sh/api/wisp/v2","name":"vibeos v2"},
+  {"url":"wss://wisp.vibeos.sh/wisp/","name":"wisp vibeos"},
+  {"url":"wss://relay.vibeos.sh/wisp/","name":"relay vibeos"},
+  {"url":"wss://fern.best/ws","name":"fern ws"},
+  {"url":"wss://fern.best/wisp","name":"fern wisp no slash"}
+]

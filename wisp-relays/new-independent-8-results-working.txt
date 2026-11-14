@@ -1,0 +1,6 @@
+wss://us-east.wisp.q13x.com/
+wss://fra-wisp-node.sparkpowered.org/
+wss://mci-wisp-node.sparkpowered.org/
+wss://sin-wisp-node.sparkpowered.org/
+wss://nrt-wisp-node.sparkpowered.org/
+wss://se-asia.wisp.q13x.com/

@@ -1,0 +1,12 @@
+[
+  {"url":"wss://wisp.invisiproxy.com/wisp/","name":"wisp invisiproxy"},
+  {"url":"wss://wisp.orbitweb.org/wisp/","name":"wisp orbitweb"},
+  {"url":"wss://wisp.joytree.site/wisp/","name":"wisp joytree"},
+  {"url":"wss://relay.joytree.site/wisp/","name":"relay joytree"},
+  {"url":"wss://wisp.vela.workers.dev/wisp/","name":"vela workers"},
+  {"url":"wss://wisp-render.onrender.com/wisp","name":"wisp-render /wisp"},
+  {"url":"wss://invisiproxy.com/wisp","name":"invisiproxy no slash"},
+  {"url":"wss://orbitweb.org/campus","name":"orbitweb campus no slash"},
+  {"url":"wss://pgis-wisp.joytree.site/wisp","name":"pgis no slash"},
+  {"url":"wss://vela-wisp.onrender.com/wisp","name":"vela no slash"}
+]

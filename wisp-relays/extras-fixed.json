@@ -1,0 +1,17 @@
+[
+  {"url":"wss://wisp.anjomous.workers.dev/","name":"anjomous worker root"},
+  {"url":"wss://wisp.anjomous.workers.dev/wisp/","name":"anjomous worker wisp"},
+  {"url":"wss://english-studies.bonto.run/","name":"bonto root"},
+  {"url":"wss://english-studies.bonto.run/wisp/","name":"bonto wisp"},
+  {"url":"wss://scramjet-server-wisp-node.vercel.app/","name":"scramjet vercel root"},
+  {"url":"wss://scramjet-server-wisp-node.vercel.app/wisp/","name":"scramjet vercel wisp"},
+  {"url":"wss://cat-xqlq.onrender.com/","name":"isle root"},
+  {"url":"wss://cat-xqlq.onrender.com/wisp/","name":"isle wisp"},
+  {"url":"wss://cat-xqlq.onrender.com/api/wisp/","name":"isle api wisp"},
+  {"url":"wss://red-wire.org/","name":"redwire root"},
+  {"url":"wss://red-wire.org/wisp/","name":"redwire wisp"},
+  {"url":"wss://wisp.red-wire.org/","name":"redwire wisp sub"},
+  {"url":"wss://api.red-wire.org/wisp/","name":"redwire api wisp"},
+  {"url":"wss://stomp.fracit.al/wisp/","name":"stomp wisp"},
+  {"url":"wss://electrical-beta.vercel.app/wisp/","name":"electrical vercel wisp"}
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "wss://terbiumon.top/wisp/",
+    "name": "terbiumon root wisp",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 230,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:20:39 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://wisp.terbiumon.top/wisp/",
+    "name": "terbium baseline",
+    "source": null,
+    "ok": true,
+    "note": "http-ok",
+    "version": 1,
+    "latencyMs": 288,
+    "closeReason": null,
+    "dataBytes": 928,
+    "firstData": "HTTP/1.1 200 OK\r\nDate: Mon, 09 Nov 2026 22:20:39 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransf"
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev/wisp/",
+    "name": "melonman eagler wisp",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 192,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://wisp.terbiumon.top/",
+    "name": "terbium root",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 210,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev/wisp",
+    "name": "melonman eagler wisp no slash",
+    "source": null,
+    "ok": false,
+    "note": "closed:1006 ",
+    "version": 0,
+    "latencyMs": 222,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  },
+  {
+    "url": "wss://eagler-minecraft-relay.u2471966200.workers.dev/",
+    "name": "melonman eagler root",
+    "source": null,
+    "ok": false,
+    "note": "timeout:handshake",
+    "version": 0,
+    "latencyMs": 9010,
+    "closeReason": null,
+    "dataBytes": 0,
+    "firstData": ""
+  }
+]

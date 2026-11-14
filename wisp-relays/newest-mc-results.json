@@ -1,0 +1,18 @@
+[
+  {
+    "url": "wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=27730",
+    "latencyMs": 281,
+    "version": 1
+  },
+  {
+    "url": "wss://speedster.heavengtwashere.workers.dev/wisp/",
+    "mcOk": true,
+    "mcTarget": "CubeCraft",
+    "mcNote": "status-ok protocol=§f§f§fWe support: 1.20-1.21 players=1110",
+    "latencyMs": 445,
+    "version": 1
+  }
+]

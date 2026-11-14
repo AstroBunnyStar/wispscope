@@ -1,0 +1,50 @@
+[
+  {
+    "url": "wss://scramjet-web-browser.vercel.app/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 184,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 390,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://roki-hub.pages.dev/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 663,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://stomp.fracit.al/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 866,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/api/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 868,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://proxy-dfg7.onrender.com/wisp/",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 962,
+    "firstLine": ""
+  }
+]

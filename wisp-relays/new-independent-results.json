@@ -1,0 +1,42 @@
+[
+  {
+    "url": "wss://eaglerrelay.glitch.me/",
+    "source": "Eaglercraft LAN relay video",
+    "host": "eaglerrelay.glitch.me",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 257,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://relay.deev.is/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.deev.is",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 270,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://relay.lax1dude.net/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.lax1dude.net",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 352,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://relay.shhnowisnottheti.me/",
+    "source": "Eaglercraft LAN relay list (not Wisp)",
+    "host": "relay.shhnowisnottheti.me",
+    "ok": false,
+    "note": "closed:1000",
+    "version": 0,
+    "latencyMs": 1263,
+    "firstLine": ""
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "url": "wss://gointospace.app/wisp/",
+    "name": "GoInterstellar gateway",
+    "mcOk": true,
+    "mcTarget": "Hypixel",
+    "mcNote": "status-ok protocol=Requires MC 1.8 / 1.21 players=21910",
+    "latencyMs": 591,
+    "version": 1
+  }
+]

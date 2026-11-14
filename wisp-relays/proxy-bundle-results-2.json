@@ -1,0 +1,299 @@
+[
+  {
+    "url": "wss://os.freshyogurt.org/wisp",
+    "host": "os.freshyogurt.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 68,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/wisp",
+    "host": "lanyon-tutoring-help.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 71,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wea-f.github.io/wisp",
+    "host": "wea-f.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 72,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/api/wisp/",
+    "host": "lanyon-tutoring-help.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 80,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wea-f.github.io/wisp/",
+    "host": "wea-f.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 111,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://destroyed12121.github.io/wisp",
+    "host": "destroyed12121.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 113,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/wisp",
+    "host": "croxy-ar-proxy.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 114,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/api/wisp/",
+    "host": "croxy-ar-proxy.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 119,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://wea-f.github.io/api/wisp/",
+    "host": "wea-f.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 122,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://destroyed12121.github.io/api/wisp/",
+    "host": "destroyed12121.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 124,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.wtfq.online/wisp",
+    "host": "www.wtfq.online",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 137,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://os.freshyogurt.org/api/wisp/",
+    "host": "os.freshyogurt.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 141,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://destroyed12121.github.io/wisp/",
+    "host": "destroyed12121.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 142,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://croxy-ar-proxy.vercel.app/wisp/",
+    "host": "croxy-ar-proxy.vercel.app",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 151,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://lanyon-tutoring-help.github.io/wisp/",
+    "host": "lanyon-tutoring-help.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 164,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://denisjoint75.github.io/api/wisp/",
+    "host": "denisjoint75.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 183,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://denisjoint75.github.io/wisp",
+    "host": "denisjoint75.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 183,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://denisjoint75.github.io/wisp/",
+    "host": "denisjoint75.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 205,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://halitsever.github.io/wisp",
+    "host": "halitsever.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 207,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://halitsever.github.io/api/wisp/",
+    "host": "halitsever.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 218,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dns1.mjevents.org/api/wisp/",
+    "host": "dns1.mjevents.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 218,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://os.freshyogurt.org/wisp/",
+    "host": "os.freshyogurt.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 220,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.wtfq.online/wisp/",
+    "host": "www.wtfq.online",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 222,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://www.wtfq.online/api/wisp/",
+    "host": "www.wtfq.online",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 229,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dns1.mjevents.org/wisp",
+    "host": "dns1.mjevents.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 230,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://dns1.mjevents.org/wisp/",
+    "host": "dns1.mjevents.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 232,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://halitsever.github.io/wisp/",
+    "host": "halitsever.github.io",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 308,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://craunot.org/wisp/",
+    "host": "craunot.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 608,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://craunot.org/api/wisp/",
+    "host": "craunot.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 615,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://craunot.org/wisp",
+    "host": "craunot.org",
+    "ok": false,
+    "note": "closed:1006",
+    "version": 0,
+    "latencyMs": 623,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://trickybird.com/api/wisp/",
+    "host": "trickybird.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8006,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://trickybird.com/wisp",
+    "host": "trickybird.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8007,
+    "firstLine": ""
+  },
+  {
+    "url": "wss://trickybird.com/wisp/",
+    "host": "trickybird.com",
+    "ok": false,
+    "note": "timeout:ws",
+    "version": 0,
+    "latencyMs": 8008,
+    "firstLine": ""
+  }
+]

@@ -1,0 +1,1500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>WispScope — live Wisp relay scanner</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #05080f;
+    --panel: #0a1220;
+    --panel-2: #0e192b;
+    --line: rgba(148, 163, 184, .14);
+    --line-bright: rgba(148, 163, 184, .24);
+    --text: #e8effb;
+    --muted: #8b9db8;
+    --faint: #61738e;
+    --cyan: #35e6de;
+    --green: #42df9b;
+    --red: #ff6f87;
+    --amber: #ffc857;
+    --violet: #9c8cff;
+    --shadow: none;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Consolas, "Liberation Mono", monospace;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  body::before, body::after { display: none; }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -2;
+    background:
+      radial-gradient(900px 520px at 12% -8%, rgba(53, 230, 222, .10), transparent 60%),
+      radial-gradient(760px 520px at 92% 8%, rgba(156, 140, 255, .09), transparent 62%),
+      linear-gradient(180deg, #060a12 0%, #05080f 48%, #060a12 100%);
+  }
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: .22;
+    background-image:
+      linear-gradient(rgba(148, 163, 184, .08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(148, 163, 184, .08) 1px, transparent 1px);
+    background-size: 52px 52px;
+    mask-image: linear-gradient(to bottom, black, transparent 82%);
+  }
+  ::selection { background: rgba(53, 230, 222, .25); color: #fff; }
+  button, input, select { font: inherit; }
+  button { cursor: pointer; }
+  .shell {
+    width: min(1500px, 100%);
+    margin: 0 auto;
+    padding: 24px clamp(16px, 3vw, 44px) 46px;
+  }
+  .topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 4px 0 26px;
+  }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    display: grid;
+    place-items: center;
+    width: 40px;
+    height: 40px;
+    border: 1px solid var(--line-bright);
+    border-radius: 8px;
+    background: var(--panel);
+    color: var(--cyan);
+    font-family: var(--mono);
+    font-size: 18px;
+    font-weight: 800;
+    box-shadow: none;
+  }
+  .brand strong {
+    display: block;
+    font-family: var(--mono);
+    font-size: 14px;
+    letter-spacing: .14em;
+  }
+  .brand strong span { color: var(--cyan); }
+  .brand small {
+    display: block;
+    margin-top: 3px;
+    color: var(--muted);
+    font-size: 11px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  .top-status {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 11px;
+    white-space: nowrap;
+  }
+  .pulse {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--green);
+    box-shadow: none;
+  }
+  .sep { color: var(--faint); }
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.45fr) minmax(320px, .78fr);
+    gap: 24px;
+    align-items: stretch;
+    margin-bottom: 18px;
+  }
+  .hero-copy {
+    position: relative;
+    overflow: hidden;
+    padding: clamp(24px, 4vw, 44px);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--panel);
+    box-shadow: none;
+  }
+  .hero-copy::after {
+    content: "";
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    right: -80px;
+    bottom: -120px;
+    border-radius: 50%;
+    display: none;
+  }
+  .kicker {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--cyan);
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+  }
+  .kicker-line {
+    display: inline-block;
+    width: 26px;
+    height: 1px;
+    background: var(--cyan);
+  }
+  h1 {
+    margin: 20px 0 14px;
+    max-width: 720px;
+    font-size: clamp(38px, 5.3vw, 70px);
+    line-height: .98;
+    letter-spacing: -.055em;
+    font-weight: 760;
+  }
+  h1 span {
+    color: var(--cyan);
+  }
+  .lede {
+    max-width: 620px;
+    margin: 0;
+    color: var(--muted);
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .lede strong { color: var(--text); font-weight: 650; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 26px;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 42px;
+    padding: 0 16px;
+    border: 1px solid var(--line-bright);
+    border-radius: 6px;
+    background: rgba(255, 255, 255, .035);
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 650;
+    letter-spacing: .01em;
+    transition: border-color .16s ease, background .16s ease, opacity .16s ease;
+  }
+  .btn b { color: var(--cyan); font-weight: 700; }
+  .btn:hover:not(:disabled) { border-color: rgba(53, 230, 222, .45); background: rgba(53, 230, 222, .08); }
+  .btn:active:not(:disabled) { transform: none; }
+  .btn:disabled { cursor: not-allowed; opacity: .40; }
+  .btn.primary {
+    border-color: rgba(53, 230, 222, .45);
+    background: #102a2b;
+    box-shadow: none;
+  }
+  .btn.primary:hover:not(:disabled) { background: #153637; }
+  .btn.quiet { color: var(--muted); background: transparent; }
+  .btn.tiny { min-height: 34px; padding: 0 11px; border-radius: 5px; font-size: 10px; }
+  .btn-icon { font-size: 9px; color: var(--cyan); }
+  .scan-status { margin-top: 30px; max-width: 690px; }
+  .scan-meta {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 9px;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 10px;
+  }
+  .scan-meta span:first-child { color: var(--text); }
+  .progress {
+    height: 5px;
+    overflow: hidden;
+    border-radius: 2px;
+    background: rgba(148, 163, 184, .12);
+  }
+  .progress span {
+    display: block;
+    width: 0;
+    height: 100%;
+    border-radius: 2px;
+    background: var(--cyan);
+    transition: width .25s ease;
+  }
+  .stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 128px;
+    padding: 17px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--panel);
+    box-shadow: none;
+  }
+  .stat-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+  .stat strong {
+    margin: 12px 0 3px;
+    font-family: var(--mono);
+    font-size: clamp(28px, 3vw, 40px);
+    font-weight: 600;
+    letter-spacing: -.05em;
+    line-height: 1;
+  }
+  .stat small {
+    overflow: hidden;
+    color: var(--faint);
+    font-size: 10px;
+    line-height: 1.35;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .stat.fastest strong { color: var(--green); }
+  .stat.independent strong { color: var(--cyan); }
+  .stat.aliases strong { color: var(--violet); }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--faint); }
+  .dot.green { background: var(--green); }
+  .dot.amber { background: var(--amber); }
+  .warning {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 0 0 18px;
+    padding: 13px 15px;
+    border: 1px solid rgba(255, 200, 87, .20);
+    border-radius: 6px;
+    background: rgba(255, 200, 87, .055);
+    color: #c9b98f;
+    font-size: 11px;
+    line-height: 1.6;
+  }
+  .warning strong { color: #ffe2a0; font-weight: 650; }
+  .warning p { margin: 0; }
+  .origin-note { display: block; margin-top: 6px; color: #a99972; }
+  .warn-icon {
+    display: grid;
+    flex: 0 0 auto;
+    place-items: center;
+    width: 20px;
+    height: 20px;
+    margin-top: 1px;
+    border: 1px solid rgba(255, 200, 87, .35);
+    border-radius: 50%;
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 800;
+  }
+  .gust-panel {
+    display: grid;
+    grid-template-columns: minmax(180px, .65fr) minmax(0, 1.55fr) auto;
+    gap: 16px;
+    align-items: center;
+    margin: 0 0 18px;
+    padding: 13px 15px;
+  }
+  .gust-intro .kicker { font-size: 9px; letter-spacing: .1em; }
+  .gust-intro h2 { margin: 5px 0 3px; font-size: 14px; letter-spacing: -.01em; }
+  .gust-intro p { margin: 0; color: var(--faint); font-family: var(--mono); font-size: 9px; line-height: 1.5; }
+  .gust-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; min-width: 0; }
+  .gust-slot { min-width: 0; padding: 8px 9px; border: 1px solid var(--line); border-radius: 5px; background: rgba(0, 0, 0, .12); }
+  .gust-slot-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; }
+  .gust-role { color: var(--faint); font-family: var(--mono); font-size: 8px; letter-spacing: .08em; text-transform: uppercase; }
+  .gust-copy { padding: 2px 5px; border: 1px solid var(--line); border-radius: 3px; background: transparent; color: var(--cyan); font-family: var(--mono); font-size: 8px; }
+  .gust-copy:hover { border-color: rgba(53, 230, 222, .4); }
+  .gust-slot select { width: 100%; min-width: 0; padding: 5px 6px; border: 1px solid var(--line); border-radius: 3px; background: #0b1422; color: var(--text); font-family: var(--mono); font-size: 9px; }
+  .gust-slot option { background: #0b1422; color: var(--text); }
+  .gust-url { display: block; overflow: hidden; margin-top: 5px; color: var(--faint); font-family: var(--mono); font-size: 8px; line-height: 1.35; text-overflow: ellipsis; white-space: nowrap; }
+  .gust-open { white-space: nowrap; text-decoration: none; }
+  .panel {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--panel);
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+  .toolbar {
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .tabs { display: flex; flex-wrap: wrap; gap: 4px; }
+  .tab {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 34px;
+    padding: 0 11px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 10px;
+    transition: background .16s ease, color .16s ease, border-color .16s ease;
+  }
+  .tab span { color: var(--faint); font-size: 9px; }
+  .tab:hover { color: var(--text); background: rgba(255, 255, 255, .04); }
+  .tab.active {
+    border-color: rgba(53, 230, 222, .28);
+    background: rgba(53, 230, 222, .10);
+    color: var(--cyan);
+  }
+  .tab.active span { color: rgba(53, 230, 222, .7); }
+  .tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 7px; }
+  .search {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    min-height: 34px;
+    padding: 0 10px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: rgba(0, 0, 0, .16);
+    color: var(--faint);
+  }
+  .search:focus-within { border-color: rgba(53, 230, 222, .4); }
+  .search span { font-family: var(--mono); font-size: 15px; line-height: 1; }
+  .search input {
+    width: 156px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 10px;
+  }
+  .search input::placeholder { color: var(--faint); }
+  .select {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 34px;
+    padding: 0 9px;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: rgba(0, 0, 0, .16);
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 9px;
+    text-transform: uppercase;
+  }
+  .select select {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 10px;
+    cursor: pointer;
+  }
+  .select option { background: #0b1422; color: var(--text); }
+  .results-panel { overflow: hidden; }
+  .results-head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 18px 18px 14px;
+    border-bottom: 1px solid var(--line);
+  }
+  .results-head h2 {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 650;
+    letter-spacing: -.015em;
+  }
+  .results-head p {
+    margin: 4px 0 0;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 10px;
+  }
+  .legend { display: flex; flex-wrap: wrap; gap: 12px; color: var(--faint); font-family: var(--mono); font-size: 9px; }
+  .legend span { display: inline-flex; align-items: center; gap: 5px; }
+  .legend i { width: 6px; height: 6px; border-radius: 50%; background: var(--faint); }
+  .legend .ok { background: var(--green); }
+  .legend .bad { background: var(--red); }
+  .legend .wait { background: var(--amber); }
+  .table-scroll { max-height: 68vh; overflow: auto; }
+  table { width: 100%; border-collapse: collapse; min-width: 820px; }
+  thead { position: sticky; top: 0; z-index: 2; background: #0a1220; }
+  th {
+    padding: 11px 12px;
+    border-bottom: 1px solid var(--line);
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: .09em;
+    text-align: left;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  th:nth-child(1) { width: 44px; text-align: center; }
+  th:nth-child(3) { width: 132px; }
+  th:nth-child(4) { width: 140px; }
+  th:nth-child(5) { width: 110px; }
+  th:nth-child(6) { width: 180px; }
+  th:nth-child(7) { width: 78px; text-align: right; }
+  tbody tr { border-bottom: 1px solid rgba(148, 163, 184, .075); transition: background .16s ease; }
+  tbody tr:last-child { border-bottom: 0; }
+  tbody tr:hover { background: rgba(255, 255, 255, .025); }
+  tbody tr.is-ok { background: rgba(66, 223, 155, .018); }
+  tbody tr.is-fail { background: rgba(255, 111, 135, .018); }
+  td { padding: 11px 12px; vertical-align: middle; }
+  td:nth-child(1) { text-align: center; }
+  td:nth-child(7) { text-align: right; }
+  .rank {
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 10px;
+    font-variant-numeric: tabular-nums;
+  }
+  .rank.podium { color: var(--amber); font-weight: 700; }
+  .relay-line { display: flex; align-items: center; min-width: 0; gap: 7px; }
+  .row-dot {
+    flex: 0 0 auto;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--faint);
+  }
+  .row-dot.ok { background: var(--green); }
+  .row-dot.fail { background: var(--red); }
+  .row-dot.testing { background: var(--amber); animation: blink 1s ease-in-out infinite; }
+  .row-dot.stopped { background: var(--amber); }
+  @keyframes blink { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+  .relay-name {
+    overflow: hidden;
+    max-width: 300px;
+    color: var(--text);
+    font-size: 12px;
+    font-weight: 560;
+    line-height: 1.3;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .url-line { display: flex; align-items: center; gap: 7px; margin-top: 4px; min-width: 0; }
+  .url-line code {
+    overflow: hidden;
+    max-width: 580px;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 9px;
+    line-height: 1.35;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .copy-btn {
+    flex: 0 0 auto;
+    padding: 1px 5px;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    background: transparent;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 8px;
+    opacity: 0;
+    transition: opacity .16s ease, color .16s ease, border-color .16s ease;
+  }
+  tr:hover .copy-btn { opacity: 1; }
+  .copy-btn:hover { border-color: var(--line-bright); color: var(--cyan); }
+  .type-cell { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    min-height: 18px;
+    padding: 0 5px;
+    border: 1px solid rgba(53, 230, 222, .18);
+    border-radius: 3px;
+    color: rgba(53, 230, 222, .78);
+    font-family: var(--mono);
+    font-size: 8px;
+    letter-spacing: .05em;
+    white-space: nowrap;
+  }
+  .tag.alias { border-color: rgba(156, 140, 255, .22); color: rgba(156, 140, 255, .83); }
+  .tag.mc { border-color: rgba(66, 223, 155, .20); color: rgba(66, 223, 155, .80); }
+  .tag.no-mc { border-color: rgba(148, 163, 184, .16); color: var(--faint); }
+  .ping-wrap { display: flex; align-items: center; gap: 9px; }
+  .ping-val {
+    min-width: 52px;
+    color: var(--muted);
+    font-family: var(--mono);
+    font-size: 11px;
+    font-variant-numeric: tabular-nums;
+  }
+  .ping-val.ok { color: var(--green); }
+  .ping-val.fail { color: var(--red); }
+  .ping-val.testing { color: var(--amber); }
+  .meter {
+    display: block;
+    width: 58px;
+    height: 3px;
+    overflow: hidden;
+    border-radius: 2px;
+    background: rgba(148, 163, 184, .12);
+  }
+  .meter i {
+    display: block;
+    width: 0;
+    height: 100%;
+    border-radius: inherit;
+    background: var(--faint);
+    transition: width .3s ease, background .3s ease;
+  }
+  .meter i.ok { background: var(--green); }
+  .meter i.warn { background: var(--amber); }
+  .meter i.fail { background: var(--red); }
+  .baseline {
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 10px;
+    font-variant-numeric: tabular-nums;
+  }
+  .status-cell { min-width: 0; }
+  .status {
+    display: inline-flex;
+    align-items: center;
+    min-height: 19px;
+    padding: 0 6px;
+    border: 1px solid rgba(148, 163, 184, .16);
+    border-radius: 3px;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 8px;
+    letter-spacing: .04em;
+    white-space: nowrap;
+  }
+  .status.ok { border-color: rgba(66, 223, 155, .22); color: var(--green); background: rgba(66, 223, 155, .07); }
+  .status.fail { border-color: rgba(255, 111, 135, .22); color: var(--red); background: rgba(255, 111, 135, .06); }
+  .status.testing { border-color: rgba(255, 200, 87, .22); color: var(--amber); background: rgba(255, 200, 87, .06); }
+  .status.stopped { border-color: rgba(255, 200, 87, .18); color: var(--amber); }
+  .note {
+    display: block;
+    overflow: hidden;
+    max-width: 164px;
+    margin-top: 3px;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 8px;
+    line-height: 1.3;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .retest {
+    padding: 4px 7px;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    background: transparent;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 8px;
+    transition: color .16s ease, border-color .16s ease;
+  }
+  .retest:hover { border-color: rgba(53, 230, 222, .32); color: var(--cyan); }
+  .empty { padding: 34px 16px; color: var(--faint); font-family: var(--mono); font-size: 11px; text-align: center; }
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 18px;
+    padding: 0 2px;
+    color: var(--faint);
+    font-family: var(--mono);
+    font-size: 9px;
+    line-height: 1.5;
+  }
+  #toast {
+    position: fixed;
+    left: 50%;
+    bottom: 22px;
+    z-index: 20;
+    max-width: min(90vw, 460px);
+    padding: 10px 14px;
+    border: 1px solid rgba(53, 230, 222, .28);
+    border-radius: 6px;
+    background: var(--panel);
+    box-shadow: none;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 10px;
+    opacity: 0;
+    pointer-events: none;
+    transform: translate(-50%, 8px);
+    transition: opacity .2s ease, transform .2s ease;
+  }
+  #toast.show { opacity: 1; transform: translate(-50%, 0); }
+  @media (max-width: 1080px) {
+    .hero { grid-template-columns: 1fr; }
+    .gust-panel { grid-template-columns: 1fr; }
+    .gust-open { justify-self: start; }
+    .stats { grid-template-columns: repeat(4, 1fr); }
+    .stat { min-height: 108px; }
+    .toolbar { align-items: flex-start; flex-direction: column; }
+    .tools { justify-content: flex-start; }
+  }
+  @media (max-width: 720px) {
+    .shell { padding: 16px 12px 36px; }
+    .topbar { align-items: flex-start; flex-direction: column; gap: 10px; padding-bottom: 18px; }
+    .top-status { font-size: 9px; white-space: normal; }
+    .hero-copy { padding: 22px 18px; border-radius: 10px; }
+    .gust-grid { grid-template-columns: 1fr; }
+    h1 { font-size: clamp(34px, 11vw, 52px); }
+    .stats { grid-template-columns: 1fr 1fr; }
+    .stat { min-height: 100px; padding: 13px; }
+    .actions .btn { flex: 1 1 auto; }
+    .scan-status { margin-top: 22px; }
+    .toolbar { padding: 10px; }
+    .tabs { width: 100%; }
+    .tab { padding: 0 8px; }
+    .tools { width: 100%; }
+    .search { flex: 1 1 100%; }
+    .search input { width: 100%; }
+    .search { min-width: 0; }
+    .results-head { align-items: flex-start; flex-direction: column; gap: 10px; }
+    .legend { gap: 9px; }
+    .table-scroll { max-height: 62vh; }
+    footer { flex-direction: column; }
+    .relay-name { max-width: 210px; }
+    .url-line code { max-width: 220px; }
+  }
+</style>
+</head>
+<body>
+<div class="shell">
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">W</div>
+      <div>
+        <strong>WISP<span>SCOPE</span></strong>
+        <small>relay latency console</small>
+      </div>
+    </div>
+    <div class="top-status">
+      <span class="pulse"></span>
+      <span>browser-side probe</span>
+      <span class="sep">/</span>
+      <span id="lastRun">not run yet</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="kicker"><span class="kicker-line"></span>HTTP-over-Wisp · live network test</div>
+        <h1>Find the fastest<br><span>working relay.</span></h1>
+        <p class="lede">
+          Each probe opens a real <strong>Wisp WebSocket</strong>, connects to
+          <strong>google.com:80</strong>, sends an HTTP request, and measures the time until the
+          first HTTP response byte comes back. No server, no mocks — just your browser and the relays.
+        </p>
+        <div class="actions">
+          <button class="btn primary" id="scanAllBtn"><span class="btn-icon">▶</span> Scan all <b>453</b></button>
+          <button class="btn" id="scanIndependentBtn">Independent <b>52</b></button>
+          <button class="btn quiet" id="stopBtn" disabled>Stop</button>
+        </div>
+        <div class="scan-status">
+          <div class="scan-meta"><span id="scanLabel">Ready to scan</span><span id="scanCount">0 / 453</span></div>
+          <div class="progress"><span id="progressBar"></span></div>
+        </div>
+      </div>
+
+      <div class="stats">
+        <article class="stat">
+          <div class="stat-head"><span>Working</span><span class="dot" id="dotWorking"></span></div>
+          <strong id="statWorking">0</strong>
+          <small id="statWorkingSub">of 453 URLs</small>
+        </article>
+        <article class="stat fastest">
+          <div class="stat-head"><span>Fastest now</span><span class="dot green"></span></div>
+          <strong id="statFastest">—</strong>
+          <small id="statFastestSub">run a scan to rank</small>
+        </article>
+        <article class="stat independent">
+          <div class="stat-head"><span>Independent</span><span class="dot" id="dotIndependent"></span></div>
+          <strong id="statIndependent">0 / 52</strong>
+          <small>distinct endpoints</small>
+        </article>
+        <article class="stat aliases">
+          <div class="stat-head"><span>Aliases</span><span class="dot" id="dotAliases"></span></div>
+          <strong id="statAliases">0 / 401</strong>
+          <small>shared backend hostnames</small>
+        </article>
+      </div>
+    </section>
+
+    <section class="panel gust-panel" aria-labelledby="gustTitle">
+      <div class="gust-intro">
+        <div class="kicker"><span class="kicker-line"></span>Use with GUST</div>
+        <h2 id="gustTitle">Two relays, ready to paste.</h2>
+        <p>GUST takes one primary and one fallback. Copy each URL into Settings.</p>
+      </div>
+      <div class="gust-grid">
+        <div class="gust-slot">
+          <div class="gust-slot-head">
+            <span class="gust-role">Primary</span>
+            <button class="gust-copy" type="button" data-gust-copy="gustPrimary">Copy</button>
+          </div>
+          <select id="gustPrimary" aria-label="GUST primary relay"></select>
+          <code class="gust-url" id="gustPrimaryUrl"></code>
+        </div>
+        <div class="gust-slot">
+          <div class="gust-slot-head">
+            <span class="gust-role">Fallback</span>
+            <button class="gust-copy" type="button" data-gust-copy="gustFallback">Copy</button>
+          </div>
+          <select id="gustFallback" aria-label="GUST fallback relay"></select>
+          <code class="gust-url" id="gustFallbackUrl"></code>
+        </div>
+      </div>
+      <a class="btn tiny gust-open" href="https://cdn.jsdelivr.net/gh/nautilus-os/GUST@latest/svg/site.svg" target="_blank" rel="noopener noreferrer">Open GUST ↗</a>
+    </section>
+
+    <div class="warning">
+      <span class="warn-icon">!</span>
+      <p><strong>401 of these URLs are aliases across a few shared backends.</strong> They are useful as fallback hostnames, but they are not independent routes. Use the 52 independent endpoints for real redundancy; the alias leaderboard is effectively a handful of servers measured through many names.<span class="origin-note">Some relays also reject a foreign browser Origin (HTTP 400/403) even though they work in Wispcraft or Penumbra; those show as failed in this browser-only test.</span></p>
+    </div>
+
+    <section class="panel toolbar">
+      <div class="tabs" role="tablist" aria-label="Relay filters">
+        <button class="tab active" data-filter="all" role="tab">All <span>453</span></button>
+        <button class="tab" data-filter="independent" role="tab">Independent <span>52</span></button>
+        <button class="tab" data-filter="alias" role="tab">Aliases <span>401</span></button>
+        <button class="tab" data-filter="working" role="tab">Working <span id="tabWorking">0</span></button>
+        <button class="tab" data-filter="failed" role="tab">Failed <span id="tabFailed">0</span></button>
+      </div>
+      <div class="tools">
+        <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Filter name or URL…" autocomplete="off" spellcheck="false"></label>
+        <label class="select">Sort
+          <select id="sortSelect">
+            <option value="ping">Best ping</option>
+            <option value="baseline">Known baseline</option>
+            <option value="name">Name</option>
+            <option value="status">Status</option>
+          </select>
+        </label>
+        <label class="select">Parallel
+          <select id="concurrencySelect">
+            <option value="4">4</option>
+            <option value="6" selected>6</option>
+            <option value="8">8</option>
+            <option value="12">12</option>
+          </select>
+        </label>
+        <button class="btn tiny" id="copyBtn">Copy working</button>
+        <button class="btn tiny" id="exportBtn">Export JSON</button>
+      </div>
+    </section>
+
+    <section class="panel results-panel">
+      <div class="results-head">
+        <div>
+          <h2>Relay results</h2>
+          <p id="visibleCount">Showing 453 of 453</p>
+        </div>
+        <div class="legend" aria-label="Status legend">
+          <span><i class="ok"></i>working</span>
+          <span><i class="bad"></i>failed</span>
+          <span><i class="wait"></i>testing</span>
+          <span><i></i>not scanned</span>
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table id="relayTable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Relay</th>
+              <th>Type</th>
+              <th>Live ping</th>
+              <th>Known</th>
+              <th>Status</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Probe target: google.com:80 · Wisp v1/v2 · first HTTP byte latency · Origin-restricted relays may fail here</span>
+    <span>Baseline: Node verification, 2026-11-09 + 2026-11-14 additions · browser results are live</span>
+  </footer>
+</div>
+
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(() => {
+  "use strict";
+  const RELAYS = __RELAY_DATA__;
+
+  const $ = (id) => document.getElementById(id);
+  const tbody = $("rows");
+  const fmt = (ms) => ms == null ? "—" : (ms < 1000 ? Math.round(ms) + " ms" : (ms / 1000).toFixed(2) + " s");
+  const time = (ts) => new Date(ts).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", second: "2-digit" });
+  const labels = { ready: "Ready", testing: "Testing", ok: "Working", fail: "Failed", stopped: "Stopped" };
+  const decoder = new TextDecoder();
+
+  const relays = RELAYS.map((r, i) => ({
+    ...r,
+    index: i,
+    status: "ready",
+    last: null,
+    baseline: r.baseline == null ? null : r.baseline,
+    note: "",
+    testedAt: null
+  }));
+
+  const state = {
+    relays,
+    filter: "all",
+    query: "",
+    sort: "ping",
+    concurrency: 6,
+    scanning: false,
+    runId: 0,
+    abort: null,
+    scanGroup: "all",
+    scanTotal: relays.length,
+    scanDone: 0,
+    scanOk: 0,
+    scanFail: 0,
+    lastRunAt: null
+  };
+
+  const rowEls = new Map();
+  let renderQueued = false;
+  let toastTimer = null;
+
+  function statusClass(status) {
+    return status === "ok" ? "ok" : status === "fail" ? "fail" : status === "testing" ? "testing" : status === "stopped" ? "stopped" : "";
+  }
+
+  function makeRow(r) {
+    const tr = document.createElement("tr");
+    tr.dataset.id = r.id;
+    tr.innerHTML = `
+      <td class="rank">—</td>
+      <td>
+        <div class="relay-line"><span class="row-dot"></span><span class="relay-name"></span></div>
+        <div class="url-line"><code class="url"></code><button class="copy-btn" type="button" data-copy>copy</button></div>
+      </td>
+      <td><div class="type-cell"><span class="tag type-tag"></span><span class="tag mc-tag"></span></div></td>
+      <td><div class="ping-wrap"><strong class="ping-val">—</strong><span class="meter"><i></i></span></div></td>
+      <td class="baseline">—</td>
+      <td class="status-cell"><span class="status">Ready</span><small class="note"></small></td>
+      <td><button class="retest" type="button">Retest</button></td>
+    `;
+    const e = {
+      tr,
+      rank: tr.querySelector(".rank"),
+      dot: tr.querySelector(".row-dot"),
+      name: tr.querySelector(".relay-name"),
+      url: tr.querySelector(".url"),
+      copy: tr.querySelector(".copy-btn"),
+      type: tr.querySelector(".type-tag"),
+      mc: tr.querySelector(".mc-tag"),
+      ping: tr.querySelector(".ping-val"),
+      meter: tr.querySelector(".meter i"),
+      baseline: tr.querySelector(".baseline"),
+      status: tr.querySelector(".status"),
+      note: tr.querySelector(".note"),
+      retest: tr.querySelector(".retest")
+    };
+    e.name.textContent = r.name;
+    e.url.textContent = r.url;
+    e.copy.dataset.copy = r.url;
+    e.copy.title = "Copy " + r.url;
+    if (r.group === "independent") {
+      e.type.textContent = "INDEPENDENT";
+      e.mc.textContent = r.mc ? "MC" : "NO MC";
+      e.mc.className = "tag mc-tag " + (r.mc ? "mc" : "no-mc");
+    } else {
+      e.type.textContent = "ALIAS";
+      e.type.className = "tag type-tag alias";
+      e.type.title = "Shared backend: " + (r.backend || "unknown");
+      e.mc.textContent = "SHARED";
+      e.mc.className = "tag mc-tag mc";
+    }
+    e.mc.title = r.group === "independent"
+      ? (r.mc ? "Minecraft 25565 status verified in the latest Node baseline" : "HTTP-over-Wisp verified; Minecraft 25565 did not answer")
+      : "Shared " + (r.backend || "backend") + "; Minecraft support was not re-tested for this URL";
+    rowEls.set(r.id, e);
+    return e;
+  }
+
+  relays.forEach(makeRow);
+
+  function updateRow(r) {
+    const e = rowEls.get(r.id);
+    if (!e) return;
+    const sc = statusClass(r.status);
+    e.dot.className = "row-dot " + sc;
+    e.status.className = "status " + sc;
+    e.status.textContent = labels[r.status] || "Ready";
+    e.note.textContent = r.note || "";
+    e.note.title = r.note || "";
+    e.tr.classList.toggle("is-ok", r.status === "ok");
+    e.tr.classList.toggle("is-fail", r.status === "fail");
+    e.baseline.textContent = fmt(r.baseline);
+    e.baseline.title = r.baseline == null ? "No prior baseline" : "Last verified latency from the latest Node scan";
+    if (r.status === "testing") {
+      e.ping.textContent = "…";
+      e.ping.className = "ping-val testing";
+      e.meter.style.width = "24%";
+      e.meter.className = "warn";
+    } else if (r.status === "ok" && r.last != null) {
+      e.ping.textContent = fmt(r.last);
+      e.ping.className = "ping-val ok";
+      const width = Math.max(7, 100 - Math.min(93, (r.last / 2200) * 100));
+      e.meter.style.width = width + "%";
+      e.meter.className = r.last < 700 ? "ok" : r.last < 1800 ? "warn" : "fail";
+    } else if (r.status === "fail") {
+      e.ping.textContent = "—";
+      e.ping.className = "ping-val fail";
+      e.meter.style.width = "0";
+      e.meter.className = "fail";
+    } else {
+      e.ping.textContent = "—";
+      e.ping.className = "ping-val";
+      e.meter.style.width = "0";
+      e.meter.className = "";
+    }
+    e.retest.disabled = state.scanning;
+  }
+
+  function getVisible() {
+    const q = state.query.trim().toLowerCase();
+    return relays.filter((r) => {
+      if (state.filter === "independent" && r.group !== "independent") return false;
+      if (state.filter === "alias" && r.group !== "alias") return false;
+      if (state.filter === "working" && r.status !== "ok") return false;
+      if (state.filter === "failed" && r.status !== "fail") return false;
+      if (q) {
+        const haystack = (r.name + " " + r.url + " " + (r.backend || "")).toLowerCase();
+        if (!haystack.includes(q)) return false;
+      }
+      return true;
+    });
+  }
+
+  function sortRows(rows) {
+    const rank = { ok: 0, testing: 1, ready: 2, fail: 3, stopped: 4 };
+    if (state.sort === "name") return rows.sort((a, b) => a.name.localeCompare(b.name));
+    if (state.sort === "baseline") return rows.sort((a, b) => (a.baseline ?? 1e9) - (b.baseline ?? 1e9) || a.name.localeCompare(b.name));
+    if (state.sort === "status") return rows.sort((a, b) => (rank[a.status] ?? 9) - (rank[b.status] ?? 9) || (a.last ?? a.baseline ?? 1e9) - (b.last ?? b.baseline ?? 1e9));
+    return rows.sort((a, b) => (rank[a.status] ?? 9) - (rank[b.status] ?? 9) || (a.last ?? a.baseline ?? 1e9) - (b.last ?? b.baseline ?? 1e9));
+  }
+
+  function renderTable() {
+    renderQueued = false;
+    const rows = sortRows(getVisible());
+    if (!rows.length) {
+      tbody.innerHTML = '<tr><td class="empty" colspan="7">No relays match this filter.</td></tr>';
+      $("visibleCount").textContent = "Showing 0 of " + relays.length;
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    rows.forEach((r, i) => {
+      updateRow(r);
+      const e = rowEls.get(r.id);
+      const isPodium = r.status === "ok" && i < 3;
+      e.rank.textContent = isPodium ? String(i + 1) : (r.status === "ok" ? String(i + 1) : "—");
+      e.rank.className = "rank" + (isPodium ? " podium" : "");
+      frag.appendChild(e.tr);
+    });
+    tbody.replaceChildren(frag);
+    $("visibleCount").textContent = "Showing " + rows.length + " of " + relays.length;
+  }
+
+  function scheduleRender() {
+    if (renderQueued) return;
+    renderQueued = true;
+    requestAnimationFrame(renderTable);
+  }
+
+  function updateStats() {
+    const working = relays.filter((r) => r.status === "ok");
+    const failed = relays.filter((r) => r.status === "fail");
+    const indep = relays.filter((r) => r.group === "independent");
+    const alias = relays.filter((r) => r.group === "alias");
+    const fastest = working.filter((r) => r.last != null).sort((a, b) => a.last - b.last)[0] || null;
+
+    $("statWorking").textContent = String(working.length);
+    $("statWorkingSub").textContent = "of " + relays.length + " URLs · " + failed.length + " failed";
+    $("statFastest").textContent = fastest ? fmt(fastest.last) : "—";
+    $("statFastestSub").textContent = fastest ? fastest.name + (fastest.group === "alias" ? " · shared alias" : "") : "run a scan to rank";
+    $("statIndependent").textContent = indep.filter((r) => r.status === "ok").length + " / " + indep.length;
+    $("statAliases").textContent = alias.filter((r) => r.status === "ok").length + " / " + alias.length;
+    $("tabWorking").textContent = String(working.length);
+    $("tabFailed").textContent = String(failed.length);
+    $("dotWorking").className = "dot" + (working.length ? " green" : "");
+    $("dotIndependent").className = "dot" + (indep.some((r) => r.status === "ok") ? " green" : "");
+    $("dotAliases").className = "dot" + (alias.some((r) => r.status === "ok") ? " green" : "");
+
+    const total = state.scanTotal || relays.length;
+    const pct = total ? Math.min(100, (state.scanDone / total) * 100) : 0;
+    $("progressBar").style.width = pct + "%";
+    $("scanCount").textContent = state.scanDone + " / " + total;
+    if (state.scanning) {
+      $("scanLabel").textContent = state.scanGroup === "independent" ? "Scanning independent relays…" : state.scanGroup === "single" ? "Retesting relay…" : "Scanning all relays…";
+    } else if (state.scanDone && state.scanDone >= total) {
+      $("scanLabel").textContent = "Scan complete · " + state.scanOk + " working · " + state.scanFail + " failed";
+    } else if (state.scanDone) {
+      $("scanLabel").textContent = "Stopped · " + state.scanOk + " working · " + state.scanFail + " failed";
+    } else {
+      $("scanLabel").textContent = "Ready to scan";
+    }
+    $("lastRun").textContent = state.lastRunAt ? "last run " + time(state.lastRunAt) : "not run yet";
+  }
+
+  function setButtons() {
+    $("scanAllBtn").disabled = state.scanning;
+    $("scanIndependentBtn").disabled = state.scanning;
+    $("stopBtn").disabled = !state.scanning;
+    document.querySelectorAll(".retest").forEach((b) => { b.disabled = state.scanning; });
+  }
+
+  function packet(type, id, payload = new Uint8Array(0)) {
+    const out = new Uint8Array(5 + payload.length);
+    out[0] = type;
+    new DataView(out.buffer).setUint32(1, id >>> 0, true);
+    out.set(payload, 5);
+    return out;
+  }
+
+  const encoder = new TextEncoder();
+  function connectPacket(id, host, port) {
+    const h = encoder.encode(host);
+    const p = new Uint8Array(3 + h.length);
+    p[0] = 1;
+    p[1] = port & 255;
+    p[2] = (port >> 8) & 255;
+    p.set(h, 3);
+    return packet(1, id, p);
+  }
+  function dataPacket(id, text) {
+    return packet(2, id, encoder.encode(text));
+  }
+  function infoPacket() {
+    return packet(5, 0, new Uint8Array([2, 1]));
+  }
+
+  function probeRelay(url, signal) {
+    return new Promise((resolve) => {
+      const started = performance.now();
+      let ws = null;
+      let timer = null;
+      let done = false;
+      let connected = false;
+      let received = "";
+      const finish = (ok, note, stopped = false) => {
+        if (done) return;
+        done = true;
+        clearTimeout(timer);
+        signal.removeEventListener("abort", onAbort);
+        try { if (ws && ws.readyState <= 1) ws.close(); } catch (_) {}
+        resolve({ ok, ms: Math.max(1, Math.round(performance.now() - started)), note, stopped });
+      };
+      const onAbort = () => finish(false, "stopped", true);
+      if (signal.aborted) { onAbort(); return; }
+      signal.addEventListener("abort", onAbort, { once: true });
+      timer = setTimeout(() => finish(false, "timeout (15s)"), 15000);
+      try {
+        ws = new WebSocket(url);
+      } catch (_) {
+        finish(false, "WebSocket error");
+        return;
+      }
+      ws.binaryType = "arraybuffer";
+      ws.onerror = () => {};
+      ws.onclose = (ev) => { if (!done) finish(false, "closed " + (ev.code || "")); };
+      ws.onmessage = (ev) => {
+        if (done) return;
+        try {
+          const bytes = new Uint8Array(ev.data);
+          if (bytes.length < 5) return;
+          const type = bytes[0];
+          const id = (bytes[1] | (bytes[2] << 8) | (bytes[3] << 16) | (bytes[4] << 24)) >>> 0;
+          const payload = bytes.subarray(5);
+          if (type === 5) {
+            const version = payload[0] || 2;
+            if (version >= 2) ws.send(infoPacket());
+            return;
+          }
+          if (type === 3) {
+            if (!connected) {
+              connected = true;
+              ws.send(connectPacket(1, "google.com", 80));
+              ws.send(dataPacket(1, "GET / HTTP/1.1\r\nHost: google.com\r\nConnection: close\r\nUser-Agent: WispScanner/1.0\r\n\r\n"));
+            }
+            return;
+          }
+          if (type === 4) {
+            finish(false, "Wisp close " + (payload[0] == null ? "?" : payload[0]));
+            return;
+          }
+          if (type === 2 && id === 1) {
+            received += decoder.decode(payload);
+            if (received.startsWith("HTTP/")) {
+              const m = received.match(/^HTTP\/\d(?:\.\d)?\s+(\d{3})/);
+              finish(true, m ? "HTTP " + m[1] : "HTTP response");
+            } else if (received.length >= 32) {
+              finish(false, "unexpected data");
+            }
+          }
+        } catch (_) {
+          finish(false, "protocol error");
+        }
+      };
+    });
+  }
+
+  async function startScan(group) {
+    if (state.scanning) return;
+    const targets = group === "independent" ? relays.filter((r) => r.group === "independent") : relays.slice();
+    if (!targets.length) return;
+    state.runId += 1;
+    const runId = state.runId;
+    const controller = new AbortController();
+    state.abort = controller;
+    state.scanning = true;
+    state.scanGroup = group;
+    state.scanTotal = targets.length;
+    state.scanDone = 0;
+    state.scanOk = 0;
+    state.scanFail = 0;
+    for (const r of targets) {
+      r.status = "ready";
+      r.last = null;
+      r.note = "";
+      r.testedAt = null;
+      updateRow(r);
+    }
+    setButtons();
+    updateStats();
+    renderTable();
+
+    let cursor = 0;
+    const worker = async () => {
+      while (!controller.signal.aborted && state.runId === runId && cursor < targets.length) {
+        const r = targets[cursor++];
+        r.status = "testing";
+        r.note = "probing Wisp…";
+        updateRow(r);
+        updateStats();
+        const result = await probeRelay(r.url, controller.signal);
+        if (state.runId !== runId) return;
+        state.scanDone += 1;
+        if (result.stopped) {
+          r.status = "stopped";
+          r.note = "stopped";
+        } else if (result.ok) {
+          r.status = "ok";
+          r.last = result.ms;
+          r.note = result.note;
+          state.scanOk += 1;
+        } else {
+          r.status = "fail";
+          r.note = result.note;
+          state.scanFail += 1;
+        }
+        r.testedAt = Date.now();
+        updateRow(r);
+        updateStats();
+        scheduleRender();
+      }
+    };
+
+    const workers = Array.from({ length: Math.min(state.concurrency, targets.length) }, worker);
+    await Promise.all(workers);
+    if (state.runId !== runId) return;
+    state.scanning = false;
+    state.abort = null;
+    state.lastRunAt = Date.now();
+    updateStats();
+    renderTable();
+    setButtons();
+  }
+
+  function stopScan() {
+    if (!state.scanning) return;
+    state.runId += 1;
+    if (state.abort) state.abort.abort();
+    state.abort = null;
+    state.scanning = false;
+    for (const r of relays) {
+      if (r.status === "testing") {
+        r.status = "stopped";
+        r.note = "stopped";
+        updateRow(r);
+      }
+    }
+    state.lastRunAt = Date.now();
+    updateStats();
+    renderTable();
+    setButtons();
+  }
+
+  async function retest(r) {
+    if (state.scanning) { toast("Stop the current scan first."); return; }
+    state.runId += 1;
+    const runId = state.runId;
+    const controller = new AbortController();
+    state.abort = controller;
+    state.scanning = true;
+    state.scanGroup = "single";
+    state.scanTotal = 1;
+    state.scanDone = 0;
+    state.scanOk = 0;
+    state.scanFail = 0;
+    r.status = "testing";
+    r.note = "probing Wisp…";
+    updateRow(r);
+    setButtons();
+    updateStats();
+    const result = await probeRelay(r.url, controller.signal);
+    if (state.runId !== runId) return;
+    state.scanDone = 1;
+    if (result.stopped) {
+      r.status = "stopped";
+      r.note = "stopped";
+    } else if (result.ok) {
+      r.status = "ok";
+      r.last = result.ms;
+      r.note = result.note;
+      state.scanOk = 1;
+    } else {
+      r.status = "fail";
+      r.note = result.note;
+      state.scanFail = 1;
+    }
+    r.testedAt = Date.now();
+    state.scanning = false;
+    state.abort = null;
+    state.lastRunAt = Date.now();
+    updateRow(r);
+    updateStats();
+    renderTable();
+    setButtons();
+  }
+
+  async function copyText(text) {
+    try {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        return true;
+      }
+    } catch (_) {}
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      const ok = document.execCommand("copy");
+      ta.remove();
+      return ok;
+    } catch (_) {
+      return false;
+    }
+  }
+
+  function toast(message) {
+    const el = $("toast");
+    el.textContent = message;
+    el.classList.add("show");
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => el.classList.remove("show"), 2600);
+  }
+
+  const workingUrls = () => relays.filter((r) => r.status === "ok" && r.last != null).sort((a, b) => a.last - b.last).map((r) => r.url);
+
+  function exportJson() {
+    const payload = {
+      generatedAt: new Date().toISOString(),
+      probe: { protocol: "Wisp over WebSocket", target: "google.com:80", metric: "time to first HTTP response byte" },
+      summary: {
+        total: relays.length,
+        independent: relays.filter((r) => r.group === "independent").length,
+        aliases: relays.filter((r) => r.group === "alias").length,
+        working: relays.filter((r) => r.status === "ok").length,
+        failed: relays.filter((r) => r.status === "fail").length
+      },
+      results: relays.map((r) => ({
+        id: r.id,
+        name: r.name,
+        url: r.url,
+        group: r.group,
+        backend: r.backend || null,
+        minecraftBaseline: r.group === "independent" ? !!r.mc : "shared",
+        baselineMs: r.baseline,
+        liveMs: r.last,
+        status: r.status,
+        note: r.note,
+        testedAt: r.testedAt ? new Date(r.testedAt).toISOString() : null
+      }))
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "wisp-scan-" + new Date().toISOString().replace(/[:.]/g, "-") + ".json";
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    toast("Exported scan results.");
+  }
+
+  function initGustPanel() {
+    const primary = $("gustPrimary");
+    const fallback = $("gustFallback");
+    const primaryUrl = $("gustPrimaryUrl");
+    const fallbackUrl = $("gustFallbackUrl");
+    if (!primary || !fallback) return;
+
+    const independent = relays
+      .filter((r) => r.group === "independent")
+      .sort((a, b) => (a.baseline ?? Number.MAX_SAFE_INTEGER) - (b.baseline ?? Number.MAX_SAFE_INTEGER) || a.name.localeCompare(b.name));
+    const makeOption = (r) => {
+      const option = document.createElement("option");
+      option.value = r.url;
+      option.textContent = r.name + " · " + fmt(r.baseline);
+      return option;
+    };
+    for (const relay of independent) {
+      primary.appendChild(makeOption(relay));
+      fallback.appendChild(makeOption(relay));
+    }
+
+    const choose = (select, preferred, defaultIndex) => {
+      const match = independent.find((r) => r.url === preferred) || independent[defaultIndex] || independent[0];
+      if (match) select.value = match.url;
+    };
+    choose(primary, "wss://admin.proxy.hydrovolter.com/wisp/", 0);
+    choose(fallback, "wss://speedster.heavengtwashere.workers.dev/wisp/", 1);
+    let lastPrimary = primary.value;
+    let lastFallback = fallback.value;
+
+    const update = () => {
+      primaryUrl.textContent = primary.value;
+      fallbackUrl.textContent = fallback.value;
+    };
+    const keepDistinct = (changed) => {
+      const other = changed === primary ? fallback : primary;
+      if (primary.value === fallback.value) {
+        const previous = changed === primary ? lastFallback : lastPrimary;
+        const replacement = previous !== changed.value ? previous : independent.find((r) => r.url !== changed.value)?.url;
+        if (replacement) other.value = replacement;
+      }
+      lastPrimary = primary.value;
+      lastFallback = fallback.value;
+      update();
+    };
+    primary.addEventListener("change", () => keepDistinct(primary));
+    fallback.addEventListener("change", () => keepDistinct(fallback));
+    document.querySelectorAll("[data-gust-copy]").forEach((button) => {
+      button.addEventListener("click", async () => {
+        const select = $(button.dataset.gustCopy);
+        const role = button.dataset.gustCopy === "gustPrimary" ? "Primary" : "Fallback";
+        const ok = await copyText(select.value);
+        toast(ok ? role + " relay URL copied." : "Clipboard copy failed.");
+      });
+    });
+    update();
+  }
+
+  $("scanAllBtn").addEventListener("click", () => startScan("all"));
+  $("scanIndependentBtn").addEventListener("click", () => startScan("independent"));
+  $("stopBtn").addEventListener("click", stopScan);
+  $("exportBtn").addEventListener("click", exportJson);
+  $("copyBtn").addEventListener("click", async () => {
+    const urls = workingUrls();
+    if (!urls.length) { toast("No working relays yet — run a scan first."); return; }
+    const ok = await copyText(urls.join("\n"));
+    toast(ok ? "Copied " + urls.length + " working URLs." : "Clipboard copy failed.");
+  });
+  $("searchInput").addEventListener("input", (e) => { state.query = e.target.value; scheduleRender(); });
+  $("sortSelect").addEventListener("change", (e) => { state.sort = e.target.value; scheduleRender(); });
+  $("concurrencySelect").addEventListener("change", (e) => { state.concurrency = Number(e.target.value); });
+  document.querySelectorAll(".tab").forEach((tab) => {
+    tab.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach((t) => t.classList.remove("active"));
+      tab.classList.add("active");
+      state.filter = tab.dataset.filter;
+      scheduleRender();
+    });
+  });
+  tbody.addEventListener("click", async (ev) => {
+    const copy = ev.target.closest("[data-copy]");
+    if (copy) {
+      const ok = await copyText(copy.dataset.copy);
+      toast(ok ? "URL copied." : "Clipboard copy failed.");
+      return;
+    }
+    const button = ev.target.closest(".retest");
+    if (button) {
+      const tr = button.closest("tr");
+      const r = relays.find((x) => x.id === tr.dataset.id);
+      if (r) retest(r);
+    }
+  });
+
+  initGustPanel();
+  renderTable();
+  updateStats();
+  setButtons();
+})();
+</script>
+</body>
+</html>

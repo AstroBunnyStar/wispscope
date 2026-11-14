@@ -1,0 +1,13 @@
+[
+  {"url":"wss://arsenic.smartfoloo.space/","name":"arsenic root"},
+  {"url":"wss://chat.smartfoloo.space/","name":"chat root"},
+  {"url":"wss://coconut.smartfoloo.space/","name":"coconut root"},
+  {"url":"wss://solarnova.smartfoloo.space/","name":"solarnova root"},
+  {"url":"wss://polic.smartfoloo.space/","name":"polic root"},
+  {"url":"wss://sleeve.smartfoloo.space/","name":"sleeve root"},
+  {"url":"wss://lunarsync.smartfoloo.space/","name":"lunarsync root"},
+  {"url":"wss://filter-checker.smartfoloo.space/","name":"filter root"},
+  {"url":"wss://diet-board.smartfoloo.space/","name":"diet root"},
+  {"url":"wss://assets.smartfoloo.space/","name":"assets root"},
+  {"url":"wss://www.smartfoloo.space/","name":"www root"}
+]

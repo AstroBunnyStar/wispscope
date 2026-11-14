@@ -1,0 +1,1430 @@
+[
+  {
+    "full_name": "theogbob/finalwisp",
+    "homepage": null,
+    "description": "The fastest Wisp server for Linux",
+    "updated_at": "2026-11-09T13:43:44Z"
+  },
+  {
+    "full_name": "kiyuwww/proxy",
+    "homepage": "https://proxy-dfg7.onrender.com/",
+    "description": "High-performance C++ proxy server with WISP protocol support, built-in DNS caching, and a web dashboard.",
+    "updated_at": "2026-11-08T19:05:24Z"
+  },
+  {
+    "full_name": "zaka13alt/wisp-js",
+    "homepage": "https://english-studies.bonto.run/",
+    "description": "cloaked wisp server in node.js and docker test at this url below its cloaked (you need a valid wisp wss:// client to actually use the wisp server, duh)",
+    "updated_at": "2026-11-08T01:10:31Z"
+  },
+  {
+    "full_name": "MercuryWorkshop/wisp-js",
+    "homepage": "https://npmjs.com/package/@mercuryworkshop/wisp-js",
+    "description": "A Wisp client and server implementation, written in Javascript for use in NodeJS and in the browser.",
+    "updated_at": "2026-11-07T05:11:49Z"
+  },
+  {
+    "full_name": "dih722721-pixel/smbwisp",
+    "homepage": null,
+    "description": "custom wisp server",
+    "updated_at": "2026-11-06T01:17:24Z"
+  },
+  {
+    "full_name": "MercuryWorkshop/wisp-server-python",
+    "homepage": "https://pypi.org/project/wisp-python",
+    "description": "A Wisp server implementation, written in Python.",
+    "updated_at": "2026-11-04T08:39:25Z"
+  },
+  {
+    "full_name": "goar-xyz/wisp-server-python",
+    "homepage": "https://pypi.org/project/wisp-python",
+    "description": "A Wisp server implementation, written in Python.",
+    "updated_at": "2026-11-08T23:37:22Z"
+  },
+  {
+    "full_name": "yongshuai1013/wisp-render",
+    "homepage": null,
+    "description": "Minimal WISP proxy server (Mercury Workshop wisp-js) for Render — alternate egress for the sideimpactor login, gated by a secret path and restricted to Apple hosts on port 443.",
+    "updated_at": "2026-11-03T03:27:15Z"
+  },
+  {
+    "full_name": "kloxsy/wisp-server-workerss",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-11-02T05:07:25Z"
+  },
+  {
+    "full_name": "sriail/lightrail-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-31T19:12:27Z"
+  },
+  {
+    "full_name": "wisp-science/WispOps",
+    "homepage": null,
+    "description": "WispOps (dsh-wisp-ops): multi-host server operations plugin for DeepSeek Harness — fleet inspection, disk & recent-file analysis with omics cleanup advice, security triage, scheduled per-server reports, human-approved sudo",
+    "updated_at": "2026-10-30T04:45:15Z"
+  },
+  {
+    "full_name": "iuqw/arbitrary-file-wisp",
+    "homepage": null,
+    "description": "Arbitrary File Read on wisp-server-py",
+    "updated_at": "2026-10-30T01:21:13Z"
+  },
+  {
+    "full_name": "BreezeDelegate/wisp-mcp",
+    "homepage": "",
+    "description": "Connect AI assistants to WISP game panels for server status, files, console, power, backups and databases.",
+    "updated_at": "2026-10-29T18:56:19Z"
+  },
+  {
+    "full_name": "uxsoft/girard-marketplace",
+    "homepage": null,
+    "description": "Ready-made MCP server setups for Wisp",
+    "updated_at": "2026-10-29T15:33:55Z"
+  },
+  {
+    "full_name": "0magnet/wisp",
+    "homepage": null,
+    "description": "Wisp (TCP and UDP over one WebSocket) server and client in Go, extracted from skywire. Builds for js/wasm and TinyGo.",
+    "updated_at": "2026-10-28T11:26:54Z"
+  },
+  {
+    "full_name": "hi11005746-wq/my-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-27T17:30:56Z"
+  },
+  {
+    "full_name": "ltorl/wisp-worker",
+    "homepage": "https://wisp.anjomous.workers.dev",
+    "description": "wisp (by MercuryWorkshop) server implementation that can run as a worker",
+    "updated_at": "2026-10-26T16:19:31Z"
+  },
+  {
+    "full_name": "mjz48ynd7z-afk/wisp-server",
+    "homepage": null,
+    "description": "Server",
+    "updated_at": "2026-10-26T06:47:32Z"
+  },
+  {
+    "full_name": "CFC-Servers/WispJS",
+    "homepage": "https://npmjs.com/package/wispjs",
+    "description": "JS Library for interacting with Wisp-based game servers",
+    "updated_at": "2026-10-25T22:44:15Z"
+  },
+  {
+    "full_name": "akilesh-him/wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-24T17:37:47Z"
+  },
+  {
+    "full_name": "tomck/powercode-node-mcp",
+    "homepage": null,
+    "description": "MCP server for the Powercode REST API (ISP/WISP billing and management)",
+    "updated_at": "2026-10-23T23:51:50Z"
+  },
+  {
+    "full_name": "ScratchyGH/speedster",
+    "homepage": null,
+    "description": "Browser-in-a-browser web proxy: Scramjet fork, libcul transport, Cloudflare Wisp server",
+    "updated_at": "2026-10-23T21:32:46Z"
+  },
+  {
+    "full_name": "bulbanez0/wisp",
+    "homepage": null,
+    "description": "Wisp is an open-source game engine built for AI-assisted development: text-based scenes, headless mode with screenshots and state dumps, and a built-in MCP server so an AI can build, run and debug a game on its own",
+    "updated_at": "2026-10-19T22:49:40Z"
+  },
+  {
+    "full_name": "EnderDevelopment/wisp-smp-datapack",
+    "homepage": null,
+    "description": "A Minecraft datapack for the Wisp SMP server, featuring custom command blocks and items.",
+    "updated_at": "2026-10-19T19:30:39Z"
+  },
+  {
+    "full_name": "adreno660/wispcraft-server-iwa-",
+    "homepage": null,
+    "description": "vibecoded",
+    "updated_at": "2026-10-19T12:47:16Z"
+  },
+  {
+    "full_name": "adityakumar027/malmox",
+    "homepage": "https://malmox.vercel.app",
+    "description": "MalMox — real Linux (Arch32, Debian i386, Alpine, Buildroot) booting in a browser tab via WASM. Fully client-side: persistent filesystems, snapshots, browser-LAN/fetch/wisp networking. No compute server.",
+    "updated_at": "2026-10-18T09:11:37Z"
+  },
+  {
+    "full_name": "Redgale/WispX-Rust",
+    "homepage": null,
+    "description": "Rust implementation of WispX, a faster Wisp protocol: the wisp-mux client/server library, the epoxy-server WispX server, and the epoxy browser client (WebAssembly). Still speaks Wisp V1 and V2.",
+    "updated_at": "2026-10-18T03:37:28Z"
+  },
+  {
+    "full_name": "MercuryWorkshop/wispcraft",
+    "homepage": "",
+    "description": "A patch for eaglercraft that allows joining regular online mode minecraft servers from the browser, tunneled over wisp",
+    "updated_at": "2026-10-24T22:01:59Z"
+  },
+  {
+    "full_name": "RustyLaserGaming/RustyHeathensMistControl",
+    "homepage": null,
+    "description": "Rusty Heathens Mist Control for Valheim — server-controlled mist, wisp ranges, and gamma brightness with a wooden F8 menu.",
+    "updated_at": "2026-10-14T21:12:00Z"
+  },
+  {
+    "full_name": "EvilDuckGames/TheCrazyBrowser",
+    "homepage": null,
+    "description": "A single-file local HTML client for private server Chrome rooms with Wisp fallback.",
+    "updated_at": "2026-10-14T12:57:00Z"
+  },
+  {
+    "full_name": "abdullahwahabzadah1389-art/private-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-13T16:10:14Z"
+  },
+  {
+    "full_name": "ana270912/pterodactyl-images",
+    "homepage": "https://ana270912.github.io",
+    "description": "🐳 Create and manage Docker images for Pterodactyl, Pelican, and WISP servers with ease using this maintained fork of the original pterodactyl-images repository.",
+    "updated_at": "2026-10-13T06:45:36Z"
+  },
+  {
+    "full_name": "iuqw/wisp-logs",
+    "homepage": null,
+    "description": "poc for log injection on any wisp server",
+    "updated_at": "2026-10-13T13:02:13Z"
+  },
+  {
+    "full_name": "Armaz/scramjet-wisp-backend",
+    "homepage": null,
+    "description": "Scramjet Wisp backend server for search proxy",
+    "updated_at": "2026-10-11T02:54:30Z"
+  },
+  {
+    "full_name": "arecber24/scramjet-wisp-proxy",
+    "homepage": null,
+    "description": "Bare HTML project with Scramjet URL bar and local WISP server",
+    "updated_at": "2026-10-11T02:31:05Z"
+  },
+  {
+    "full_name": "Lyte3075/wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-10T20:46:44Z"
+  },
+  {
+    "full_name": "cmyk111kjb/Render-Wisp-Server-for-Unblocker",
+    "homepage": null,
+    "description": "for unblocking Ms Baurs fucking shit",
+    "updated_at": "2026-10-07T18:56:29Z"
+  },
+  {
+    "full_name": "Qwerty9957/Wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-06T20:38:14Z"
+  },
+  {
+    "full_name": "wemxnet/server-wisp",
+    "homepage": null,
+    "description": "Sell game servers on a [WISP](https://wisp.gg) panel from WemX. Each order creates a panel user when needed, then deploys a server to one of the allowed locations.",
+    "updated_at": "2026-10-03T11:59:04Z"
+  },
+  {
+    "full_name": "NuggetManDenni/my-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-26T20:06:22Z"
+  },
+  {
+    "full_name": "AresGn/ares-blog",
+    "homepage": "https://ares-blog.vercel.app",
+    "description": "My personal tech blog: Next.js 15 Server Components, Wisp CMS, Tailwind CSS & shadcn/ui, multilingual.",
+    "updated_at": "2026-10-18T03:27:22Z"
+  },
+  {
+    "full_name": "bobshimmer/wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-22T21:51:25Z"
+  },
+  {
+    "full_name": "isaiahhodel7/my-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-22T21:19:37Z"
+  },
+  {
+    "full_name": "GDlucas116/Wisp-for-clive-server",
+    "homepage": null,
+    "description": "A simple wisp proxy for clives serverr, so we can play on. For wispcraft",
+    "updated_at": "2026-09-21T01:43:23Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-9853220",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-19T21:27:07Z"
+  },
+  {
+    "full_name": "missuo/wisp",
+    "homepage": null,
+    "description": "Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server",
+    "updated_at": "2026-10-06T21:40:54Z"
+  },
+  {
+    "full_name": "jacekleinser-cell/my-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-12T01:58:53Z"
+  },
+  {
+    "full_name": "Wisper-corp/wisper-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-10T19:42:21Z"
+  },
+  {
+    "full_name": "crashvqurt/wisp-server",
+    "homepage": null,
+    "description": "BACKEND DEVELOPMENT IS A NIGHTMARE PLS HELP ME",
+    "updated_at": "2026-09-09T16:43:05Z"
+  },
+  {
+    "full_name": "alpgul/worker-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-09T12:54:30Z"
+  },
+  {
+    "full_name": "3541Hazen/golden-eagle-wisp-server",
+    "homepage": null,
+    "description": "Standalone Wisp server for Golden Eagle Proxy",
+    "updated_at": "2026-09-08T21:07:09Z"
+  },
+  {
+    "full_name": "skylinesrgood/sandstone-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-07T21:30:17Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-8730030",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-06T21:27:18Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-8653724",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-06T00:15:33Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-8633343",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T18:35:51Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-8601414",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T09:43:41Z"
+  },
+  {
+    "full_name": "lurexh/copium-wisp-601239",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T09:40:44Z"
+  },
+  {
+    "full_name": "lurexh/tes",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T09:36:44Z"
+  },
+  {
+    "full_name": "lurexh/test..gay",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T09:33:40Z"
+  },
+  {
+    "full_name": "lurexh/wiap",
+    "homepage": null,
+    "description": "Copium Wisp server",
+    "updated_at": "2026-09-05T09:21:35Z"
+  },
+  {
+    "full_name": "Nickkk66/IkonicProxy",
+    "homepage": "",
+    "description": "Ikonic Proxy: static frontend on GitHub Pages, wisp backend on a server",
+    "updated_at": "2026-09-02T07:15:56Z"
+  },
+  {
+    "full_name": "gamematrix0000-a11y/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-02T06:11:49Z"
+  },
+  {
+    "full_name": "Lamgerr/malmox",
+    "homepage": null,
+    "description": "MalMox — real Linux (Arch32, Debian i386, Alpine, Buildroot) booting in a browser tab via WASM. Fully client-side: persistent filesystems, snapshots, browser-LAN/fetch/wisp networking. No compute server.",
+    "updated_at": "2026-08-26T15:39:50Z"
+  },
+  {
+    "full_name": "Efebatuhanatucuran/wisp",
+    "homepage": "https://github.com/efebatuhanatucuran/mcp-sentinel",
+    "description": "Wisp: a static security scanner for Model Context Protocol (MCP) server configurations",
+    "updated_at": "2026-09-03T21:22:36Z"
+  },
+  {
+    "full_name": "Ziggista/Valheim-Chat-RPC-Hooks",
+    "homepage": null,
+    "description": "Mod to patch / remove wispers server side and discord chat bot to send moderation actions to discord.",
+    "updated_at": "2026-08-20T06:23:02Z"
+  },
+  {
+    "full_name": "TheNonexistentHedgehog/Wisp-Cancel-Button-Update-Server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-08-20T02:06:49Z"
+  },
+  {
+    "full_name": "haruakinahimsigma/wisp-server",
+    "homepage": null,
+    "description": "idk",
+    "updated_at": "2026-08-15T23:12:46Z"
+  },
+  {
+    "full_name": "Bluedot-Insight/quantumipoebng",
+    "homepage": "https://bluedot-insight.com",
+    "description": "Free software IPoE BNG for small ISPs and WISPs. DHCP, AAA, QoS and captive portal on one x86 server — no RADIUS server required.",
+    "updated_at": "2026-09-09T15:15:44Z"
+  },
+  {
+    "full_name": "joetessy/intelligence-stack",
+    "homepage": null,
+    "description": "Composed intelligence stack with webUI, searnxg, faster-wisper, openedai-speech, using ollama and Apple silicon MLX-LM server",
+    "updated_at": "2026-08-14T18:13:14Z"
+  },
+  {
+    "full_name": "TheNonexistentHedgehog/Wisp-God-Mode-Update-Server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-08-14T01:19:28Z"
+  },
+  {
+    "full_name": "jayp-skidderpro/wispbyte-server1",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-08-11T06:08:00Z"
+  },
+  {
+    "full_name": "obsidiangame/wisp",
+    "homepage": null,
+    "description": "wisp server",
+    "updated_at": "2026-08-10T04:24:03Z"
+  },
+  {
+    "full_name": "sriail/Bare-Js-Wisp-Server",
+    "homepage": "",
+    "description": "A Light, Barebones JS Wisp server without Node.js only using V8",
+    "updated_at": "2026-08-30T17:40:39Z"
+  },
+  {
+    "full_name": "sushimariojp/wisp-proxy",
+    "homepage": "",
+    "description": "wisp server",
+    "updated_at": "2026-08-05T13:59:54Z"
+  },
+  {
+    "full_name": "ori-community/wotw-rando-server",
+    "homepage": "https://wotw.orirando.com",
+    "description": "Backend server for the Ori and the Will of the Wisps Randomizer",
+    "updated_at": "2026-08-05T09:19:00Z"
+  },
+  {
+    "full_name": "tharun9772/wisp-server",
+    "homepage": null,
+    "description": "Uhhh A Way To Host A Wisp Server?",
+    "updated_at": "2026-07-26T17:42:16Z"
+  },
+  {
+    "full_name": "DevEchoX2/starlight-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-07-25T17:39:53Z"
+  },
+  {
+    "full_name": "bloxsense-dev/wisp-auth-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-07-22T09:13:38Z"
+  },
+  {
+    "full_name": "tbroprd-eng/scramjet-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-07-21T09:10:08Z"
+  },
+  {
+    "full_name": "Rehan-Shadow/WISP",
+    "homepage": "https://wisp-m8ju.onrender.com",
+    "description": "wisp A conversation that leaves once you do.  No accounts. No phone number or email. No username to pick — you're given one (like \"quiet wren\"), and it's forgotten the moment you leave. Messages, photos, files, and voice notes are held only in server memory for as long as the conversation is open, and are deleted the instant it ends. Nothing ever t",
+    "updated_at": "2026-07-12T05:46:18Z"
+  },
+  {
+    "full_name": "Chezburgar/vela-wisp",
+    "homepage": null,
+    "description": "WISP server for the Vela proxy - deploys to Render",
+    "updated_at": "2026-07-05T22:44:21Z"
+  },
+  {
+    "full_name": "bendover111222333444/scramjet-server-wisp",
+    "homepage": null,
+    "description": "basically just a clone of their wisp",
+    "updated_at": "2026-06-08T05:07:40Z"
+  },
+  {
+    "full_name": "bendover111222333444/scramjet-server-wisp-node",
+    "homepage": "https://scramjet-server-wisp-node.vercel.app",
+    "description": "node verision of scramhjet server wisp",
+    "updated_at": "2026-06-08T05:14:45Z"
+  },
+  {
+    "full_name": "GithubBozoDude/Wisp-Server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-06-04T20:39:17Z"
+  },
+  {
+    "full_name": "Quartinal/wisp-server-fast",
+    "homepage": "",
+    "description": "A very fast Wisp server & high-throughput Wisp client, written in Rust and Zig. Now actively developed in Civil's main repo.",
+    "updated_at": "2026-08-30T00:16:45Z"
+  },
+  {
+    "full_name": "CFC-Servers/wisp_addon_manager",
+    "homepage": "",
+    "description": "Test repo for managing GMod addons on Wisp-based server instances",
+    "updated_at": "2026-05-26T01:00:08Z"
+  },
+  {
+    "full_name": "theogbob/shrimpwisp",
+    "homepage": null,
+    "description": "The fastest Wisp v2.1 proxy server",
+    "updated_at": "2026-05-22T17:37:01Z"
+  },
+  {
+    "full_name": "rykcbaoolNEW/static-scram",
+    "homepage": null,
+    "description": "uses wisp servers to make scramjet static",
+    "updated_at": "2026-05-19T23:18:48Z"
+  },
+  {
+    "full_name": "Notplayingallday383/Wisp-Server-C-",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-05-17T01:29:06Z"
+  },
+  {
+    "full_name": "kxtzownsu/wisp-server-bash",
+    "homepage": null,
+    "description": "hi lol >-<",
+    "updated_at": "2026-05-13T20:11:22Z"
+  },
+  {
+    "full_name": "xunq-dev/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-05-13T15:06:20Z"
+  },
+  {
+    "full_name": "Istopx/wisp-server",
+    "homepage": null,
+    "description": "wispybalisty",
+    "updated_at": "2026-05-13T04:47:53Z"
+  },
+  {
+    "full_name": "elijahadams41513-dotcom/scramjet-proxie-",
+    "homepage": null,
+    "description": "a browser using a scramjet proxie and wisp servers ",
+    "updated_at": "2026-05-10T02:13:07Z"
+  },
+  {
+    "full_name": "henrifraso/omni-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-05-03T04:47:11Z"
+  },
+  {
+    "full_name": "zaka13X/WispServer-Replit",
+    "homepage": null,
+    "description": "Wisp-js server for replit works with Scramjet, Wispcraft and anything that uses a WSS Wisp server.",
+    "updated_at": "2026-05-02T15:33:15Z"
+  },
+  {
+    "full_name": "hereisphil/nextjs-wisp-example-blog",
+    "homepage": "https://nextjs-wisp-example-blog.vercel.app",
+    "description": "A Next.js 14 Blog with Server Components. App Router, Wisp, Tailwind CSS, Shadcn and Dark Mode. This is an example project for my personal Upwork portfolio.",
+    "updated_at": "2026-04-28T14:22:57Z"
+  },
+  {
+    "full_name": "ethhhh/Ethium-Proxy",
+    "homepage": null,
+    "description": "Ethium proxy inspired by scramjet, loads website with wisp servers.",
+    "updated_at": "2026-04-16T21:26:52Z"
+  },
+  {
+    "full_name": "ghostproxyofficial/wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-04-16T02:17:05Z"
+  },
+  {
+    "full_name": "maxcliang-blip/wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-04-05T14:31:41Z"
+  },
+  {
+    "full_name": "a1pl/mrrowisp",
+    "homepage": null,
+    "description": "High-Performance and Feature Focused Wisp v1/v2 Server implementation in Golang",
+    "updated_at": "2026-10-18T14:10:43Z"
+  },
+  {
+    "full_name": "kloxsy/wisp-server-workerss",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-11-02T05:07:25Z"
+  },
+  {
+    "full_name": "kodhama/stewards",
+    "homepage": null,
+    "description": "The stewards — the worker collective that tends the kodhama forest (trellis · grove · wisp · design-system · homebrew-tap): cross-collective decisions, the conductor seat, and the family install door.",
+    "updated_at": "2026-10-29T07:21:24Z"
+  },
+  {
+    "full_name": "ltorl/wisp-worker",
+    "homepage": "https://wisp.anjomous.workers.dev",
+    "description": "wisp (by MercuryWorkshop) server implementation that can run as a worker",
+    "updated_at": "2026-10-26T16:19:31Z"
+  },
+  {
+    "full_name": "Tabfat46/wisp-worker",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-10-21T23:59:26Z"
+  },
+  {
+    "full_name": "mujahidalmahi/wisp",
+    "homepage": "",
+    "description": "Wisp — AI-Powered Contextual Viewing for Amazon Fire TV (\"A little more, when you need it.\"). A zero-typing, 10-foot D-pad companion delivering deterministic spoiler-safe character lore, scene explanations, episode recaps & post-watch trivia powered by React Native TV, NestJS, Supabase pgvector, Cloudflare Workers & Groq/Gemini LLMs.",
+    "updated_at": "2026-10-23T14:20:39Z"
+  },
+  {
+    "full_name": "alpgul/worker-wisp-server",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-09T12:54:30Z"
+  },
+  {
+    "full_name": "gamematrix0000-a11y/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-02T06:11:49Z"
+  },
+  {
+    "full_name": "yanmengli123/rice-endosperm-workflow",
+    "homepage": null,
+    "description": "Rice Workflow Worker —— wisp-science fork（AGPL-3.0-only），稻芯智析桌面端本地工作流引擎",
+    "updated_at": "2026-09-02T08:29:59Z"
+  },
+  {
+    "full_name": "shaferllc/wisp-site",
+    "homepage": null,
+    "description": "Marketing site for Wisp — wisp.dply.io. A Keel app on Cloudflare Workers.",
+    "updated_at": "2026-08-26T13:36:43Z"
+  },
+  {
+    "full_name": "shayderrr/void",
+    "homepage": null,
+    "description": "a web proxy that STILL requires service workers, but does not use wisp/any external shit. wip",
+    "updated_at": "2026-08-22T00:14:36Z"
+  },
+  {
+    "full_name": "ChakerYaakoub/wisp-it-showcase",
+    "homepage": null,
+    "description": "Public showcase for WISP IT: External Attack Surface Monitoring with free public scans, admin tracker, async workers. Built with Next.js, React, Go, Python, Keycloak, PostgreSQL, RabbitMQ & Docker. Architecture, demos & write-up — application source is private.",
+    "updated_at": "2026-08-14T10:18:30Z"
+  },
+  {
+    "full_name": "kumarpk12888/https-wispy-resonance-c039.kumarpk12888.workers.dev-",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-08-08T23:48:40Z"
+  },
+  {
+    "full_name": "xunq-dev/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-05-13T15:06:20Z"
+  },
+  {
+    "full_name": "xtoazt/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-02-24T14:41:23Z"
+  },
+  {
+    "full_name": "PraPlaygroundAi/wispy-worker-n7r55j",
+    "homepage": "https://codesandbox.io/p/github/PraPlaygroundAi/wispy-worker-n7r55j",
+    "description": "Created with CodeSandbox",
+    "updated_at": "2025-08-10T17:16:44Z"
+  },
+  {
+    "full_name": "e1surya/wisp-server-workers",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2025-08-09T06:53:44Z"
+  },
+  {
+    "full_name": "MercuryWorkshop/wisp-server-workers",
+    "homepage": null,
+    "description": "Wisp server running on Cloudflare Workers.",
+    "updated_at": "2026-08-04T17:45:21Z"
+  },
+  {
+    "full_name": "whp1918160643-jpg/wisp-relay",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-11-05T16:40:01Z"
+  },
+  {
+    "full_name": "melonman106/Wisp-Relay",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-11-04T05:53:02Z"
+  },
+  {
+    "full_name": "Ayushi-begin/Relayy-HHG-2026-X-WisprFlow-",
+    "homepage": "https://relayy-hhg-2026-x-wispr-flow.vercel.app",
+    "description": "support that knows when to handle it and when to hand it off.",
+    "updated_at": "2026-10-30T20:08:43Z"
+  },
+  {
+    "full_name": "wisp-forge/wisp-relay",
+    "homepage": null,
+    "description": "Expose any frontier LLM as a local OpenAI-compatible endpoint.",
+    "updated_at": "2026-10-25T23:54:11Z"
+  },
+  {
+    "full_name": "Harshayt69/harshayt-wisp-relay",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-20T22:28:58Z"
+  },
+  {
+    "full_name": "kschlt/relay-wispr",
+    "homepage": "",
+    "description": "Relay source adapter for Wispr Flow — meetings and notes as source-independent capture records.",
+    "updated_at": "2026-09-18T13:51:22Z"
+  },
+  {
+    "full_name": "krisleech/wisper-relay",
+    "homepage": null,
+    "description": "Relay wisper events to the outside world, for example a message queue.",
+    "updated_at": "2019-11-20T23:22:50Z"
+  },
+  {
+    "full_name": "arecber24/scramjet-wisp-proxy",
+    "homepage": null,
+    "description": "Bare HTML project with Scramjet URL bar and local WISP server",
+    "updated_at": "2026-10-11T02:31:05Z"
+  },
+  {
+    "full_name": "shunichi19990314/render-wisp-proxy",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-09-26T06:02:11Z"
+  },
+  {
+    "full_name": "eymenwsmc/wisp-proxy-list",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-08-26T14:20:45Z"
+  },
+  {
+    "full_name": "0800WebDev/PGIS-wisp-proxy",
+    "homepage": null,
+    "description": "This is a site that will reroute wisp requests and show pgis wisp current status",
+    "updated_at": "2026-08-23T12:09:17Z"
+  },
+  {
+    "full_name": "thaikolja/wispr-proxyflow",
+    "homepage": "https://thaikolja.github.io/wispr-proxyflow/",
+    "description": "Local macOS helper for Wispr Flow. Starts a background proxy and launches the app through it. Educational use only. Not affiliated with Wispr.",
+    "updated_at": "2026-09-12T02:02:24Z"
+  },
+  {
+    "full_name": "sushimariojp/wisp-proxy",
+    "homepage": "",
+    "description": "wisp server",
+    "updated_at": "2026-08-05T13:59:54Z"
+  },
+  {
+    "full_name": "mkafw/wispbyte-flow-proxy",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-06-16T07:13:40Z"
+  },
+  {
+    "full_name": "bloomfieldlachlan-afk/wisp-proxy",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-06-11T22:53:40Z"
+  },
+  {
+    "full_name": "Zumwaltboi68/WispProxy",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2026-02-10T17:28:24Z"
+  },
+  {
+    "full_name": "Fragile-wisp/Caching-Proxy",
+    "homepage": "",
+    "description": "Bare bones Caching Proxy project in python using http.server",
+    "updated_at": "2025-08-17T12:10:45Z"
+  },
+  {
+    "full_name": "rabit-wisp/zmq-proxy",
+    "homepage": "",
+    "description": "ZMQ Proxy package for openwrt",
+    "updated_at": "2026-05-06T06:25:18Z"
+  },
+  {
+    "full_name": "Astatine-Development/uWisp-Demo-Proxy",
+    "homepage": null,
+    "description": "Demo proxy using uWisp-Server instead of wisp-server-node",
+    "updated_at": "2024-07-18T23:02:32Z"
+  },
+  {
+    "full_name": "WispSSH/WispProxy-Prototipo-III",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2022-12-27T03:03:32Z"
+  },
+  {
+    "full_name": "vipbeto/WispProxy-Prototipo-II",
+    "homepage": null,
+    "description": null,
+    "updated_at": "2022-07-18T01:09:34Z"
+  },
+  {
+    "full_name": "Fracital/powerMouse",
+    "homepage": "https://stomp.fracit.al",
+    "description": "SystemYA's implementation of the TOMP model.",
+    "updated_at": "2026-11-09T22:09:39Z"
+  },
+  {
+    "full_name": "nasnet-community/nasnet-panel",
+    "homepage": "https://www.joinnasnet.com/en/",
+    "description": "MikroTik RouterOS management platform, deployable on router using Docker with very small Docker Image",
+    "updated_at": "2026-11-09T18:55:31Z"
+  },
+  {
+    "full_name": "ShouChenICU/Wisp",
+    "homepage": "",
+    "description": "An all-in-one handheld agent that runs on the ESP32. 一个运行在 ESP32 上的掌上全能 Agent。",
+    "updated_at": "2026-11-09T16:35:34Z"
+  },
+  {
+    "full_name": "NuzProjects/Atlas",
+    "homepage": "",
+    "description": "Atlas, the best unblocked proxy! No Ads, split view, history, and more!",
+    "updated_at": "2026-11-09T16:33:58Z"
+  },
+  {
+    "full_name": "Novaro1/halcyon",
+    "homepage": null,
+    "description": "Self-hosted web proxy on Scramjet 2.x + Wisp + libcurl — end-to-end encrypted, with a built-in ad/tracker/malware blocker, popup blocker, overlay remover and tracking-link cleaner. Zero build step.",
+    "updated_at": "2026-11-09T02:33:11Z"
+  },
+  {
+    "full_name": "Chabupelik/Wispr",
+    "homepage": "",
+    "description": "Isolated desktop browser & secure tunneling platform: Rust (Tauri v2), Fastify (Node.js), Vue 3, PostgreSQL, Redis, WISP over WebSocket, and ephemeral WebView2.",
+    "updated_at": "2026-11-09T00:33:54Z"
+  },
+  {
+    "full_name": "zayd-the-gr8/isle",
+    "homepage": "https://cat-xqlq.onrender.com/",
+    "description": "bypass internet censorship, while allowing you to have a elegant experience with a polished UI",
+    "updated_at": "2026-11-08T18:50:08Z"
+  },
+  {
+    "full_name": "HeadpatCloud/wisp",
+    "homepage": "",
+    "description": "terminal client for the cool guys",
+    "updated_at": "2026-11-08T14:59:17Z"
+  },
+  {
+    "full_name": "Mapiiik/Watcher-NMS",
+    "homepage": "",
+    "description": "Watcher NMS - Network management system for ISPs",
+    "updated_at": "2026-11-08T14:58:58Z"
+  },
+  {
+    "full_name": "Mapiiik/Watcher-CRM",
+    "homepage": "",
+    "description": "Watcher CRM - Customer relationship management for ISPs",
+    "updated_at": "2026-11-08T14:58:51Z"
+  },
+  {
+    "full_name": "Davlin-Networks/sparo-run",
+    "homepage": "https://sparo.run/products/isp-billing",
+    "description": "ISP billing software for internet providers in Africa - PPPoE and hotspot billing, M-Pesa auto-activation, MikroTik and RADIUS-SERVER, vouchers, WhatsApp/SMS alerts. Hosted at app.sparo.run",
+    "updated_at": "2026-11-08T07:38:33Z"
+  },
+  {
+    "full_name": "f8924919/firefox-wasm",
+    "homepage": null,
+    "description": "HeyPuter/firefox-wasm (WASM版Firefox) をセルフホストする Docker + Cloudflare Tunnel 構成。日本語フォント対応",
+    "updated_at": "2026-11-07T15:54:00Z"
+  },
+  {
+    "full_name": "shifter-io/web-proxy",
+    "homepage": "https://shifter.io/web-proxy",
+    "description": "Free browser-based proxy for browsing websites through residential IPs, with country selection, an embeddable JavaScript SDK, and a self-hosted Rust backend.",
+    "updated_at": "2026-11-07T15:46:42Z"
+  },
+  {
+    "full_name": "Fracital/holyWisp",
+    "homepage": "https://holywisp.fracit.al",
+    "description": "Wisp implemented in C.",
+    "updated_at": "2026-11-07T05:41:15Z"
+  },
+  {
+    "full_name": "AthenaNetworks/mymate",
+    "homepage": "https://mymate.network/",
+    "description": "Network monitoring, the modern way. Mikrotik The Dude migration pathway. ",
+    "updated_at": "2026-11-06T23:15:53Z"
+  },
+  {
+    "full_name": "GeiserX/statix",
+    "homepage": "https://geiserx.github.io/statix/",
+    "description": "Webapp that shows graphics for a common ISP",
+    "updated_at": "2026-11-06T21:03:57Z"
+  },
+  {
+    "full_name": "GeiserX/services-isp",
+    "homepage": "https://geiserx.github.io/services-isp/",
+    "description": "Webapp which automates common tasks for a common ISP",
+    "updated_at": "2026-11-06T21:03:30Z"
+  },
+  {
+    "full_name": "RRedwire/red-wire",
+    "homepage": "https://red-wire.org",
+    "description": "RedWire - open infrastructure for a less restricted web. Proxies, transports, games and browser tooling.",
+    "updated_at": "2026-11-06T15:40:38Z"
+  },
+  {
+    "full_name": "ispgrid/ispgrid",
+    "homepage": "https://ispgrid.com",
+    "description": "FreeRADIUS and an operator panel for ISPs and WISPs that use MikroTik, installed with one command",
+    "updated_at": "2026-11-06T08:30:53Z"
+  },
+  {
+    "full_name": "DecoTaco22/mufa",
+    "homepage": "https://mufa.pages.dev",
+    "description": "Monitoreo, respaldos, auditoría, IPAM y terminal para redes de ISPs. Multimarca, en español y en tu propio servidor.",
+    "updated_at": "2026-11-05T03:03:09Z"
+  },
+  {
+    "full_name": "api-evangelist/ubiquiti",
+    "homepage": null,
+    "description": "Ubiquiti — independent third-party profile of a public API surface, by API Evangelist. Ubiquiti Inc. (NYSE&#58; UI) is an American networking technology company that designs and sells wireless and wired network products for enterprises, service providers, and consumers under the UniFi, UISP, AmpliFi, airMAX, airFiber, and EdgeMax brands.",
+    "updated_at": "2026-11-01T10:20:30Z"
+  },
+  {
+    "full_name": "QuiteAFancyEmerald/Donglalu-Proxy-The-Second-Coming",
+    "homepage": "https://www.npmjs.com/package/dlpcc",
+    "description": "DLPCC is a TURN relay that hides WebRTC behind your web proxy. This project shares the same port, so game streaming, voice and video calls keep running on networks that block UDP.",
+    "updated_at": "2026-10-31T01:32:42Z"
+  },
+  {
+    "full_name": "RADIUSdesk/rdcore",
+    "homepage": "https://www.radiusdesk.com",
+    "description": "A Cutting-Edge Management System for FreeRADIUS, OpenWrt, and Batman-adv Mesh Networks",
+    "updated_at": "2026-10-30T20:54:32Z"
+  },
+  {
+    "full_name": "BreezeDelegate/wisp-mcp",
+    "homepage": "",
+    "description": "Connect AI assistants to WISP game panels for server status, files, console, power, backups and databases.",
+    "updated_at": "2026-10-29T18:56:19Z"
+  },
+  {
+    "full_name": "dagrigorev/Wisp",
+    "homepage": "",
+    "description": "Wisp - unofficial windows port of Ghostty",
+    "updated_at": "2026-10-29T06:37:20Z"
+  },
+  {
+    "full_name": "web3illy/private-second-brain-skills",
+    "homepage": null,
+    "description": "A private second brain for Wisp: 8 Agent Skills that remember what was said, decided and promised. Also work in Claude Code and Codex.",
+    "updated_at": "2026-10-26T00:59:00Z"
+  },
+  {
+    "full_name": "CFC-Servers/WispJS",
+    "homepage": "https://npmjs.com/package/wispjs",
+    "description": "JS Library for interacting with Wisp-based game servers",
+    "updated_at": "2026-10-25T22:44:15Z"
+  },
+  {
+    "full_name": "web3illy/unofficial-wisp-remote",
+    "homepage": null,
+    "description": "Use Wisp on your Mac from your iPhone. An unofficial companion with encrypted device-to-device transport.",
+    "updated_at": "2026-10-24T23:50:52Z"
+  },
+  {
+    "full_name": "MikrotikExe/netpulse",
+    "homepage": null,
+    "description": "Modern self-hosted network monitoring & mapping in PHP — a successor to MikroTik's The Dude. Live ICMP/TCP/SNMP monitoring, interactive maps, per-interface traffic, graphs and Telegram alerts.",
+    "updated_at": "2026-10-24T17:07:05Z"
+  },
+  {
+    "full_name": "staack/the-other-dude",
+    "homepage": "https://theotherdude.net",
+    "description": "MikroTik RouterOS fleet management platform for MSPs — zero-knowledge security, real-time monitoring, configuration management, multi-tenant",
+    "updated_at": "2026-10-21T02:38:29Z"
+  },
+  {
+    "full_name": "defffis/WISP",
+    "homepage": null,
+    "description": "Компактная защищённая панель WISP/NAT для Xiaomi BE6500 RN02, MiWiFi 1.0.64 · Compact authenticated WISP/NAT panel for Xiaomi BE6500 RN02, stock MiWiFi 1.0.64. Русский / English.",
+    "updated_at": "2026-10-20T20:21:02Z"
+  },
+  {
+    "full_name": "raskell-io/refrakt",
+    "homepage": "https://refrakt.raskell.io",
+    "description": "A convention-first web framework for Gleam. Productive like Phoenix, explicit like Gleam, composable with Wisp and Lustre.",
+    "updated_at": "2026-10-27T08:57:48Z"
+  },
+  {
+    "full_name": "ghmuhammadilyas-byte/mikrotik-load-balancing-script-generator",
+    "homepage": "https://radiusnest.net/mikrotik-load-balancing-script-generator.html",
+    "description": "Free MikroTik 2 WAN load balancing script generator for RouterOS 7: PCC with recursive-route failover. By RadiusNest, the MikroTik billing system.",
+    "updated_at": "2026-10-14T13:36:26Z"
+  },
+  {
+    "full_name": "etcherfx/phosphur",
+    "homepage": "https://phosphur.etcherfx.dev",
+    "description": "A tabbed browser-in-a-browser built on Scramjet and Wisp.",
+    "updated_at": "2026-10-20T14:30:07Z"
+  },
+  {
+    "full_name": "stijnwtf/gleam-fullstack",
+    "homepage": null,
+    "description": "✨ Full-stack Gleam starter: Lustre frontend, Wisp backend, shared types checked by the compiler on both sides. Tailwind, tests, Docker and CI included.",
+    "updated_at": "2026-10-12T20:39:55Z"
+  },
+  {
+    "full_name": "Yu-Qiao-sjtu/wisp-cangjie",
+    "homepage": null,
+    "description": "仓颉蒸馏引擎 — 把书/长视频/播客蒸馏成可调用的 Wisp Skill | The skill factory of the Wisp Science ecosystem",
+    "updated_at": "2026-11-05T04:07:51Z"
+  },
+  {
+    "full_name": "GeiserX/ScriptPoblar",
+    "homepage": null,
+    "description": "CRM Control Poblar",
+    "updated_at": "2026-10-04T22:26:21Z"
+  },
+  {
+    "full_name": "ecoranti/zabbix-lagunitas",
+    "homepage": null,
+    "description": "Monitoreo con Zabbix 7 de la Red Comunitaria y Científica Las Lagunitas (Córdoba, Argentina): configuración como código, dependencias entre equipos, widget y reportes propios, alertas por Telegram. PPS UNRC.",
+    "updated_at": "2026-09-30T22:25:04Z"
+  },
+  {
+    "full_name": "dennismutuku2005/pacewebsite",
+    "homepage": "https://pacewisp.co.ke",
+    "description": "The official marketing and information website for Pace a comprehensive management platform designed specifically for Wireless Internet Service Providers (WISPs). This website showcases Pace's solutions for Hotspot Billing, PPPoE Management, Analytics, and Payment Integration, serving as the primary entry point for new and existing customers.",
+    "updated_at": "2026-10-03T15:54:23Z"
+  },
+  {
+    "full_name": "joshualambert/baicells-acs-field-guide",
+    "homepage": "https://centrevilletech.com/services/private-networks/",
+    "description": "Practical Baicells Atom and GenieACS field notes: onboarding, TR-069, fault 9003, authenticated wake-ups, testing, and rollback.",
+    "updated_at": "2026-09-25T23:12:35Z"
+  },
+  {
+    "full_name": "MikrotikExe/ispadmin",
+    "homepage": null,
+    "description": "Web-based customer management for small ISPs built on the MikroTik RouterOS API — DHCP leases, Simple Queues, PPPoE, non-payer blocking, multi-site, 10 languages. Plain PHP, Docker ready.",
+    "updated_at": "2026-10-31T10:23:23Z"
+  },
+  {
+    "full_name": "kaggwe-marvin/Voucher-Manager",
+    "homepage": "",
+    "description": "Voucher Manager is a Tkinter-based desktop tool for creating MikroTik RouterOS v7 User Manager hotspot vouchers in batches. It connects to a MikroTik router, creates user accounts, assigns profiles, generates voucher files, downloads the generated HTML, and converts it into a printable PDF.",
+    "updated_at": "2026-09-23T20:36:11Z"
+  },
+  {
+    "full_name": "be6500-relay-nas/xiaomi-tp-link-relay-nas",
+    "homepage": null,
+    "description": "小米 BE6500 Pro (RD08) + TP-Link 双路由宿舍全链路脱敏指南：SSH 解锁 / 校园网 WISP 中继 / NAT / mihomo 代理注入 / alist NAS / Tailscale 外网访问",
+    "updated_at": "2026-09-23T08:30:27Z"
+  },
+  {
+    "full_name": "sornixexpress/sornix-wifi",
+    "homepage": null,
+    "description": "Sornix Express WiFi ISP stack: Cloudflare Workers + D1 (free tier) backend, MikroTik Groove hotspot sync, captive portal, vouchers, Paystack/Flutterwave",
+    "updated_at": "2026-09-22T10:03:44Z"
+  },
+  {
+    "full_name": "nagy/tree-sitter-wisp",
+    "homepage": "",
+    "description": "Wisp (SRFI-119) grammar for tree-sitter",
+    "updated_at": "2026-10-28T21:20:32Z"
+  },
+  {
+    "full_name": "0800WebDev/PGIS-wisp",
+    "homepage": "https://pgis-wisp.joytree.site",
+    "description": null,
+    "updated_at": "2026-10-25T15:40:37Z"
+  },
+  {
+    "full_name": "Thavarshan/wisp",
+    "homepage": "https://wisp.thavarshan.com",
+    "description": "🔐 Wisp is a simple and secure platform for sharing encrypted, one-time secrets via protected links that automatically expire.",
+    "updated_at": "2026-08-30T16:35:52Z"
+  },
+  {
+    "full_name": "jahswillb-dev/wisp-billing",
+    "homepage": null,
+    "description": "Open-source Telegram billing, voucher & data-usage automation for MikroTik-based WISPs (Paystack / Flutterwave / Stellar)",
+    "updated_at": "2026-08-20T11:42:36Z"
+  },
+  {
+    "full_name": "wisp-science/dsh-wisp-science-lab",
+    "homepage": null,
+    "description": "DSH plugin: laboratory PI for local Wisp Science. Read-only snapshots, evidence-backed advice. / 实验室 PI：只读查看本机 Wisp Science 课题进展，按快照给意见。",
+    "updated_at": "2026-09-02T08:55:18Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-suite",
+    "homepage": "https://lavalink.us",
+    "description": "Eight self-hosted tools built to run a fixed-wireless ISP — a guided tour of the suite.",
+    "updated_at": "2026-08-17T01:11:00Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-speedtest",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "A Lavalink-branded LibreSpeed front end that measures a customer's link to the ISP head-end, in plain English.",
+    "updated_at": "2026-08-17T01:11:03Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-sms-twilio",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "A webhook that turns UISP CRM client messages into Twilio SMS, with dry-run mode and optional shared-secret auth.",
+    "updated_at": "2026-08-17T01:11:02Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-regulatory",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "Compiles FCC BDC availability and Form 477 subscription filings into an archived, upload-ready bundle per cycle.",
+    "updated_at": "2026-08-17T01:11:02Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-portcullis",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "WireGuard hub management: a live pool view, one-time peer issuance, evidence-ranked reclaim, and internal DNS as a table.",
+    "updated_at": "2026-08-17T01:11:01Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-cortex",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "The operations encyclopedia for a WISP: a navigable atlas of every tool, tower, host, and runbook. Content is data, not code.",
+    "updated_at": "2026-08-17T01:11:01Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-catalyst",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "Every customer channel — call, text, voicemail, email, ticket, Facebook — on one timeline, correlated into one task.",
+    "updated_at": "2026-08-17T01:11:01Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-conformity",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "Network conformity auditor for a WISP: topology, automatic IPAM, and paste-ready remediation. Never writes to the network.",
+    "updated_at": "2026-08-17T01:11:00Z"
+  },
+  {
+    "full_name": "uberclokr/lavalink-spectmap",
+    "homepage": "https://github.com/uberclokr/lavalink-suite",
+    "description": "Frequency coordination and coverage mapping for Ubiquiti WISP networks — self-hosted, single page, no build step.",
+    "updated_at": "2026-08-17T01:11:00Z"
+  },
+  {
+    "full_name": "Bluedot-Insight/quantumipoebng",
+    "homepage": "https://bluedot-insight.com",
+    "description": "Free software IPoE BNG for small ISPs and WISPs. DHCP, AAA, QoS and captive portal on one x86 server — no RADIUS server required.",
+    "updated_at": "2026-09-09T15:15:44Z"
+  },
+  {
+    "full_name": "aipiary045-spec/towerscope-ar",
+    "homepage": "https://github.com/aipiary045-spec/towerscope-ar/releases/download/sideload-latest/TowerScope-AR-sideload.apk",
+    "description": "Android field toolkit for WISP/install techs — Network Hub (Wi-Fi, speed, ping, Path Doctor, subnet) and Installation Hub (compass, locate, LOS).",
+    "updated_at": "2026-08-12T03:26:42Z"
+  },
+  {
+    "full_name": "sriail/Bare-Js-Wisp-Server",
+    "homepage": "",
+    "description": "A Light, Barebones JS Wisp server without Node.js only using V8",
+    "updated_at": "2026-08-30T17:40:39Z"
+  },
+  {
+    "full_name": "capfroggy/wisp-launch-kit",
+    "homepage": "https://capfroggy.github.io/wisp-launch-kit/",
+    "description": "WISP Launch Kit — playbook, templates, and landing page for launching a small wireless ISP with no investors.",
+    "updated_at": "2026-08-06T18:10:35Z"
+  },
+  {
+    "full_name": "wisp-trading/connectors",
+    "homepage": "https://docs.usewisp.dev",
+    "description": "Exchange connectors for the Wisp trading framework — Binance, Coinbase, Kraken, Polymarket support in Go",
+    "updated_at": "2026-11-02T13:40:20Z"
+  },
+  {
+    "full_name": "wisp-trading/sdk",
+    "homepage": "https://docs.usewisp.dev",
+    "description": "Core SDK for building exchange connectors and trading strategies with the Wisp algorithmic trading framework in Go",
+    "updated_at": "2026-11-02T13:40:20Z"
+  },
+  {
+    "full_name": "o-enbaya/Tower-Azimuth-planner-WISP",
+    "homepage": "",
+    "description": "Full-stack web dashboard & RF planning tool to optimize base station sector azimuths, eliminate coverage gaps, and balance CPE customer loads.",
+    "updated_at": "2026-07-26T07:24:01Z"
+  },
+  {
+    "full_name": "o-enbaya/CPE-Sector-analyzer",
+    "homepage": "",
+    "description": "Python data processing tool for analyzing WISP Customer Premises Equipment (CPE) distributions, categorizing sector performance issues, and generating automated Excel health reports.",
+    "updated_at": "2026-07-26T07:32:21Z"
+  },
+  {
+    "full_name": "yourworstnightmare1/bavarium-browser",
+    "homepage": "",
+    "description": "Browser designed to bypass internet censorship",
+    "updated_at": "2026-07-21T14:20:41Z"
+  },
+  {
+    "full_name": "jyswee/isp2go",
+    "homepage": "https://isp2go.com",
+    "description": "Run your entire ISP from the terminal — customers, billing, networking, tickets, RICA/POPIA compliance. Zero-dependency CLI + 20 MCP tools.",
+    "updated_at": "2026-07-16T10:37:08Z"
+  },
+  {
+    "full_name": "ghivert/gloogle",
+    "homepage": "https://gloogle.run",
+    "description": "Search engine for the gleam ecosystem! Search across the entire gleam ecosystem!",
+    "updated_at": "2026-08-12T14:36:46Z"
+  },
+  {
+    "full_name": "ghivert/liminal",
+    "homepage": "",
+    "description": "Minimalistic fast router for Wisp",
+    "updated_at": "2026-06-23T16:22:12Z"
+  },
+  {
+    "full_name": "scott-ray-wilson/plume",
+    "homepage": "https://hexdocs.pm/plume",
+    "description": "Sensible HTTP security headers for Gleam web servers, inspired by helmet.",
+    "updated_at": "2026-06-21T23:23:58Z"
+  },
+  {
+    "full_name": "kaber420/OmniWISP",
+    "homepage": "",
+    "description": "ISP Billing + monitoring + configuration + communication + documentation  + zerotrust ",
+    "updated_at": "2026-09-06T01:17:25Z"
+  },
+  {
+    "full_name": "arrzarr81/routeros-ops-toolkit",
+    "homepage": null,
+    "description": "Additive RouterOS 7 automation for LTE/WISP routers: Better Stack heartbeat monitoring, scheduled firmware/package upgrades, local backups, and a CI-ready deploy user.",
+    "updated_at": "2026-06-14T08:48:28Z"
+  },
+  {
+    "full_name": "dary1337/wisp-mode-redmi-ax5400",
+    "homepage": "",
+    "description": "WISP / repeater mode on Xiaomi Redmi AX5400 Gaming Edition — dedicated 5GHz network over a 2.4GHz WAN uplink (OpenWrt-style uci/wpa_supplicant)",
+    "updated_at": "2026-05-31T19:39:29Z"
+  },
+  {
+    "full_name": "0s-a/vikoom-autoConfig-utility",
+    "homepage": null,
+    "description": "سكربت أتمتة متقدم بلغة بايثون لبرمجة وإعداد أجهزة الراوتر التي تعمل بنظام OpenWrt دفعة واحدة، مخصص لشبكات المايكروتك وتوزيع الإنترنت (WISP).",
+    "updated_at": "2026-11-09T21:14:17Z"
+  },
+  {
+    "full_name": "ghivert/cors-builder",
+    "homepage": "https://hexdocs.pm/cors_builder",
+    "description": "A CORS Builder, performing validation and injection of CORS for mist, wisp and any framework!",
+    "updated_at": "2026-05-27T03:47:02Z"
+  },
+  {
+    "full_name": "andrew-fraley/wisp-development-pipeline",
+    "homepage": "",
+    "description": "This is a workflow pipeline I created for implementing IRS Written Information Security Plans (WISP) for relevant organizations requiring this for compliance with FTC and IRS standards. It is modeled after real world WISP engagements I have developed for actual US-based accounting firms. My security audits and frameworks are based on NIST standards",
+    "updated_at": "2026-04-21T14:49:47Z"
+  },
+  {
+    "full_name": "peter910820/wisp-template",
+    "homepage": "",
+    "description": "a wisp(gleam web framework) basic template(use mist)",
+    "updated_at": "2026-06-25T16:30:13Z"
+  },
+  {
+    "full_name": "Murashidzi/wisp-network-automation-lab",
+    "homepage": "",
+    "description": "WISP network architecture and MikroTik automation lab exploring infrastructure design, PPPoE provisioning, and network observability.",
+    "updated_at": "2026-03-15T10:40:00Z"
+  },
+  {
+    "full_name": "Gitnaseem745/my-portfolio",
+    "homepage": "https://www.naseemansari.me",
+    "description": "My Personal portfolio website built with Next.js 15, React 19, Tailwind CSS 4, and Framer Motion.",
+    "updated_at": "2026-06-17T19:26:16Z"
+  },
+  {
+    "full_name": "Coreoz/Wisp",
+    "homepage": "",
+    "description": "A simple Java Scheduler library with a minimal footprint and a straightforward API",
+    "updated_at": "2026-10-31T00:49:08Z"
+  },
+  {
+    "full_name": "thoriqo-bowzbow/wisp-financial-admin",
+    "homepage": "",
+    "description": "💰 A professional financial & administrative web app for WISPs, built with Python Flask and SQLite",
+    "updated_at": "2026-09-16T05:18:56Z"
+  },
+  {
+    "full_name": "marcelofabianov/wisp",
+    "homepage": "",
+    "description": "Um conjunto de *value objects* robustos e imutáveis para Go, projetado para modelagem de domínios complexos com segurança de tipos",
+    "updated_at": "2026-01-07T18:57:31Z"
+  },
+  {
+    "full_name": "Scaratech/Mittens",
+    "homepage": "",
+    "description": "Middleware for your Wisp server",
+    "updated_at": "2026-08-04T17:45:39Z"
+  },
+  {
+    "full_name": "aartaka/lamber",
+    "homepage": "",
+    "description": "A functional scripting language compiling to pure Lambda Calculus",
+    "updated_at": "2026-07-09T12:14:29Z"
+  },
+  {
+    "full_name": "crulonai/crulon-cambium-agent",
+    "homepage": "https://crulon.ai",
+    "description": "On-premise agent for managing Cambium network equipment via SSH. Provides REST API endpoints to query device status, WiFi credentials (routers), link metrics (bridges), connected devices, and update settings.",
+    "updated_at": "2026-03-24T19:50:59Z"
+  },
+  {
+    "full_name": "marcelofabianov/di",
+    "homepage": "",
+    "description": "API GO com container DI, hot-reload, debug delve, pacotes: wisp fault doberman e conceitos de DDD",
+    "updated_at": "2025-09-13T01:06:04Z"
+  },
+  {
+    "full_name": "wohahobg/pterosync",
+    "homepage": "",
+    "description": "PteroSync new WHMCS Pterodactyl Module",
+    "updated_at": "2026-10-30T21:22:48Z"
+  },
+  {
+    "full_name": "kevin-esq/wisp-manager",
+    "homepage": null,
+    "description": "Operations console for Wireless ISPs: clients, inventory, RouterOS integration, and WhatsApp notifications.",
+    "updated_at": "2026-05-23T11:27:35Z"
+  },
+  {
+    "full_name": "hackemateninja/gleam-collection",
+    "homepage": "",
+    "description": "collection of gleam examples and tests ",
+    "updated_at": "2025-09-01T05:17:33Z"
+  },
+  {
+    "full_name": "LeXofLeviafan/mreframe",
+    "homepage": "https://lexofleviafan.github.io/mreframe/",
+    "description": "A reagent/re-frame imitation that uses Mithril instead",
+    "updated_at": "2025-08-09T19:17:11Z"
+  },
+  {
+    "full_name": "NichtPonczek/Gothic-Plugin-collection",
+    "homepage": "",
+    "description": "A  collection of gothic/gothic 2 notr plugins",
+    "updated_at": "2026-01-01T09:43:55Z"
+  },
+  {
+    "full_name": "Faeq-F/Zarlasht",
+    "homepage": "",
+    "description": "My dissertation. Includes 6 programs total; Online Chat (JS & Erl targets), Tic-Tac-Toe (JS & Erl targets), Pong (Erl target) & Zarlasht (Erl target)",
+    "updated_at": "2025-06-07T18:32:36Z"
+  },
+  {
+    "full_name": "emarifer/gleam-lustre-wisp-fullstack-webapp",
+    "homepage": "",
+    "description": "Fullstack demo app built in Gleam with Lustre & Wisp frameworks to show to user the Pokémon stats.",
+    "updated_at": "2026-03-19T02:43:33Z"
+  },
+  {
+    "full_name": "emarifer/wisp_routing",
+    "homepage": "",
+    "description": "A demo application of Gleam's Wisp framework with the addition of TailwindCss in the served HTML",
+    "updated_at": "2024-12-26T21:07:00Z"
+  },
+  {
+    "full_name": "seanpm2001/Bliss_Browser_Wisp",
+    "homepage": "https://github.com/seanpm2001/Bliss_Browser/",
+    "description": "🌳️🌐️#️⃣️ The Bliss Browser Wisp language support module, allowing Wisp programs to be written in and ran within the browser.",
+    "updated_at": "2024-12-20T19:59:37Z"
+  },
+  {
+    "full_name": "fluentci-demos/fluentci-demo-gleam",
+    "homepage": "",
+    "description": "A FluentCI demo CI Pipeline using Gleam and Wisp",
+    "updated_at": "2024-08-29T08:17:40Z"
+  },
+  {
+    "full_name": "hgCar12/TelincoComunicaciones",
+    "homepage": "https://hgcar12.github.io/TelincoComunicaciones/",
+    "description": "Pagina empresarial tipo landing: Telinco Comunicaciones, Cordoba, Ver.",
+    "updated_at": "2024-06-01T18:31:07Z"
+  },
+  {
+    "full_name": "emibcn/pywisp",
+    "homepage": "https://pypi.org/project/pywisp-emibcn/",
+    "description": "Access AirControl2 (API), AirOS (SSH) & Mikrotik (SSH) from the same place",
+    "updated_at": "2026-04-16T22:22:31Z"
+  },
+  {
+    "full_name": "JesseKoldewijn/GleamWispTestApp",
+    "homepage": "",
+    "description": "Test application which showcases a core setup of Gleam w/ the Wisp http library",
+    "updated_at": "2024-03-12T12:40:10Z"
+  }
+]

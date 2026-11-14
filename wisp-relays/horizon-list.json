@@ -1,0 +1,22 @@
+[
+  {"url":"wss://mages.io/wisp/","name":"mages"},
+  {"url":"wss://mages.io/","name":"mages root"},
+  {"url":"wss://definitelyscience.com/wisp/","name":"definitelyscience"},
+  {"url":"wss://definitelyscience.com/","name":"definitelyscience root"},
+  {"url":"wss://lichology.com/wisp/","name":"lichology"},
+  {"url":"wss://lichology.com/","name":"lichology root"},
+  {"url":"wss://motor-cycle-part.org/wisp/","name":"motorcycle"},
+  {"url":"wss://motor-cycle-part.org/","name":"motorcycle root"},
+  {"url":"wss://area.forwardersoft.com/wisp/","name":"area forwardersoft"},
+  {"url":"wss://area.forwardersoft.com/","name":"area root"},
+  {"url":"wss://truf.the-nest.at/wisp/","name":"truf nest"},
+  {"url":"wss://truf.the-nest.at/","name":"truf root"},
+  {"url":"wss://thoughts.forwardersoft.com/wisp/","name":"thoughts forwardersoft"},
+  {"url":"wss://thoughts.forwardersoft.com/","name":"thoughts root"},
+  {"url":"wss://nebulaproxy.io/wisp/","name":"nebulaproxy"},
+  {"url":"wss://nebulaproxy.io/","name":"nebulaproxy root"},
+  {"url":"wss://english.algebra.teacher.vocabulary.homework.forwardersoft.com/wisp/","name":"english forwardersoft"},
+  {"url":"wss://invisiproxy.com/wisp/","name":"invisiproxy baseline"},
+  {"url":"wss://shasta-dtg.pages.dev/wisp/","name":"shasta baseline"},
+  {"url":"wss://myproxy-zeta.vercel.app/wisp/","name":"myproxy baseline"}
+]

@@ -1,0 +1,27 @@
+progress 250/3319 ok=0
+progress 500/3319 ok=0
+progress 750/3319 ok=0
+progress 1000/3319 ok=0
+progress 1250/3319 ok=0
+progress 1500/3319 ok=0
+progress 1750/3319 ok=0
+progress 2000/3319 ok=6
+(node:18240) ExperimentalWarning: WebSocket over HTTP2 is experimental, and subject to change.
+(Use `node --trace-warnings ...` to show where the warning was created)
+progress 2250/3319 ok=6
+progress 2500/3319 ok=8
+progress 2750/3319 ok=8
+progress 3000/3319 ok=10
+progress 3250/3319 ok=11
+WORKING 11/3319
+OK wss://arsenic.smartfoloo.space/api/wisp/ 556ms
+OK wss://truffled.lol/wisp/ 612ms
+OK wss://petezahgames.com/wisp/ 1020ms
+OK wss://studyworkandmore.uk/api/wisp/ 1053ms
+OK wss://definitelyscience.com/api/wisp/ 1057ms
+OK wss://studyworkandmore.uk/wisp/ 1074ms
+OK wss://daydreamx.pro/wisp/ 1140ms
+OK wss://civil.quartinal.me/api/wisp/ 1305ms
+OK wss://civil.quartinal.me/wisp/ 1320ms
+OK wss://aetheris.win/api/wisp/ 1462ms
+OK wss://aetheris.win/wisp/ 1757ms

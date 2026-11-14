@@ -1,0 +1,3 @@
+wss://wisp.mercurywork.shop/wisp/
+wss://anura.pro/wisp/
+wss://wisp.webmc.xyz/wisp/

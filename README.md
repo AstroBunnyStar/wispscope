@@ -4,6 +4,10 @@ WispScope is a static, browser-side latency checker for public [Wisp](https://gi
 
 This is a testing tool, not a proxy. The page itself has no backend and does not route your browsing traffic.
 
+## Live demo
+
+[Open the WispScope scanner](https://lunamixmc.github.io/wispscope/) — it runs entirely in your browser.
+
 ## Current data
 
 The generated scanner contains **453 relay URLs**:

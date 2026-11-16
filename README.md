@@ -6,7 +6,7 @@ This is a testing tool, not a proxy. The page itself has no backend and does not
 
 ## Live demo
 
-[Open the WispScope scanner](https://lunamixmc.github.io/wispscope/) — it runs entirely in your browser.
+[Open the WispScope scanner](https://astrobunnystar.github.io/wispscope/) — it runs entirely in your browser.
 
 ## Current data
 

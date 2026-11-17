@@ -10,11 +10,11 @@ This is a testing tool, not a proxy. The page itself has no backend and does not
 
 ## Current data
 
-The generated scanner contains **453 relay URLs**:
+The generated scanner contains **454 relay URLs**:
 
-- **52 independent endpoints** in `wisp-relays/independent-52.txt`
-- **401 aliases** in `wisp-relays/scanner-relays-453.json`
-- **1,055 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
+- **53 independent endpoints** in `wisp-relays/independent-53.txt`
+- **401 aliases** in `wisp-relays/scanner-relays-454.json`
+- **1,056 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
 
 Aliases are working hostnames that share a known backend or operator with another entry. They are useful as fallbacks, but they do not add independent redundancy. The discovery notes and verification results are in [`wisp-relays/README-new-relays.md`](wisp-relays/README-new-relays.md).
 
@@ -51,14 +51,14 @@ GUST is a single-file Wisp browser by Nautilus Labs:
 
 GUST does **not** have a relay-list UI with unlimited entries. It supports one active Wisp server and one fallback server. You can point those two slots at any endpoints from the scanner.
 
-The scanner includes a compact **Use with GUST** panel. It defaults to HydroVolter as the primary and Speedster as the fallback, lets you choose any of the 52 independent endpoints, and copies either URL with one click.
+The scanner includes a compact **Use with GUST** panel. It defaults to HydroVolter as the primary and Speedster as the fallback, lets you choose any of the 53 independent endpoints, and copies either URL with one click.
 
 ### Use the built-in Settings UI
 
 1. Open the hosted GUST app.
 2. Open **Settings** (the gear icon).
 3. Go to **Connection → WISP Server**.
-4. Paste a `wss://…` URL from `wisp-relays/independent-52.txt`, then click the checkmark to save and apply it.
+4. Paste a `wss://…` URL from `wisp-relays/independent-53.txt`, then click the checkmark to save and apply it.
 5. Go to **Fallback**, enable fallback, paste a different relay into **Fallback WISP URL**, and save it.
 6. Browse through GUST and check the request log. If the primary fails, GUST retries and then switches to the fallback.
 
@@ -95,7 +95,7 @@ To expose a larger relay picker you would need to modify GUST's settings UI and 
 2. Run `verify-generic.mjs`.
 3. Run `mc-test-expanded.mjs` on the HTTP survivors.
 4. Check that the hostname is not an alias of an existing backend.
-5. Add the result to `wisp-relays/scanner-relays-453.json`, then regenerate `wisp-scanner/index.html` by replacing the `__RELAY_DATA__` placeholder in `wisp-scanner/scanner.template.html` with the updated JSON.
+5. Add the result to `wisp-relays/scanner-relays-454.json`, then regenerate `wisp-scanner/index.html` by replacing the `__RELAY_DATA__` placeholder in `wisp-scanner/scanner.template.html` with the updated JSON.
 6. Update the visible counts and the independent/verified text files.
 
 ## Safety

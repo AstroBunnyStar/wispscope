@@ -9,4 +9,4 @@ Tested candidates:
 - `wss://relay.shhnowisnottheti.me/`
 - `wss://eaglerrelay.glitch.me/`
 
-Result: **0/4 passed** the strict Wisp HTTP-over-WebSocket check. No new independent Wisp relay was found in this search. A later source review found nine more independent endpoints; see `README-new-relays.md`. The current independent count is **51**.
+Result: **0/4 passed** the strict Wisp HTTP-over-WebSocket check. No new independent Wisp relay was found in this search. A later source review found nine more independent endpoints; see `README-new-relays.md`. The current independent count is **53**.

@@ -1053,3 +1053,4 @@ wss://lunaar.org/wisp/
 wss://admin.proxy.hydrovolter.com/wisp/
 wss://speedster.heavengtwashere.workers.dev/wisp/
 wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/
+wss://app-dry-waterfall-5636.fly.dev/wisp/

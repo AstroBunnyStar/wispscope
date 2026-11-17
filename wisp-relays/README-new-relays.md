@@ -61,12 +61,22 @@ Found by scraping the service-worker/config bundles of newly created proxy repos
 
 Speedster is a distinct Cloudflare Worker. STOMP is a separate working endpoint on the existing `fracit.al` operator domain as `holywisp.fracit.al`, so it is counted as an alias rather than padding the independent total.
 
+## 1 more independent relay (2026-11-17)
+
+Found by mining the GitHub code-search hits for `"wss://" "wisp"`. `esimeon-oss/Safari` uses this Fly.io app as its `DEFAULT_UPSTREAM` in `functions/wisp/[[path]].js`.
+
+| Relay | Wisp URL | HTTP latency | MC 25565 |
+|---|---|---:|---|
+| Safari Wisp (Fly) | `wss://app-dry-waterfall-5636.fly.dev/wisp/` | 331 ms | ✅ |
+
+It is a distinct Fly.io app from the existing `bare-server.fly.dev` and `linuxontab-net.fly.dev` relays, so it is counted as independent.
+
 ## Counts after this addition
 
-- **52** independent endpoints.
+- **53** independent endpoints.
 - **401** aliases.
-- **453** scanner URLs total.
-- **1,055** verified URLs including the separate alias pool.
+- **454** scanner URLs total.
+- **1,056** verified URLs including the separate alias pool.
 
 ## Caveat
 

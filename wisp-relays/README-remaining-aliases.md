@@ -15,7 +15,7 @@ The remaining pool was **1,223 unique aliases** after excluding URLs already in 
 
 ## Caveat
 
-Every URL in this batch is a **gointospace alias**. These are additional hostnames for the same backend, not independent relays. This batch does not add independent relays. After the later additions in `README-new-relays.md`, the current independent count is **51**.
+Every URL in this batch is a **gointospace alias**. These are additional hostnames for the same backend, not independent relays. This batch does not add independent relays. After the later additions in `README-new-relays.md`, the current independent count is **53**.
 
 ## Files
 

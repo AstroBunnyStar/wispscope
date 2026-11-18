@@ -6,7 +6,8 @@
     "group": "independent",
     "baseline": 286,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-02",
@@ -15,7 +16,8 @@
     "group": "independent",
     "baseline": 345,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-03",
@@ -24,7 +26,8 @@
     "group": "independent",
     "baseline": 372,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-04",
@@ -33,7 +36,8 @@
     "group": "independent",
     "baseline": 379,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-05",
@@ -42,7 +46,8 @@
     "group": "independent",
     "baseline": 407,
     "mc": false,
-    "backend": null
+    "backend": null,
+    "eagler": "mc-blocked"
   },
   {
     "id": "ind-06",
@@ -51,7 +56,8 @@
     "group": "independent",
     "baseline": 423,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-07",
@@ -60,7 +66,8 @@
     "group": "independent",
     "baseline": 476,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-08",
@@ -69,7 +76,8 @@
     "group": "independent",
     "baseline": 487,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-09",
@@ -78,7 +86,8 @@
     "group": "independent",
     "baseline": 516,
     "mc": false,
-    "backend": null
+    "backend": null,
+    "eagler": "origin-blocked"
   },
   {
     "id": "ind-10",
@@ -87,7 +96,8 @@
     "group": "independent",
     "baseline": 539,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-11",
@@ -96,7 +106,8 @@
     "group": "independent",
     "baseline": 540,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-12",
@@ -105,7 +116,8 @@
     "group": "independent",
     "baseline": 559,
     "mc": false,
-    "backend": null
+    "backend": null,
+    "eagler": "mc-blocked"
   },
   {
     "id": "ind-13",
@@ -114,7 +126,8 @@
     "group": "independent",
     "baseline": 571,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-14",
@@ -123,7 +136,8 @@
     "group": "independent",
     "baseline": 591,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-15",
@@ -132,7 +146,8 @@
     "group": "independent",
     "baseline": 655,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-16",
@@ -141,7 +156,8 @@
     "group": "independent",
     "baseline": 708,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-17",
@@ -150,7 +166,8 @@
     "group": "independent",
     "baseline": 784,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-18",
@@ -159,7 +176,8 @@
     "group": "independent",
     "baseline": 788,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-19",
@@ -168,7 +186,8 @@
     "group": "independent",
     "baseline": 790,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-20",
@@ -177,7 +196,8 @@
     "group": "independent",
     "baseline": 796,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-21",
@@ -186,7 +206,8 @@
     "group": "independent",
     "baseline": 829,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-22",
@@ -195,7 +216,8 @@
     "group": "independent",
     "baseline": 1026,
     "mc": false,
-    "backend": null
+    "backend": null,
+    "eagler": "mc-blocked"
   },
   {
     "id": "ind-23",
@@ -204,7 +226,8 @@
     "group": "independent",
     "baseline": 1130,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-24",
@@ -213,7 +236,8 @@
     "group": "independent",
     "baseline": 1152,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-25",
@@ -222,7 +246,8 @@
     "group": "independent",
     "baseline": 1161,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-26",
@@ -231,7 +256,8 @@
     "group": "independent",
     "baseline": 1213,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-27",
@@ -240,7 +266,8 @@
     "group": "independent",
     "baseline": 1243,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-28",
@@ -249,7 +276,8 @@
     "group": "independent",
     "baseline": 1311,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-29",
@@ -258,7 +286,8 @@
     "group": "independent",
     "baseline": 1341,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-30",
@@ -267,7 +296,8 @@
     "group": "independent",
     "baseline": 1449,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-31",
@@ -276,7 +306,8 @@
     "group": "independent",
     "baseline": 10532,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "dead"
   },
   {
     "id": "ind-32",
@@ -285,7 +316,8 @@
     "group": "independent",
     "baseline": 291,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-33",
@@ -294,7 +326,8 @@
     "group": "independent",
     "baseline": 298,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-34",
@@ -303,7 +336,8 @@
     "group": "independent",
     "baseline": 307,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-35",
@@ -312,7 +346,8 @@
     "group": "independent",
     "baseline": 318,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-36",
@@ -321,7 +356,8 @@
     "group": "independent",
     "baseline": 447,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-37",
@@ -330,7 +366,8 @@
     "group": "independent",
     "baseline": 549,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-38",
@@ -339,7 +376,8 @@
     "group": "independent",
     "baseline": 565,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-39",
@@ -348,7 +386,8 @@
     "group": "independent",
     "baseline": 580,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "dead"
   },
   {
     "id": "ind-40",
@@ -357,7 +396,8 @@
     "group": "independent",
     "baseline": 666,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-41",
@@ -366,7 +406,8 @@
     "group": "independent",
     "baseline": 749,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "origin-blocked"
   },
   {
     "id": "ind-42",
@@ -374,7 +415,8 @@
     "url": "wss://us-east.wisp.q13x.com/",
     "group": "independent",
     "baseline": 283,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-43",
@@ -382,7 +424,8 @@
     "url": "wss://se-asia.wisp.q13x.com/",
     "group": "independent",
     "baseline": 1719,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-44",
@@ -390,7 +433,8 @@
     "url": "wss://mci-wisp-node.sparkpowered.org/",
     "group": "independent",
     "baseline": 915,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-45",
@@ -398,7 +442,8 @@
     "url": "wss://nrt-wisp-node.sparkpowered.org/",
     "group": "independent",
     "baseline": 1231,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-46",
@@ -406,7 +451,8 @@
     "url": "wss://fra-wisp-node.sparkpowered.org/",
     "group": "independent",
     "baseline": 780,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-47",
@@ -414,7 +460,8 @@
     "url": "wss://sin-wisp-node.sparkpowered.org/",
     "group": "independent",
     "baseline": 1119,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-48",
@@ -422,7 +469,8 @@
     "url": "wss://linuxontab-net.fly.dev/wisp",
     "group": "independent",
     "baseline": 321,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-49",
@@ -430,7 +478,8 @@
     "url": "wss://zodiac.icu/wisp/",
     "group": "independent",
     "baseline": 448,
-    "mc": true
+    "mc": true,
+    "eagler": "wisp-fail"
   },
   {
     "id": "ind-50",
@@ -438,7 +487,8 @@
     "url": "wss://lunaar.org/wisp/",
     "group": "independent",
     "baseline": 711,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "ind-51",
@@ -446,7 +496,8 @@
     "url": "wss://admin.proxy.hydrovolter.com/wisp/",
     "group": "independent",
     "baseline": 195,
-    "mc": true
+    "mc": true,
+    "eagler": "ok"
   },
   {
     "id": "alias-001",
@@ -4055,7 +4106,8 @@
     "group": "independent",
     "baseline": 445,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "ind-53",
@@ -4064,7 +4116,8 @@
     "group": "independent",
     "baseline": 331,
     "mc": true,
-    "backend": null
+    "backend": null,
+    "eagler": "ok"
   },
   {
     "id": "alias-401",

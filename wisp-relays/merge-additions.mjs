@@ -5,8 +5,12 @@
 // means a new relay costs a 2 KB commit instead of a 100 KB regenerated
 // dataset, and CI materialises the dataset and the scanner from them.
 //
-// Idempotent: relay URLs, evidence rows and independent-list entries already
-// present are skipped, so a repeated run writes nothing.
+// Derived state (independent list, verified pool, README counts) is reconciled
+// on every run, so a dataset that changed by another route still gets its
+// counts corrected.
+//
+// Idempotent: relay URLs, evidence rows and list entries already present are
+// skipped, and README counts are only written when they differ.
 //
 // Usage: node wisp-relays/merge-additions.mjs
 
@@ -15,6 +19,8 @@ import path from 'node:path';
 
 const DATA = 'wisp-relays/scanner-relays-454.json';
 const COMPAT = 'wisp-relays/eagler-compat.json';
+const TOTAL = 'wisp-relays/verified-total.txt';
+const README = 'README.md';
 const DIR = 'wisp-relays';
 
 const key = (url) => String(url || '').replace(/\/$/, '');
@@ -34,9 +40,9 @@ const independent = fs.readFileSync(path.join(DIR, indFile), 'utf8').split(/\r?\
 const indSet = new Set(independent.map(key));
 
 const additions = fs.readdirSync(DIR).filter((f) => /^additions-.*\.json$/.test(f)).sort();
+const newUrls = [];
 let addedRelays = 0;
 let addedEvidence = 0;
-const newUrls = [];
 
 for (const file of additions) {
   const block = read(path.join(DIR, file));
@@ -63,52 +69,48 @@ for (const file of additions) {
   }
 }
 
-if (!addedRelays && !addedEvidence) {
-  console.log('additions: none pending (' + additions.length + ' file(s) already folded in)');
-  process.exit(0);
-}
-
-fs.writeFileSync(DATA, JSON.stringify(data, null, 2) + '\n');
-fs.writeFileSync(COMPAT, JSON.stringify(compat, null, 2) + '\n');
-
-// A new snapshot alongside the older ones: this repository keeps every
-// independent-<n>.txt as history rather than replacing the previous list.
-const target = path.join(DIR, 'independent-' + independent.length + '.txt');
-fs.writeFileSync(target, independent.join('\n') + '\n');
-
-// The verified pool and the README counts are derived state: keep them in step
-// here so a new relay does not need a hand-edited 70 KB list.
-const TOTAL = path.join(DIR, 'verified-total.txt');
+// --- verified pool -------------------------------------------------------
 const verified = fs.readFileSync(TOTAL, 'utf8').split(/\r?\n/).filter(Boolean);
 const verifiedSet = new Set(verified.map(key));
+let poolAdded = 0;
 for (const url of newUrls) {
   if (verifiedSet.has(key(url))) continue;
   verified.push(url);
   verifiedSet.add(key(url));
+  poolAdded += 1;
 }
-fs.writeFileSync(TOTAL, verified.join('\n') + '\n');
 
-const README = 'README.md';
+// --- files ---------------------------------------------------------------
+if (addedRelays || addedEvidence) {
+  fs.writeFileSync(DATA, JSON.stringify(data, null, 2) + '\n');
+  fs.writeFileSync(COMPAT, JSON.stringify(compat, null, 2) + '\n');
+  // A new snapshot alongside the older ones: this repository keeps every
+  // independent-<n>.txt as history rather than replacing the previous list.
+  fs.writeFileSync(path.join(DIR, 'independent-' + independent.length + '.txt'), independent.join('\n') + '\n');
+}
+if (poolAdded) fs.writeFileSync(TOTAL, verified.join('\n') + '\n');
+
+// --- README counts (always reconciled) -----------------------------------
+const aliases = data.filter((r) => r.group === 'alias').length;
 const offered = data.filter((r) => r.group === 'independent' && r.eagler === 'ok').length;
-let readme = fs.readFileSync(README, 'utf8');
-readme = readme
+const before = fs.readFileSync(README, 'utf8');
+const after = before
   .replace(/\*\*[\d,]+ relay URLs\*\*/, '**' + data.length + ' relay URLs**')
   .replace(/- \*\*[\d,]+ independent endpoints\*\* in `wisp-relays\/independent-[\d]+\.txt`/,
     '- **' + independent.length + ' independent endpoints** in `wisp-relays/independent-' + independent.length + '.txt`')
   .replace(/- \*\*[\d,]+ aliases\*\* in `wisp-relays\/scanner-relays-[\d]+\.json`/,
-    '- **' + data.filter((r) => r.group === 'alias').length + ' aliases** in `wisp-relays/' + path.basename(DATA) + '`')
+    '- **' + aliases + ' aliases** in `wisp-relays/' + path.basename(DATA) + '`')
   .replace(/- \*\*[\d,]+ verified URLs\*\* including the wider alias pool/,
     '- **' + verified.length.toLocaleString('en-US') + ' verified URLs** including the wider alias pool')
   .replace(/\*\*[\d]+ of the [\d]+\*\* independent endpoints also pass/,
     '**' + offered + ' of the ' + independent.length + '** independent endpoints also pass')
-  // every remaining reference to the old independent-list filename
-  .replace(/independent-\d+\.txt/g, 'independent-' + independent.length + '.txt');
-fs.writeFileSync(README, readme);
-readme = fs.readFileSync(README, 'utf8');
+  // prose references to the independent list and its size
+  .replace(/independent-\d+\.txt/g, 'independent-' + independent.length + '.txt')
+  .replace(/choose any of the \d+ independent endpoints/, 'choose any of the ' + independent.length + ' independent endpoints');
+if (after !== before) fs.writeFileSync(README, after);
 
-console.log('added relays:   ' + addedRelays);
+console.log('added relays:   ' + addedRelays + (addedRelays || addedEvidence ? '' : ' (none pending)'));
 console.log('added evidence: ' + addedEvidence);
-console.log('dataset:        ' + data.length);
-console.log('independent:    ' + independent.length + ' (' + target + ')');
-console.log('verified pool:  ' + verified.length);
-console.log('readme counts:  ' + [data.length, independent.length, offered].join(' / '));
+console.log('verified pool:  ' + verified.length + (poolAdded ? ' (+' + poolAdded + ')' : ''));
+console.log('dataset:        ' + data.length + ' (' + independent.length + ' independent, ' + aliases + ' aliases, ' + offered + ' offered)');
+console.log('readme:         ' + (after === before ? 'already current' : 'counts updated'));

@@ -96,3 +96,7 @@ Minecraft check but add no redundancy.
 - **403** aliases.
 - **460** scanner URLs total.
 - **1,062** verified URLs including the separate alias pool.
+
+## Caveat
+
+Spark’s four regional hostnames share a DNS/Cloudflare front and operator; q13x’s regions also share an operator. They are distinct working endpoints, but not four separate companies. The browser scanner’s “Independent” group means a distinct endpoint/backend, not verified operator independence. Endpoints on a known shared operator domain, such as STOMP on `fracit.al`, remain aliases even when the path differs.

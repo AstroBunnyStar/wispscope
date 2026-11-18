@@ -71,13 +71,28 @@ Found by mining the GitHub code-search hits for `"wss://" "wisp"`. `esimeon-oss/
 
 It is a distinct Fly.io app from the existing `bare-server.fly.dev` and `linuxontab-net.fly.dev` relays, so it is counted as independent.
 
+## 4 more independent relays (2026-11-18)
+
+Found by scanning 1,564 proxy-client and launcher repositories as full tarballs,
+not just their READMEs, so relay URLs hardcoded in bundled JS were included.
+Each passed the strict HTTP test and a real Minecraft Java status ping on 25565,
+and none shares an IP address with an already-listed endpoint.
+
+| Relay | Wisp URL | Latency | MC 25565 |
+|---|---|---:|---|
+| Superuser | `wss://superuser-wisp.wasmer.app/` | 203 ms | ✅ Hypixel |
+| Mistral app | `wss://symbolic-jocelyne-jxo-prod-c0e42749.apps.mistral.run/` | 239 ms | ✅ Hypixel |
+| OVH VPS | `wss://ns514995.ip-167-114-208.net/api` | 446 ms | ✅ Hypixel |
+| PGIS | `wss://pgis-wisp.getvoroa.com/` | 2898 ms | ✅ Hypixel |
+
+Two new aliases came from sweeping alternate TLDs of the listed operators:
+`wss://truffled.shop/wisp/` (same IP as `truffled.lol`) and
+`wss://wisp.webmc.fun/` (same operator as `wisp.webmc.xyz`). Both pass the
+Minecraft check but add no redundancy.
+
 ## Counts after this addition
 
-- **53** independent endpoints.
-- **401** aliases.
-- **454** scanner URLs total.
-- **1,056** verified URLs including the separate alias pool.
-
-## Caveat
-
-Spark’s four regional hostnames share a DNS/Cloudflare front and operator; q13x’s regions also share an operator. They are distinct working endpoints, but not four separate companies. The browser scanner’s “Independent” group means a distinct endpoint/backend, not verified operator independence. Endpoints on a known shared operator domain, such as STOMP on `fracit.al`, remain aliases even when the path differs.
+- **57** independent endpoints.
+- **403** aliases.
+- **460** scanner URLs total.
+- **1,062** verified URLs including the separate alias pool.

@@ -15,6 +15,7 @@ The generated scanner contains **454 relay URLs**:
 - **53 independent endpoints** in `wisp-relays/independent-53.txt`
 - **401 aliases** in `wisp-relays/scanner-relays-454.json`
 - **1,056 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
+- **45 of the 53** independent endpoints also pass the Eaglercraft check (launcher Origin + Minecraft 25565) in `wisp-relays/eagler-compat.json`
 
 Aliases are working hostnames that share a known backend or operator with another entry. They are useful as fallbacks, but they do not add independent redundancy. The discovery notes and verification results are in [`wisp-relays/README-new-relays.md`](wisp-relays/README-new-relays.md).
 
@@ -41,6 +42,34 @@ MC_INPUT=results.json MC_OUTPUT=mc.json \
 ```
 
 An endpoint is added only after it completes the Wisp handshake, returns an actual HTTP response through `CONNECT google.com:80`, and passes a Minecraft Java status ping on port 25565.
+
+### Eaglercraft compatibility
+
+The launcher needs a different check than the table above: it connects from `https://astrobunnystar.github.io` and tunnels to a Minecraft server, not to `google.com:80`. Some relays accept the Wisp handshake with no `Origin` but reject the launcher's:
+
+```sh
+node wisp-relays/eagler-compat.mjs
+```
+
+It sends the Wisp handshake with `Origin: https://astrobunnystar.github.io`, then `CONNECT <minecraft-host>:25565`, and requires a parsed Minecraft status response. Every relay is classified:
+
+- `ok` — Minecraft status received through the relay
+- `mc-blocked` — Wisp works, but the Minecraft connect is refused on every target
+- `origin-blocked` — upgrade refused with that Origin, accepted without it
+- `wisp-fail` — upgrade accepted, Wisp handshake never completed
+- `dead` — refused without the Origin too
+
+Output goes to `wisp-relays/eagler-compat.json`, `eagler-compat-working.txt` and `eagler-compat-summary.json`. The **Use with Eaglercraft** panel in the scanner lists only `ok` relays — a relay that passes `google.com:80` but refuses Minecraft is not offered — and its **Copy** button copies the complete `play.html?wisp=…` launch link.
+
+The relay table carries the same verdict per row, so a relay can never look launcher-ready in one place and blocked in another: `MC` for `ok`, `NO MC` for `mc-blocked`, `MC ?` when the Eaglercraft check produced no Minecraft result, and a `not in launcher · reason` line under the URL of every relay the dropdown leaves out.
+
+After each verification run, re-apply the evidence so the dataset and the generated scanner cannot drift apart:
+
+```sh
+node wisp-relays/apply-eagler-compat.mjs
+```
+
+It rewrites the `eagler` field on independent entries from `eagler-compat.json`, removes the field from any relay without current evidence (so a relay cannot stay on offer on stale data), and regenerates `wisp-scanner/index.html` from the template. A second run prints `changed: none` and writes nothing, so the command doubles as the staleness check. Relays the evidence does not cover appear in the panel as "not yet tested".
 
 ## Adding these relays to GUST
 

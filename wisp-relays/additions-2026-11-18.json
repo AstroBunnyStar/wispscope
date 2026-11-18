@@ -1,0 +1,120 @@
+{
+  "generatedAt": "2026-11-18T13:55:49.189Z",
+  "note": "Verified 2026-11-18 (strict HTTP + Minecraft 25565) by wisp-relays/discovery. Folded in by merge-additions.mjs.",
+  "relays": [
+    {
+      "name": "Superuser",
+      "url": "wss://superuser-wisp.wasmer.app/",
+      "group": "independent",
+      "baseline": 1518,
+      "mc": true,
+      "eagler": "ok",
+      "backend": null
+    },
+    {
+      "name": "Mistral app",
+      "url": "wss://symbolic-jocelyne-jxo-prod-c0e42749.apps.mistral.run/",
+      "group": "independent",
+      "baseline": 6155,
+      "mc": true,
+      "eagler": "ok",
+      "backend": null
+    },
+    {
+      "name": "OVH VPS",
+      "url": "wss://ns514995.ip-167-114-208.net/api",
+      "group": "independent",
+      "baseline": 704,
+      "mc": true,
+      "eagler": "ok",
+      "backend": null
+    },
+    {
+      "name": "PGIS",
+      "url": "wss://pgis-wisp.getvoroa.com/",
+      "group": "independent",
+      "baseline": 2598,
+      "mc": true,
+      "eagler": "ok",
+      "backend": null
+    },
+    {
+      "name": "Truffled alias",
+      "url": "wss://truffled.shop/wisp/",
+      "group": "alias",
+      "baseline": 479,
+      "mc": true,
+      "backend": "truffled.lol"
+    },
+    {
+      "name": "WebMC alias",
+      "url": "wss://wisp.webmc.fun/",
+      "group": "alias",
+      "baseline": 681,
+      "mc": true,
+      "backend": "webmc.xyz"
+    }
+  ],
+  "compat": [
+    {
+      "url": "wss://superuser-wisp.wasmer.app/",
+      "name": "Superuser",
+      "ok": true,
+      "mcOk": true,
+      "note": "mc-status-ok",
+      "wispVersion": 1,
+      "mcTarget": "Hypixel",
+      "mcVersion": null,
+      "mcPlayers": null,
+      "latencyMs": 1518,
+      "originStatus": null,
+      "controlStatus": null,
+      "classification": "ok"
+    },
+    {
+      "url": "wss://symbolic-jocelyne-jxo-prod-c0e42749.apps.mistral.run/",
+      "name": "Mistral app",
+      "ok": true,
+      "mcOk": true,
+      "note": "mc-status-ok",
+      "wispVersion": 1,
+      "mcTarget": "Hypixel",
+      "mcVersion": null,
+      "mcPlayers": null,
+      "latencyMs": 6155,
+      "originStatus": null,
+      "controlStatus": null,
+      "classification": "ok"
+    },
+    {
+      "url": "wss://ns514995.ip-167-114-208.net/api",
+      "name": "OVH VPS",
+      "ok": true,
+      "mcOk": true,
+      "note": "mc-status-ok",
+      "wispVersion": 1,
+      "mcTarget": "Hypixel",
+      "mcVersion": null,
+      "mcPlayers": null,
+      "latencyMs": 704,
+      "originStatus": null,
+      "controlStatus": null,
+      "classification": "ok"
+    },
+    {
+      "url": "wss://pgis-wisp.getvoroa.com/",
+      "name": "PGIS",
+      "ok": true,
+      "mcOk": true,
+      "note": "mc-status-ok",
+      "wispVersion": 1,
+      "mcTarget": "Hypixel",
+      "mcVersion": null,
+      "mcPlayers": null,
+      "latencyMs": 2598,
+      "originStatus": null,
+      "controlStatus": null,
+      "classification": "ok"
+    }
+  ]
+}

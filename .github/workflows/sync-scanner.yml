@@ -14,7 +14,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: sync-scanner
+  # Shared with the weekly discovery job: both rewrite the published dataset.
+  group: relay-dataset
   cancel-in-progress: false
 
 jobs:

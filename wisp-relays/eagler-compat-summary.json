@@ -1,0 +1,339 @@
+{
+  "generatedAt": "2026-11-17T23:51:37.943Z",
+  "origin": "https://astrobunnystar.github.io",
+  "mcTargets": [
+    "mc.hypixel.net:25565",
+    "play.cubecraft.net:25565",
+    "mc.originrealms.com:25565"
+  ],
+  "total": 53,
+  "counts": {
+    "ok": 45,
+    "mc-blocked": 3,
+    "origin-blocked": 2,
+    "wisp-fail": 1,
+    "dead": 2
+  },
+  "ok": [
+    {
+      "url": "wss://holywisp.fracit.al/",
+      "name": null,
+      "latencyMs": 202,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://us-east.wisp.q13x.com/",
+      "name": null,
+      "latencyMs": 214,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://app-dry-waterfall-5636.fly.dev/wisp/",
+      "name": null,
+      "latencyMs": 214,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://gointospace.app/wisp/",
+      "name": null,
+      "latencyMs": 220,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://zakaon.top/wisp/",
+      "name": null,
+      "latencyMs": 221,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://tinf0il.site/wisp/",
+      "name": null,
+      "latencyMs": 221,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://truffled.lol/wisp/",
+      "name": null,
+      "latencyMs": 231,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://admin.proxy.hydrovolter.com/wisp/",
+      "name": null,
+      "latencyMs": 235,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://myproxy-zeta.vercel.app/wisp/",
+      "name": null,
+      "latencyMs": 237,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://yashsurjuse-wisp.hf.space/",
+      "name": null,
+      "latencyMs": 246,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://daydreamx.pro/wisp/",
+      "name": null,
+      "latencyMs": 305,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://xh4r26oz8gg460od.oid76seqraqkbvwx.mvd.hi.stack.ddnsfree.com/wisp/",
+      "name": null,
+      "latencyMs": 307,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://chat.smartfoloo.space/wisp/",
+      "name": null,
+      "latencyMs": 394,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://arsenic.smartfoloo.space/wisp/",
+      "name": null,
+      "latencyMs": 402,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://purnhab68-gitea.hf.space/",
+      "name": null,
+      "latencyMs": 422,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://studyworkandmore.uk/wisp/",
+      "name": null,
+      "latencyMs": 441,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://orbitweb.org/campus/",
+      "name": null,
+      "latencyMs": 475,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://wisp.terbiumon.top/wisp/",
+      "name": null,
+      "latencyMs": 499,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://definitelyscience.com/wisp/",
+      "name": null,
+      "latencyMs": 506,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://linuxontab-net.fly.dev/wisp",
+      "name": null,
+      "latencyMs": 511,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://fern.best/wisp/",
+      "name": null,
+      "latencyMs": 535,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://wisp.anjomous.workers.dev/",
+      "name": null,
+      "latencyMs": 590,
+      "mcTarget": "CubeCraft"
+    },
+    {
+      "url": "wss://motor-cycle-part.org/wisp/",
+      "name": null,
+      "latencyMs": 597,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://bare-server.fly.dev/wisp/",
+      "name": null,
+      "latencyMs": 597,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://civil.quartinal.me/wisp/",
+      "name": null,
+      "latencyMs": 600,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://anura.pro/",
+      "name": null,
+      "latencyMs": 620,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://wisp.mercurywork.shop/",
+      "name": null,
+      "latencyMs": 669,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://lunaar.org/wisp/",
+      "name": null,
+      "latencyMs": 676,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://mages.io/wisp/",
+      "name": null,
+      "latencyMs": 715,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://15.204.116.230.sslip.io/wisp/",
+      "name": null,
+      "latencyMs": 726,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://petezahgames.com/wisp/",
+      "name": null,
+      "latencyMs": 728,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://vela-wisp.onrender.com/",
+      "name": null,
+      "latencyMs": 765,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://lichology.com/wisp/",
+      "name": null,
+      "latencyMs": 774,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://mci-wisp-node.sparkpowered.org/",
+      "name": null,
+      "latencyMs": 797,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://shasta-dtg.pages.dev/wisp/",
+      "name": null,
+      "latencyMs": 836,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://hurt-agata-liventcord-api-7072e9a6.koyeb.app/wisp/",
+      "name": null,
+      "latencyMs": 875,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://wisp.webmc.xyz/",
+      "name": null,
+      "latencyMs": 919,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://speedster.heavengtwashere.workers.dev/wisp/",
+      "name": null,
+      "latencyMs": 1074,
+      "mcTarget": "CubeCraft"
+    },
+    {
+      "url": "wss://fra-wisp-node.sparkpowered.org/",
+      "name": null,
+      "latencyMs": 1245,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://browserjs-production.up.railway.app/wisp/",
+      "name": null,
+      "latencyMs": 1742,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://tokyo.new-updates.info/wisp/",
+      "name": null,
+      "latencyMs": 1769,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://se-asia.wisp.q13x.com/",
+      "name": null,
+      "latencyMs": 2091,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://sin-wisp-node.sparkpowered.org/",
+      "name": null,
+      "latencyMs": 2371,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://nrt-wisp-node.sparkpowered.org/",
+      "name": null,
+      "latencyMs": 2449,
+      "mcTarget": "Hypixel"
+    },
+    {
+      "url": "wss://edushasta.lol/wisp/",
+      "name": null,
+      "latencyMs": 2954,
+      "mcTarget": "Hypixel"
+    }
+  ],
+  "blocked": [
+    {
+      "url": "wss://dkwmkvruzebnqlmvwzhy.supabase.co/functions/v1/proxy-wisp/",
+      "name": null,
+      "classification": "mc-blocked",
+      "note": "mc-blocked:wisp-close:1"
+    },
+    {
+      "url": "wss://vibeos.sh/api/wisp/",
+      "name": null,
+      "classification": "mc-blocked",
+      "note": "mc-blocked:wisp-close:72"
+    },
+    {
+      "url": "wss://wisp.freewisp.org/",
+      "name": null,
+      "classification": "mc-blocked",
+      "note": "mc-blocked:wisp-close:65"
+    },
+    {
+      "url": "wss://invisiproxy.com/wisp/",
+      "name": null,
+      "classification": "origin-blocked",
+      "note": "origin-blocked:400 with Origin, 101 without"
+    },
+    {
+      "url": "wss://aetheris.win/wisp/",
+      "name": null,
+      "classification": "origin-blocked",
+      "note": "origin-blocked:403 with Origin, 101 without"
+    },
+    {
+      "url": "wss://zodiac.icu/wisp/",
+      "name": null,
+      "classification": "wisp-fail",
+      "note": "closed:1006:ws"
+    },
+    {
+      "url": "wss://achromaon.top/wisp/",
+      "name": null,
+      "classification": "dead",
+      "note": "unreachable:404"
+    },
+    {
+      "url": "wss://mex-ubg-wisp.onrender.com/wisp/",
+      "name": null,
+      "classification": "dead",
+      "note": "unreachable:timeout"
+    }
+  ]
+}

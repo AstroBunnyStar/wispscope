@@ -4127,5 +4127,63 @@
     "baseline": 281,
     "mc": true,
     "backend": "holywisp.fracit.al"
+  },
+  {
+    "name": "Superuser",
+    "url": "wss://superuser-wisp.wasmer.app/",
+    "group": "independent",
+    "baseline": 1518,
+    "mc": true,
+    "eagler": "ok",
+    "backend": null,
+    "id": "ind-54"
+  },
+  {
+    "name": "Mistral app",
+    "url": "wss://symbolic-jocelyne-jxo-prod-c0e42749.apps.mistral.run/",
+    "group": "independent",
+    "baseline": 6155,
+    "mc": true,
+    "eagler": "ok",
+    "backend": null,
+    "id": "ind-55"
+  },
+  {
+    "name": "OVH VPS",
+    "url": "wss://ns514995.ip-167-114-208.net/api",
+    "group": "independent",
+    "baseline": 704,
+    "mc": true,
+    "eagler": "ok",
+    "backend": null,
+    "id": "ind-56"
+  },
+  {
+    "name": "PGIS",
+    "url": "wss://pgis-wisp.getvoroa.com/",
+    "group": "independent",
+    "baseline": 2598,
+    "mc": true,
+    "eagler": "ok",
+    "backend": null,
+    "id": "ind-57"
+  },
+  {
+    "name": "Truffled alias",
+    "url": "wss://truffled.shop/wisp/",
+    "group": "alias",
+    "baseline": 479,
+    "mc": true,
+    "backend": "truffled.lol",
+    "id": "alias-402"
+  },
+  {
+    "name": "WebMC alias",
+    "url": "wss://wisp.webmc.fun/",
+    "group": "alias",
+    "baseline": 681,
+    "mc": true,
+    "backend": "webmc.xyz",
+    "id": "alias-403"
   }
 ]

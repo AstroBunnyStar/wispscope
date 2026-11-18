@@ -1054,3 +1054,9 @@ wss://admin.proxy.hydrovolter.com/wisp/
 wss://speedster.heavengtwashere.workers.dev/wisp/
 wss://stomp.fracit.al/pipe/47ca81407404a186be5266a34fc90bf7/
 wss://app-dry-waterfall-5636.fly.dev/wisp/
+wss://superuser-wisp.wasmer.app/
+wss://symbolic-jocelyne-jxo-prod-c0e42749.apps.mistral.run/
+wss://ns514995.ip-167-114-208.net/api
+wss://pgis-wisp.getvoroa.com/
+wss://truffled.shop/wisp/
+wss://wisp.webmc.fun/

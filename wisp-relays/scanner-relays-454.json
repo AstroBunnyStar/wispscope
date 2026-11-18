@@ -4185,5 +4185,14 @@
     "mc": true,
     "backend": "webmc.xyz",
     "id": "alias-403"
+  },
+  {
+    "name": "deathclient-eaglercraft.onrender.com",
+    "url": "wss://deathclient-eaglercraft.onrender.com/",
+    "group": "alias",
+    "baseline": 297,
+    "mc": true,
+    "backend": "Vela Wisp (Render)",
+    "id": "alias-404"
   }
 ]

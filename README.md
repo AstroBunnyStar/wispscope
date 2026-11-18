@@ -10,11 +10,11 @@ This is a testing tool, not a proxy. The page itself has no backend and does not
 
 ## Current data
 
-The generated scanner contains **460 relay URLs**:
+The generated scanner contains **461 relay URLs**:
 
 - **57 independent endpoints** in `wisp-relays/independent-57.txt`
-- **403 aliases** in `wisp-relays/scanner-relays-454.json`
-- **1,062 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
+- **404 aliases** in `wisp-relays/scanner-relays-454.json`
+- **1,063 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
 - **49 of the 57** independent endpoints also pass the Eaglercraft check (launcher Origin + Minecraft 25565) in `wisp-relays/eagler-compat.json`
 
 Aliases are working hostnames that share a known backend or operator with another entry. They are useful as fallbacks, but they do not add independent redundancy. The discovery notes and verification results are in [`wisp-relays/README-new-relays.md`](wisp-relays/README-new-relays.md).

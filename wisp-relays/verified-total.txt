@@ -1060,3 +1060,4 @@ wss://ns514995.ip-167-114-208.net/api
 wss://pgis-wisp.getvoroa.com/
 wss://truffled.shop/wisp/
 wss://wisp.webmc.fun/
+wss://deathclient-eaglercraft.onrender.com/

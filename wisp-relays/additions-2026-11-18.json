@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T13:55:49.189Z",
-  "note": "Verified 2026-11-18 (strict HTTP + Minecraft 25565) by wisp-relays/discovery. Folded in by merge-additions.mjs.",
+  "generatedAt": "2026-11-18T14:05:00.000Z",
+  "note": "Verified 2026-11-18 (strict HTTP + Minecraft 25565) by wisp-relays/discovery. Folded in by merge-additions.mjs, which also reconciles the README counts.",
   "relays": [
     {
       "name": "Superuser",

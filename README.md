@@ -10,12 +10,12 @@ This is a testing tool, not a proxy. The page itself has no backend and does not
 
 ## Current data
 
-The generated scanner contains **454 relay URLs**:
+The generated scanner contains **460 relay URLs**:
 
-- **53 independent endpoints** in `wisp-relays/independent-53.txt`
-- **401 aliases** in `wisp-relays/scanner-relays-454.json`
-- **1,056 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
-- **45 of the 53** independent endpoints also pass the Eaglercraft check (launcher Origin + Minecraft 25565) in `wisp-relays/eagler-compat.json`
+- **57 independent endpoints** in `wisp-relays/independent-57.txt`
+- **403 aliases** in `wisp-relays/scanner-relays-454.json`
+- **1,062 verified URLs** including the wider alias pool in `wisp-relays/verified-total.txt`
+- **49 of the 57** independent endpoints also pass the Eaglercraft check (launcher Origin + Minecraft 25565) in `wisp-relays/eagler-compat.json`
 
 Aliases are working hostnames that share a known backend or operator with another entry. They are useful as fallbacks, but they do not add independent redundancy. The discovery notes and verification results are in [`wisp-relays/README-new-relays.md`](wisp-relays/README-new-relays.md).
 
@@ -80,14 +80,14 @@ GUST is a single-file Wisp browser by Nautilus Labs:
 
 GUST does **not** have a relay-list UI with unlimited entries. It supports one active Wisp server and one fallback server. You can point those two slots at any endpoints from the scanner.
 
-The scanner includes a compact **Use with GUST** panel. It defaults to HydroVolter as the primary and Speedster as the fallback, lets you choose any of the 53 independent endpoints, and copies either URL with one click.
+The scanner includes a compact **Use with GUST** panel. It defaults to HydroVolter as the primary and Speedster as the fallback, lets you choose any of the 57 independent endpoints, and copies either URL with one click.
 
 ### Use the built-in Settings UI
 
 1. Open the hosted GUST app.
 2. Open **Settings** (the gear icon).
 3. Go to **Connection → WISP Server**.
-4. Paste a `wss://…` URL from `wisp-relays/independent-53.txt`, then click the checkmark to save and apply it.
+4. Paste a `wss://…` URL from `wisp-relays/independent-57.txt`, then click the checkmark to save and apply it.
 5. Go to **Fallback**, enable fallback, paste a different relay into **Fallback WISP URL**, and save it.
 6. Browse through GUST and check the request log. If the primary fails, GUST retries and then switches to the fallback.
 

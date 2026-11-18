@@ -1,0 +1,66 @@
+name: Weekly relay discovery
+
+on:
+  schedule:
+    # Mondays, 04:17 UTC. GitHub queues scheduled runs, so the exact minute is
+    # not guaranteed; the discovery pass itself is idempotent.
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Same lock as sync-scanner: both jobs rewrite the published dataset, so they
+# must never overlap.
+concurrency:
+  group: relay-dataset
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          # verify-generic.mjs and eagler-compat.mjs use the global WebSocket.
+          node-version: '22'
+
+      - name: Harvest, probe and fold in new relays
+        id: discover
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node wisp-relays/discovery/weekly.mjs
+
+      - name: Commit additions and regenerated dataset
+        if: steps.discover.outputs.added != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "${{ steps.discover.outputs.additions }}" \
+            wisp-relays/scanner-relays-454.json \
+            wisp-relays/eagler-compat.json \
+            wisp-relays/verified-total.txt \
+            'wisp-relays/independent-*.txt' \
+            wisp-scanner/index.html \
+            README.md
+          if git diff --cached --quiet; then
+            echo "already current"
+            exit 0
+          fi
+          git commit -m "Add ${{ steps.discover.outputs.added }} relay(s) from the weekly discovery pass"
+          # sync-scanner can land a commit between checkout and push.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase
+            sleep 5
+          done
+          exit 1
+
+      - name: Summarize
+        if: always()
+        run: |
+          echo "### Weekly discovery" >> "$GITHUB_STEP_SUMMARY"
+          echo "- new relays folded in: ${{ steps.discover.outputs.added }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- additions file: ${{ steps.discover.outputs.additions }}" >> "$GITHUB_STEP_SUMMARY"
